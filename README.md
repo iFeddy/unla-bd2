@@ -1,0 +1,5 @@
+#Base de Datos 2
+
+Espacio de Trabajo:
+
+- WhiteBoard (https://wbd.ms/share/v2/aHR0cHM6Ly93aGl0ZWJvYXJkLm1pY3Jvc29mdC5jb20vYXBpL3YxLjAvd2hpdGVib2FyZHMvcmVkZWVtLzI3MTQzMzJjOWU5YzQ2YzlhMTcwOWMxOWE0MGQ3MzA4X0JCQTcxNzYyLTEyRTAtNDJFMS1CMzI0LTVCMTMxRjQyNEUzRA==)
