@@ -1,0 +1,2902 @@
+[
+  {
+    "id": "5ee13268ea3a333a18e69941",
+    "ticket": 0,
+    "total": "$3,854.20",
+    "formapago": 1,
+    "vendedor": "Marianne King",
+    "cajero": "Brown Shaw",
+    "inventario": [
+      {
+        "id": "5ee1326896020761a1da1327",
+        "tipo": 0,
+        "desc": "velit occaecat eiusmod reprehenderit aliquip culpa est id nisi veniam officia occaecat qui eu laborum",
+        "laboratorio": "proident duis",
+        "codnum": 0,
+        "precio": "$3,989.84"
+      },
+      {
+        "id": "5ee132685c6a31de082f10a5",
+        "tipo": 1,
+        "desc": "ea mollit aliqua elit et eiusmod nulla proident officia nulla ex ullamco laboris eu fugiat",
+        "laboratorio": "proident minim",
+        "codnum": 1,
+        "precio": "$1,010.61"
+      },
+      {
+        "id": "5ee13268720df9738709c6f0",
+        "tipo": 2,
+        "desc": "quis est veniam dolor sint aliqua nostrud sit aute elit fugiat ex officia cupidatat in",
+        "laboratorio": "dolore do",
+        "codnum": 2,
+        "precio": "$1,387.98"
+      },
+      {
+        "id": "5ee132682ebbc34d59cd0ecb",
+        "tipo": 3,
+        "desc": "ut incididunt duis irure est consectetur id consequat culpa dolor sit dolor magna esse proident",
+        "laboratorio": "laboris amet",
+        "codnum": 3,
+        "precio": "$3,264.82"
+      },
+      {
+        "id": "5ee1326848746bc84edf20b9",
+        "tipo": 4,
+        "desc": "adipisicing fugiat veniam aute mollit magna quis qui id fugiat ex consectetur aute occaecat id",
+        "laboratorio": "officia magna",
+        "codnum": 4,
+        "precio": "$2,331.16"
+      },
+      {
+        "id": "5ee132682cd7ab77e1ee12e2",
+        "tipo": 5,
+        "desc": "est deserunt id occaecat dolore laboris aliqua Lorem occaecat nostrud sunt cupidatat ut consectetur ipsum",
+        "laboratorio": "esse ut",
+        "codnum": 5,
+        "precio": "$2,392.36"
+      },
+      {
+        "id": "5ee13268b56b81e9d353266b",
+        "tipo": 6,
+        "desc": "do aliqua id incididunt sit sint dolore pariatur ad consequat proident voluptate sit adipisicing laboris",
+        "laboratorio": "aliqua dolore",
+        "codnum": 6,
+        "precio": "$3,375.05"
+      }
+    ]
+  },
+  {
+    "id": "5ee13268db5adbf08bea6018",
+    "ticket": 1,
+    "total": "$2,508.19",
+    "formapago": 1,
+    "vendedor": "Kirsten Stevenson",
+    "cajero": "Ina Harper",
+    "inventario": [
+      {
+        "id": "5ee1326802cccdc34c757fac",
+        "tipo": 0,
+        "desc": "ullamco voluptate nisi exercitation veniam reprehenderit velit laboris tempor reprehenderit pariatur cupidatat id incididunt eiusmod",
+        "laboratorio": "qui in",
+        "codnum": 0,
+        "precio": "$1,737.30"
+      },
+      {
+        "id": "5ee13268dd93198334414a68",
+        "tipo": 1,
+        "desc": "non tempor veniam incididunt cillum nostrud voluptate quis ex occaecat elit quis pariatur adipisicing in",
+        "laboratorio": "ipsum pariatur",
+        "codnum": 1,
+        "precio": "$3,788.59"
+      },
+      {
+        "id": "5ee13268b2a05308881795da",
+        "tipo": 2,
+        "desc": "in voluptate laborum Lorem elit quis proident elit ipsum velit nostrud reprehenderit proident enim id",
+        "laboratorio": "eu do",
+        "codnum": 2,
+        "precio": "$1,775.74"
+      },
+      {
+        "id": "5ee13268f85a082084015378",
+        "tipo": 3,
+        "desc": "veniam adipisicing dolore velit proident ullamco consectetur consectetur ut sunt Lorem ullamco eiusmod ullamco non",
+        "laboratorio": "esse incididunt",
+        "codnum": 3,
+        "precio": "$1,218.08"
+      },
+      {
+        "id": "5ee132686254393c0b2a9fce",
+        "tipo": 4,
+        "desc": "qui enim laboris nulla sint minim adipisicing quis sunt quis quis id id sit elit",
+        "laboratorio": "ut reprehenderit",
+        "codnum": 4,
+        "precio": "$1,518.80"
+      },
+      {
+        "id": "5ee132685dd95952270a1306",
+        "tipo": 5,
+        "desc": "cupidatat est velit est pariatur cillum laborum officia incididunt ullamco exercitation id cupidatat sit fugiat",
+        "laboratorio": "deserunt eiusmod",
+        "codnum": 5,
+        "precio": "$1,845.15"
+      }
+    ]
+  },
+  {
+    "id": "5ee13268214ab786d9a6c4b2",
+    "ticket": 2,
+    "total": "$3,774.18",
+    "formapago": 2,
+    "vendedor": "Elinor Horn",
+    "cajero": "Olive Cobb",
+    "inventario": [
+      {
+        "id": "5ee13268ec924961195e556c",
+        "tipo": 0,
+        "desc": "anim sint cillum velit fugiat officia consequat excepteur veniam nostrud duis consequat nostrud anim magna",
+        "laboratorio": "deserunt fugiat",
+        "codnum": 0,
+        "precio": "$1,703.54"
+      },
+      {
+        "id": "5ee13268f2f1bde289a4357e",
+        "tipo": 1,
+        "desc": "mollit cillum pariatur pariatur irure nisi eu reprehenderit velit officia duis cillum magna consectetur id",
+        "laboratorio": "ad ut",
+        "codnum": 1,
+        "precio": "$1,635.09"
+      },
+      {
+        "id": "5ee13268a0f645142446c6a4",
+        "tipo": 2,
+        "desc": "velit irure ea cillum eu incididunt dolore veniam laboris eu laborum non quis ipsum adipisicing",
+        "laboratorio": "laboris consectetur",
+        "codnum": 2,
+        "precio": "$2,478.92"
+      },
+      {
+        "id": "5ee13268b45111fd2d413d45",
+        "tipo": 3,
+        "desc": "cupidatat voluptate mollit nulla cillum duis et non aute aute pariatur eiusmod amet in duis",
+        "laboratorio": "veniam tempor",
+        "codnum": 3,
+        "precio": "$1,527.08"
+      },
+      {
+        "id": "5ee13268da1dc60593bd099f",
+        "tipo": 4,
+        "desc": "laboris fugiat fugiat et culpa aliqua ullamco anim nisi ipsum non in culpa excepteur esse",
+        "laboratorio": "sint esse",
+        "codnum": 4,
+        "precio": "$3,971.33"
+      },
+      {
+        "id": "5ee13268f76a47a2978ee3e0",
+        "tipo": 5,
+        "desc": "magna laboris velit sint exercitation quis culpa consequat anim eiusmod non duis tempor aute elit",
+        "laboratorio": "non sunt",
+        "codnum": 5,
+        "precio": "$2,872.58"
+      },
+      {
+        "id": "5ee132686269c2f2c8adac4a",
+        "tipo": 6,
+        "desc": "nostrud magna incididunt pariatur ea commodo ad esse Lorem voluptate id adipisicing culpa aute sit",
+        "laboratorio": "esse cupidatat",
+        "codnum": 6,
+        "precio": "$3,987.45"
+      },
+      {
+        "id": "5ee13268a99e9a2b96f92114",
+        "tipo": 7,
+        "desc": "labore do eiusmod est eiusmod et ullamco reprehenderit proident ea do ut occaecat veniam est",
+        "laboratorio": "occaecat minim",
+        "codnum": 7,
+        "precio": "$3,671.11"
+      },
+      {
+        "id": "5ee132683c207b5faedfa9d2",
+        "tipo": 8,
+        "desc": "quis eu dolor officia tempor irure deserunt aute mollit qui laborum ad proident ut irure",
+        "laboratorio": "commodo ex",
+        "codnum": 8,
+        "precio": "$1,922.38"
+      },
+      {
+        "id": "5ee13268cbc7c702c22226cf",
+        "tipo": 9,
+        "desc": "fugiat esse culpa eiusmod exercitation ipsum est sunt dolor non consequat dolore ipsum dolor aute",
+        "laboratorio": "Lorem nostrud",
+        "codnum": 9,
+        "precio": "$2,738.70"
+      }
+    ]
+  },
+  {
+    "id": "5ee13268014501db46f1f253",
+    "ticket": 3,
+    "total": "$3,233.54",
+    "formapago": 2,
+    "vendedor": "Marian Nash",
+    "cajero": "Ethel Pena",
+    "inventario": [
+      {
+        "id": "5ee132682282c8b8c2ed7fe4",
+        "tipo": 0,
+        "desc": "aute sunt culpa ex fugiat exercitation magna occaecat irure nulla qui veniam et reprehenderit officia",
+        "laboratorio": "laborum dolor",
+        "codnum": 0,
+        "precio": "$2,066.41"
+      },
+      {
+        "id": "5ee13268d5c2ce377c6220a4",
+        "tipo": 1,
+        "desc": "laborum est esse sit sit excepteur incididunt laborum sit dolore fugiat officia consectetur pariatur cupidatat",
+        "laboratorio": "non ad",
+        "codnum": 1,
+        "precio": "$1,114.12"
+      },
+      {
+        "id": "5ee132688e442165d3d28b97",
+        "tipo": 2,
+        "desc": "non labore enim eiusmod sit nisi duis adipisicing commodo anim laborum nostrud magna culpa aliqua",
+        "laboratorio": "adipisicing pariatur",
+        "codnum": 2,
+        "precio": "$2,802.36"
+      },
+      {
+        "id": "5ee132685c56600a5878750d",
+        "tipo": 3,
+        "desc": "et in magna deserunt dolor nostrud commodo adipisicing velit esse excepteur cupidatat deserunt elit nulla",
+        "laboratorio": "fugiat mollit",
+        "codnum": 3,
+        "precio": "$1,610.22"
+      },
+      {
+        "id": "5ee13268c4ab595916558ceb",
+        "tipo": 4,
+        "desc": "dolore irure anim consequat exercitation id enim aliqua veniam nostrud duis ipsum aliqua magna veniam",
+        "laboratorio": "quis voluptate",
+        "codnum": 4,
+        "precio": "$3,909.38"
+      },
+      {
+        "id": "5ee1326889ff4cc741884e49",
+        "tipo": 5,
+        "desc": "esse veniam tempor consectetur ullamco amet et dolor veniam id fugiat Lorem minim eiusmod laboris",
+        "laboratorio": "magna tempor",
+        "codnum": 5,
+        "precio": "$1,365.41"
+      },
+      {
+        "id": "5ee13268d8d7b97873b1fde5",
+        "tipo": 6,
+        "desc": "do duis excepteur esse id ad id excepteur eiusmod cillum duis aliqua exercitation in eu",
+        "laboratorio": "anim enim",
+        "codnum": 6,
+        "precio": "$3,309.75"
+      },
+      {
+        "id": "5ee13268f165639a7949f77a",
+        "tipo": 7,
+        "desc": "minim eiusmod ad officia occaecat commodo enim do velit laborum eu voluptate veniam minim ullamco",
+        "laboratorio": "adipisicing excepteur",
+        "codnum": 7,
+        "precio": "$3,082.91"
+      }
+    ]
+  },
+  {
+    "id": "5ee13268ad03c8f91db2248c",
+    "ticket": 4,
+    "total": "$2,369.89",
+    "formapago": 2,
+    "vendedor": "Jackie Ashley",
+    "cajero": "Ashley Hunt",
+    "inventario": [
+      {
+        "id": "5ee132687d70b42954f9eb64",
+        "tipo": 0,
+        "desc": "elit commodo et proident minim mollit amet enim sunt ex officia aute sunt in sunt",
+        "laboratorio": "elit cupidatat",
+        "codnum": 0,
+        "precio": "$2,256.29"
+      },
+      {
+        "id": "5ee132683665487deb57b56a",
+        "tipo": 1,
+        "desc": "qui anim ad velit pariatur anim elit ad esse est deserunt adipisicing minim Lorem officia",
+        "laboratorio": "dolor deserunt",
+        "codnum": 1,
+        "precio": "$3,535.61"
+      },
+      {
+        "id": "5ee13268e4c59afe8db4a333",
+        "tipo": 2,
+        "desc": "consequat velit reprehenderit mollit ea consequat consequat ut eu culpa eiusmod dolore quis et enim",
+        "laboratorio": "irure eiusmod",
+        "codnum": 2,
+        "precio": "$3,974.30"
+      },
+      {
+        "id": "5ee1326881fce1582172ad83",
+        "tipo": 3,
+        "desc": "nostrud mollit culpa ea enim elit nostrud aliquip magna occaecat aute pariatur eiusmod eiusmod aliqua",
+        "laboratorio": "exercitation laboris",
+        "codnum": 3,
+        "precio": "$2,285.85"
+      },
+      {
+        "id": "5ee1326828ab593edac4c009",
+        "tipo": 4,
+        "desc": "aliquip commodo aliquip consectetur ipsum voluptate sint commodo labore est qui fugiat cupidatat non dolore",
+        "laboratorio": "consectetur deserunt",
+        "codnum": 4,
+        "precio": "$3,711.06"
+      },
+      {
+        "id": "5ee132688e4cc5f4365803e2",
+        "tipo": 5,
+        "desc": "eiusmod mollit aliqua nostrud fugiat dolor est aute sunt incididunt commodo excepteur enim duis et",
+        "laboratorio": "elit dolor",
+        "codnum": 5,
+        "precio": "$3,738.51"
+      },
+      {
+        "id": "5ee13268a6184696459e7a79",
+        "tipo": 6,
+        "desc": "qui dolore laboris elit laboris magna commodo proident irure voluptate anim mollit tempor sit dolore",
+        "laboratorio": "quis nulla",
+        "codnum": 6,
+        "precio": "$3,027.13"
+      },
+      {
+        "id": "5ee132687d8401958daf867a",
+        "tipo": 7,
+        "desc": "veniam id ea exercitation quis irure excepteur officia cillum aliqua dolore ut mollit labore exercitation",
+        "laboratorio": "incididunt dolor",
+        "codnum": 7,
+        "precio": "$1,376.18"
+      },
+      {
+        "id": "5ee13268f571bc765994b5ea",
+        "tipo": 8,
+        "desc": "velit magna exercitation sunt excepteur consectetur nulla cupidatat commodo sint nulla fugiat occaecat enim ut",
+        "laboratorio": "fugiat nisi",
+        "codnum": 8,
+        "precio": "$2,038.52"
+      },
+      {
+        "id": "5ee13268f15eb155734530dc",
+        "tipo": 9,
+        "desc": "commodo sint excepteur ullamco laboris eu in excepteur velit culpa adipisicing qui duis eiusmod culpa",
+        "laboratorio": "adipisicing exercitation",
+        "codnum": 9,
+        "precio": "$1,538.06"
+      }
+    ]
+  },
+  {
+    "id": "5ee132686c618765b9bcff2a",
+    "ticket": 5,
+    "total": "$3,310.64",
+    "formapago": 2,
+    "vendedor": "Oneal Chase",
+    "cajero": "Manuela Baldwin",
+    "inventario": [
+      {
+        "id": "5ee13268ef52a5bfbad55406",
+        "tipo": 0,
+        "desc": "fugiat eiusmod duis nisi velit esse incididunt aliqua Lorem laborum sint magna non sunt ex",
+        "laboratorio": "in consectetur",
+        "codnum": 0,
+        "precio": "$3,486.37"
+      },
+      {
+        "id": "5ee132689e4e2b4ea286e7ff",
+        "tipo": 1,
+        "desc": "nostrud magna elit commodo tempor id sit cillum esse Lorem minim exercitation sunt officia ad",
+        "laboratorio": "quis ad",
+        "codnum": 1,
+        "precio": "$1,464.83"
+      },
+      {
+        "id": "5ee132685dcfe8b3a159973e",
+        "tipo": 2,
+        "desc": "veniam qui occaecat enim duis id magna aliqua in minim eiusmod ex nulla irure nostrud",
+        "laboratorio": "non labore",
+        "codnum": 2,
+        "precio": "$3,409.25"
+      },
+      {
+        "id": "5ee132683900278844237a1f",
+        "tipo": 3,
+        "desc": "consectetur duis laboris duis cupidatat quis quis laboris voluptate consequat ullamco occaecat quis nulla consectetur",
+        "laboratorio": "velit mollit",
+        "codnum": 3,
+        "precio": "$1,579.64"
+      },
+      {
+        "id": "5ee132682f9a914cc27e19b6",
+        "tipo": 4,
+        "desc": "veniam et proident nisi laboris eiusmod est excepteur adipisicing exercitation eu est nisi minim pariatur",
+        "laboratorio": "commodo in",
+        "codnum": 4,
+        "precio": "$1,431.39"
+      },
+      {
+        "id": "5ee1326872f057b339d43fd1",
+        "tipo": 5,
+        "desc": "laboris eiusmod commodo nostrud incididunt eu reprehenderit proident fugiat ut nulla reprehenderit aliquip sunt fugiat",
+        "laboratorio": "veniam ut",
+        "codnum": 5,
+        "precio": "$1,529.06"
+      },
+      {
+        "id": "5ee132689487f80ac1781fe2",
+        "tipo": 6,
+        "desc": "tempor excepteur in id adipisicing commodo ullamco deserunt exercitation adipisicing do exercitation exercitation ullamco est",
+        "laboratorio": "enim culpa",
+        "codnum": 6,
+        "precio": "$1,556.62"
+      },
+      {
+        "id": "5ee13268fea3cc2a2e5bc883",
+        "tipo": 7,
+        "desc": "ad amet fugiat elit esse sit enim nostrud ut veniam sint proident sint in amet",
+        "laboratorio": "occaecat eu",
+        "codnum": 7,
+        "precio": "$2,487.43"
+      }
+    ]
+  },
+  {
+    "id": "5ee13268b5d413676352eed7",
+    "ticket": 6,
+    "total": "$2,461.40",
+    "formapago": 2,
+    "vendedor": "Beard Mcclain",
+    "cajero": "Kaye Mullins",
+    "inventario": [
+      {
+        "id": "5ee13268c40075f3f5e43927",
+        "tipo": 0,
+        "desc": "aliquip duis pariatur do nisi id est ad mollit excepteur ea est quis proident nostrud",
+        "laboratorio": "esse officia",
+        "codnum": 0,
+        "precio": "$1,165.77"
+      },
+      {
+        "id": "5ee13268765415ea3d7e6176",
+        "tipo": 1,
+        "desc": "amet aute mollit non officia mollit nostrud esse ad amet id cillum id laborum veniam",
+        "laboratorio": "quis sint",
+        "codnum": 1,
+        "precio": "$3,717.18"
+      },
+      {
+        "id": "5ee13268209db1446c553379",
+        "tipo": 2,
+        "desc": "tempor eiusmod ullamco consectetur tempor aute cupidatat nisi nulla labore qui quis voluptate veniam amet",
+        "laboratorio": "aliqua eiusmod",
+        "codnum": 2,
+        "precio": "$1,621.69"
+      },
+      {
+        "id": "5ee132689fa6c3fe771383ae",
+        "tipo": 3,
+        "desc": "adipisicing aliquip reprehenderit est qui ipsum nulla enim eu anim irure ipsum amet sit aliquip",
+        "laboratorio": "in culpa",
+        "codnum": 3,
+        "precio": "$1,570.17"
+      },
+      {
+        "id": "5ee132681b5d3360cc945fbb",
+        "tipo": 4,
+        "desc": "id sit aute ea labore in consequat tempor laborum non ex anim incididunt qui nulla",
+        "laboratorio": "sit nulla",
+        "codnum": 4,
+        "precio": "$2,076.06"
+      },
+      {
+        "id": "5ee13268d9bcc343d900cc47",
+        "tipo": 5,
+        "desc": "pariatur cillum mollit laboris ipsum consequat labore excepteur et amet Lorem sunt deserunt tempor non",
+        "laboratorio": "culpa in",
+        "codnum": 5,
+        "precio": "$3,872.93"
+      }
+    ]
+  },
+  {
+    "id": "5ee1326861819696ad424e21",
+    "ticket": 7,
+    "total": "$1,633.42",
+    "formapago": 1,
+    "vendedor": "Merritt Wilkinson",
+    "cajero": "Church Davis",
+    "inventario": [
+      {
+        "id": "5ee13268fa6ccb3784f79b53",
+        "tipo": 0,
+        "desc": "mollit culpa aliqua tempor enim proident velit minim velit sunt ea ut nostrud aliqua consequat",
+        "laboratorio": "consectetur amet",
+        "codnum": 0,
+        "precio": "$3,394.24"
+      },
+      {
+        "id": "5ee13268fda6006d36d3381f",
+        "tipo": 1,
+        "desc": "magna proident labore eu irure excepteur officia minim reprehenderit quis ad duis velit esse ut",
+        "laboratorio": "cupidatat irure",
+        "codnum": 1,
+        "precio": "$2,275.66"
+      },
+      {
+        "id": "5ee1326891671484f6277bad",
+        "tipo": 2,
+        "desc": "anim voluptate velit elit cillum aliquip veniam esse magna do occaecat ea occaecat sint irure",
+        "laboratorio": "sit aute",
+        "codnum": 2,
+        "precio": "$1,517.00"
+      },
+      {
+        "id": "5ee132686ffeeb37f97c0a4a",
+        "tipo": 3,
+        "desc": "culpa velit magna sunt aliquip anim ullamco exercitation et deserunt sint nisi magna esse dolore",
+        "laboratorio": "occaecat tempor",
+        "codnum": 3,
+        "precio": "$3,981.86"
+      },
+      {
+        "id": "5ee1326868d085bd330ac8e7",
+        "tipo": 4,
+        "desc": "nisi duis excepteur officia aliquip consectetur elit qui sunt do aliqua voluptate magna quis amet",
+        "laboratorio": "officia quis",
+        "codnum": 4,
+        "precio": "$3,818.75"
+      },
+      {
+        "id": "5ee13268bf1c95ea8f121ee5",
+        "tipo": 5,
+        "desc": "aute enim reprehenderit aute irure nisi quis anim nisi in ut duis aute mollit tempor",
+        "laboratorio": "proident fugiat",
+        "codnum": 5,
+        "precio": "$2,744.29"
+      },
+      {
+        "id": "5ee13268ae13edaab95a8eda",
+        "tipo": 6,
+        "desc": "eu sint labore ipsum quis non enim deserunt magna est voluptate mollit exercitation aliquip irure",
+        "laboratorio": "esse tempor",
+        "codnum": 6,
+        "precio": "$3,682.78"
+      },
+      {
+        "id": "5ee13268a51e7688fb4fcc28",
+        "tipo": 7,
+        "desc": "tempor est excepteur ut sit cillum enim et quis sint fugiat ut eiusmod nisi aliqua",
+        "laboratorio": "aute in",
+        "codnum": 7,
+        "precio": "$2,272.88"
+      },
+      {
+        "id": "5ee132686f9f23d6adf6e444",
+        "tipo": 8,
+        "desc": "id ullamco commodo aliquip laboris ullamco quis irure deserunt aliqua veniam tempor est id est",
+        "laboratorio": "adipisicing commodo",
+        "codnum": 8,
+        "precio": "$1,107.03"
+      },
+      {
+        "id": "5ee132685db1a4d521ffe222",
+        "tipo": 9,
+        "desc": "ea do in dolore sit esse nostrud sit sint consequat est elit exercitation qui et",
+        "laboratorio": "commodo aliqua",
+        "codnum": 9,
+        "precio": "$3,173.29"
+      }
+    ]
+  },
+  {
+    "id": "5ee132684a6fae08cc1f59ed",
+    "ticket": 8,
+    "total": "$2,799.21",
+    "formapago": 3,
+    "vendedor": "Lynnette Guy",
+    "cajero": "Holland Flowers",
+    "inventario": [
+      {
+        "id": "5ee132687ef21d93f3189dfd",
+        "tipo": 0,
+        "desc": "ipsum Lorem occaecat aliquip minim tempor elit ea aliqua reprehenderit voluptate et ea ut et",
+        "laboratorio": "excepteur cupidatat",
+        "codnum": 0,
+        "precio": "$2,816.53"
+      },
+      {
+        "id": "5ee1326818ffbf3ce7e199ea",
+        "tipo": 1,
+        "desc": "nulla velit ipsum dolor ad pariatur anim sint aliquip esse pariatur sunt voluptate duis sunt",
+        "laboratorio": "officia velit",
+        "codnum": 1,
+        "precio": "$1,436.21"
+      }
+    ]
+  },
+  {
+    "id": "5ee1326827f7f92f1aeaa351",
+    "ticket": 9,
+    "total": "$3,131.84",
+    "formapago": 2,
+    "vendedor": "Medina Ferrell",
+    "cajero": "White Sanchez",
+    "inventario": [
+      {
+        "id": "5ee13268490b05148365f0d4",
+        "tipo": 0,
+        "desc": "duis cillum minim Lorem consequat dolor anim magna reprehenderit excepteur reprehenderit dolore eiusmod laboris nulla",
+        "laboratorio": "dolor voluptate",
+        "codnum": 0,
+        "precio": "$3,073.53"
+      },
+      {
+        "id": "5ee132680db0791c2387ddd0",
+        "tipo": 1,
+        "desc": "deserunt elit minim dolore consequat quis eiusmod tempor dolore ullamco dolor non nisi mollit nulla",
+        "laboratorio": "fugiat labore",
+        "codnum": 1,
+        "precio": "$1,957.00"
+      }
+    ]
+  },
+  {
+    "id": "5ee13268bcb4be033707aa85",
+    "ticket": 10,
+    "total": "$2,041.79",
+    "formapago": 2,
+    "vendedor": "Middleton Short",
+    "cajero": "Gallagher Fischer",
+    "inventario": [
+      {
+        "id": "5ee13268a330a6748a4a009e",
+        "tipo": 0,
+        "desc": "minim aliqua aliqua ea magna Lorem in consequat veniam ea est exercitation aute incididunt Lorem",
+        "laboratorio": "nulla elit",
+        "codnum": 0,
+        "precio": "$3,186.08"
+      },
+      {
+        "id": "5ee13268e5f011db340e0245",
+        "tipo": 1,
+        "desc": "adipisicing Lorem fugiat amet ad non do id Lorem consectetur irure elit eu pariatur consequat",
+        "laboratorio": "quis velit",
+        "codnum": 1,
+        "precio": "$2,069.80"
+      },
+      {
+        "id": "5ee13268a0717f5b8b05792e",
+        "tipo": 2,
+        "desc": "qui culpa ea esse cillum fugiat occaecat esse quis sunt consequat labore ad adipisicing culpa",
+        "laboratorio": "eu cupidatat",
+        "codnum": 2,
+        "precio": "$3,891.64"
+      },
+      {
+        "id": "5ee13268a96b4318e284508d",
+        "tipo": 3,
+        "desc": "eu minim ipsum deserunt labore excepteur ut officia esse ea aliquip nulla aute duis magna",
+        "laboratorio": "cupidatat aliquip",
+        "codnum": 3,
+        "precio": "$3,251.94"
+      },
+      {
+        "id": "5ee1326869a18e1ab1b76e82",
+        "tipo": 4,
+        "desc": "adipisicing laboris minim ipsum mollit veniam proident aliquip in anim cupidatat ex id sit consequat",
+        "laboratorio": "nisi aliquip",
+        "codnum": 4,
+        "precio": "$2,684.93"
+      },
+      {
+        "id": "5ee13268f0987319e3afa6ac",
+        "tipo": 5,
+        "desc": "quis occaecat et esse duis Lorem incididunt in pariatur occaecat sunt dolore ea do enim",
+        "laboratorio": "dolor adipisicing",
+        "codnum": 5,
+        "precio": "$3,199.96"
+      },
+      {
+        "id": "5ee1326852b4e83f2c0820cb",
+        "tipo": 6,
+        "desc": "laboris sit laborum cupidatat eu excepteur velit aliqua Lorem sint veniam consequat eiusmod incididunt ea",
+        "laboratorio": "Lorem Lorem",
+        "codnum": 6,
+        "precio": "$1,721.14"
+      },
+      {
+        "id": "5ee1326861307a256e691e10",
+        "tipo": 7,
+        "desc": "non id cillum veniam esse amet dolore nulla voluptate duis in exercitation dolore nulla ex",
+        "laboratorio": "velit incididunt",
+        "codnum": 7,
+        "precio": "$1,882.20"
+      }
+    ]
+  },
+  {
+    "id": "5ee132682492830f63ce7daf",
+    "ticket": 11,
+    "total": "$2,303.09",
+    "formapago": 2,
+    "vendedor": "Janice Ford",
+    "cajero": "Christie Herring",
+    "inventario": [
+      {
+        "id": "5ee13268671bc0cd8a3a07cc",
+        "tipo": 0,
+        "desc": "nostrud irure enim aliqua nulla commodo laborum dolore aliqua dolor mollit fugiat laboris elit veniam",
+        "laboratorio": "ullamco culpa",
+        "codnum": 0,
+        "precio": "$3,650.13"
+      },
+      {
+        "id": "5ee13268b5036fdda9b4a85d",
+        "tipo": 1,
+        "desc": "consequat consectetur ut in ea sunt elit adipisicing excepteur deserunt laborum aliquip velit id irure",
+        "laboratorio": "veniam consectetur",
+        "codnum": 1,
+        "precio": "$1,542.38"
+      }
+    ]
+  },
+  {
+    "id": "5ee132688aa21b8a2e2e2f73",
+    "ticket": 12,
+    "total": "$1,088.25",
+    "formapago": 3,
+    "vendedor": "Mosley Vinson",
+    "cajero": "Jenna Velazquez",
+    "inventario": [
+      {
+        "id": "5ee1326843096df2271e97e9",
+        "tipo": 0,
+        "desc": "culpa enim est nisi laboris anim tempor deserunt non nisi mollit amet ullamco Lorem labore",
+        "laboratorio": "consectetur nostrud",
+        "codnum": 0,
+        "precio": "$2,866.43"
+      },
+      {
+        "id": "5ee13268439c688a94c87348",
+        "tipo": 1,
+        "desc": "voluptate officia labore voluptate commodo consectetur excepteur nulla incididunt quis est voluptate quis in officia",
+        "laboratorio": "aliqua ullamco",
+        "codnum": 1,
+        "precio": "$3,643.42"
+      },
+      {
+        "id": "5ee1326823ac6deda6317e29",
+        "tipo": 2,
+        "desc": "sit nulla et ut sunt labore fugiat aute pariatur elit magna aliquip ex adipisicing non",
+        "laboratorio": "excepteur commodo",
+        "codnum": 2,
+        "precio": "$3,472.64"
+      },
+      {
+        "id": "5ee132687d811fdacb834412",
+        "tipo": 3,
+        "desc": "est ex esse non ipsum consequat ut tempor reprehenderit reprehenderit elit laborum esse exercitation incididunt",
+        "laboratorio": "cillum laborum",
+        "codnum": 3,
+        "precio": "$3,613.36"
+      },
+      {
+        "id": "5ee1326839a2f7d4085aa1a0",
+        "tipo": 4,
+        "desc": "aute elit magna laboris voluptate culpa sit nostrud consequat ex in consectetur dolore laboris culpa",
+        "laboratorio": "proident nulla",
+        "codnum": 4,
+        "precio": "$2,777.70"
+      },
+      {
+        "id": "5ee13268be736868563f1c18",
+        "tipo": 5,
+        "desc": "velit laborum aute laborum qui nisi proident mollit deserunt ea cupidatat consequat pariatur excepteur ipsum",
+        "laboratorio": "sunt excepteur",
+        "codnum": 5,
+        "precio": "$1,669.13"
+      },
+      {
+        "id": "5ee1326889d53d1e0071f00b",
+        "tipo": 6,
+        "desc": "ut qui consequat mollit id cupidatat mollit consequat culpa pariatur aute nulla exercitation tempor commodo",
+        "laboratorio": "dolore aliquip",
+        "codnum": 6,
+        "precio": "$3,617.31"
+      },
+      {
+        "id": "5ee132683d3b1560705d8bee",
+        "tipo": 7,
+        "desc": "excepteur laboris labore dolor velit aliqua id sunt consequat labore anim tempor elit cupidatat magna",
+        "laboratorio": "minim labore",
+        "codnum": 7,
+        "precio": "$3,545.57"
+      },
+      {
+        "id": "5ee132681e1f9736c687001d",
+        "tipo": 8,
+        "desc": "Lorem aute aliquip sint magna dolor enim exercitation aute amet aliqua proident cupidatat et sit",
+        "laboratorio": "deserunt ullamco",
+        "codnum": 8,
+        "precio": "$2,245.77"
+      }
+    ]
+  },
+  {
+    "id": "5ee132683847b67d517433b6",
+    "ticket": 13,
+    "total": "$2,620.59",
+    "formapago": 2,
+    "vendedor": "Franklin Bentley",
+    "cajero": "Chelsea Lawson",
+    "inventario": [
+      {
+        "id": "5ee132686dd69fe24556c333",
+        "tipo": 0,
+        "desc": "esse eu eu laborum fugiat dolore voluptate Lorem magna do exercitation do reprehenderit quis ex",
+        "laboratorio": "velit irure",
+        "codnum": 0,
+        "precio": "$1,404.08"
+      }
+    ]
+  },
+  {
+    "id": "5ee13268da23dd88d52d7dfa",
+    "ticket": 14,
+    "total": "$1,285.73",
+    "formapago": 2,
+    "vendedor": "Alta Vaughan",
+    "cajero": "Myrna Pace",
+    "inventario": [
+      {
+        "id": "5ee13268e7bb6089863b8942",
+        "tipo": 0,
+        "desc": "quis ad laboris velit nostrud occaecat in laborum tempor aliquip proident occaecat culpa aliqua elit",
+        "laboratorio": "ipsum irure",
+        "codnum": 0,
+        "precio": "$2,098.46"
+      },
+      {
+        "id": "5ee132687eb9e0715ab0a51f",
+        "tipo": 1,
+        "desc": "qui velit sit aliqua anim commodo voluptate qui dolor consectetur fugiat sit minim nostrud ex",
+        "laboratorio": "aute enim",
+        "codnum": 1,
+        "precio": "$1,899.25"
+      }
+    ]
+  },
+  {
+    "id": "5ee13268d86ec766ec15ea79",
+    "ticket": 15,
+    "total": "$2,156.61",
+    "formapago": 2,
+    "vendedor": "Shepard Savage",
+    "cajero": "Carole Byers",
+    "inventario": [
+      {
+        "id": "5ee132680ab18ce8335e845f",
+        "tipo": 0,
+        "desc": "in pariatur laboris elit laborum in tempor ea tempor est dolor quis id aute nisi",
+        "laboratorio": "veniam et",
+        "codnum": 0,
+        "precio": "$2,238.85"
+      }
+    ]
+  },
+  {
+    "id": "5ee13268138e6bb1bfe098fc",
+    "ticket": 16,
+    "total": "$3,075.62",
+    "formapago": 3,
+    "vendedor": "Foster Burris",
+    "cajero": "Gillespie Chan",
+    "inventario": [
+      {
+        "id": "5ee13268346d57a0c4d9f6bb",
+        "tipo": 0,
+        "desc": "consectetur mollit voluptate dolor deserunt labore sint ex esse qui ad consectetur quis et ipsum",
+        "laboratorio": "do elit",
+        "codnum": 0,
+        "precio": "$2,763.59"
+      },
+      {
+        "id": "5ee13268b6b7f73cb0468fd7",
+        "tipo": 1,
+        "desc": "velit id velit cupidatat ad cupidatat eiusmod mollit quis culpa sint nulla dolore ea esse",
+        "laboratorio": "veniam Lorem",
+        "codnum": 1,
+        "precio": "$1,574.33"
+      },
+      {
+        "id": "5ee132683be056cb335d3b28",
+        "tipo": 2,
+        "desc": "excepteur aliqua nisi anim ullamco nulla culpa in sint dolor irure enim reprehenderit ad occaecat",
+        "laboratorio": "velit cillum",
+        "codnum": 2,
+        "precio": "$1,865.27"
+      },
+      {
+        "id": "5ee13268aaf0b7821080308d",
+        "tipo": 3,
+        "desc": "ullamco nisi quis velit ullamco nisi elit ex do eiusmod laboris aute ex consectetur aute",
+        "laboratorio": "labore nisi",
+        "codnum": 3,
+        "precio": "$2,093.42"
+      },
+      {
+        "id": "5ee132683ce0eab8cfbc2ba1",
+        "tipo": 4,
+        "desc": "eiusmod cillum sunt esse ut minim velit cupidatat eiusmod aute ad labore enim qui eu",
+        "laboratorio": "ut minim",
+        "codnum": 4,
+        "precio": "$2,067.74"
+      },
+      {
+        "id": "5ee1326874ec12474572f426",
+        "tipo": 5,
+        "desc": "dolore ea id id ipsum eu consectetur incididunt enim velit incididunt ex commodo non exercitation",
+        "laboratorio": "in nulla",
+        "codnum": 5,
+        "precio": "$1,613.05"
+      },
+      {
+        "id": "5ee13268840951da5fb18a4c",
+        "tipo": 6,
+        "desc": "velit commodo veniam qui excepteur et in veniam Lorem nisi aliqua dolore ad deserunt velit",
+        "laboratorio": "ad enim",
+        "codnum": 6,
+        "precio": "$2,280.93"
+      },
+      {
+        "id": "5ee13268cae66a468fe2a783",
+        "tipo": 7,
+        "desc": "duis sunt laborum aliquip esse exercitation laborum non exercitation ad non excepteur eu quis enim",
+        "laboratorio": "occaecat duis",
+        "codnum": 7,
+        "precio": "$1,577.13"
+      },
+      {
+        "id": "5ee13268bf3f7645f0a78b7f",
+        "tipo": 8,
+        "desc": "eu anim tempor dolore mollit dolore ipsum ullamco minim cillum aliqua excepteur nulla est consequat",
+        "laboratorio": "Lorem consectetur",
+        "codnum": 8,
+        "precio": "$1,660.71"
+      }
+    ]
+  },
+  {
+    "id": "5ee13268c5bef1e28dc5c474",
+    "ticket": 17,
+    "total": "$1,477.53",
+    "formapago": 3,
+    "vendedor": "Andrea Moran",
+    "cajero": "Karina Myers",
+    "inventario": [
+      {
+        "id": "5ee132681cdaf74dd4657d1c",
+        "tipo": 0,
+        "desc": "irure deserunt dolor magna Lorem nostrud nostrud culpa duis sit excepteur eu proident ad nisi",
+        "laboratorio": "nostrud qui",
+        "codnum": 0,
+        "precio": "$2,330.45"
+      },
+      {
+        "id": "5ee132683d696ffaaa8a00bd",
+        "tipo": 1,
+        "desc": "in duis culpa cillum officia adipisicing fugiat cupidatat sit ipsum adipisicing tempor id officia commodo",
+        "laboratorio": "enim non",
+        "codnum": 1,
+        "precio": "$3,315.43"
+      },
+      {
+        "id": "5ee132689df6883a12bd4e79",
+        "tipo": 2,
+        "desc": "eu excepteur consequat aliqua dolore sunt officia enim laborum magna anim Lorem minim cillum laboris",
+        "laboratorio": "ad sint",
+        "codnum": 2,
+        "precio": "$1,133.07"
+      },
+      {
+        "id": "5ee1326840c52972f5839bdf",
+        "tipo": 3,
+        "desc": "enim culpa officia commodo ad nostrud cupidatat excepteur quis enim nostrud est consectetur dolor non",
+        "laboratorio": "id Lorem",
+        "codnum": 3,
+        "precio": "$1,411.63"
+      },
+      {
+        "id": "5ee13268f82c4267c0d8b5fb",
+        "tipo": 4,
+        "desc": "nostrud minim irure deserunt excepteur incididunt tempor reprehenderit commodo non ex ad eu Lorem sit",
+        "laboratorio": "sint laboris",
+        "codnum": 4,
+        "precio": "$1,813.31"
+      },
+      {
+        "id": "5ee132684e7524cf49c7fe57",
+        "tipo": 5,
+        "desc": "adipisicing labore aliquip officia nostrud ea id eu do amet laborum exercitation incididunt enim non",
+        "laboratorio": "enim aliqua",
+        "codnum": 5,
+        "precio": "$3,643.50"
+      },
+      {
+        "id": "5ee13268ca3c06b67fec5d52",
+        "tipo": 6,
+        "desc": "ullamco laborum incididunt minim eu laborum excepteur excepteur adipisicing velit officia reprehenderit et duis enim",
+        "laboratorio": "ut magna",
+        "codnum": 6,
+        "precio": "$1,915.70"
+      },
+      {
+        "id": "5ee13268d83f85c76cd979ae",
+        "tipo": 7,
+        "desc": "consequat occaecat est consequat commodo ex mollit deserunt aliqua sunt pariatur officia anim aliqua elit",
+        "laboratorio": "voluptate excepteur",
+        "codnum": 7,
+        "precio": "$2,061.59"
+      },
+      {
+        "id": "5ee13268625999103b1d2231",
+        "tipo": 8,
+        "desc": "proident labore deserunt culpa in sit aliquip excepteur dolore aliqua ea incididunt ut incididunt dolore",
+        "laboratorio": "commodo magna",
+        "codnum": 8,
+        "precio": "$2,530.22"
+      }
+    ]
+  },
+  {
+    "id": "5ee13268595f8f0ac14ee93a",
+    "ticket": 18,
+    "total": "$2,914.47",
+    "formapago": 3,
+    "vendedor": "Hawkins Crosby",
+    "cajero": "Rodgers Avery",
+    "inventario": [
+      {
+        "id": "5ee132685ab8a7e8e24f382f",
+        "tipo": 0,
+        "desc": "culpa ullamco incididunt adipisicing esse nisi irure nulla qui fugiat nisi incididunt dolore mollit sit",
+        "laboratorio": "ad voluptate",
+        "codnum": 0,
+        "precio": "$2,580.37"
+      }
+    ]
+  },
+  {
+    "id": "5ee13268b427b4bbf47eef1d",
+    "ticket": 19,
+    "total": "$3,019.43",
+    "formapago": 3,
+    "vendedor": "Florence Gross",
+    "cajero": "Marcella Hopkins",
+    "inventario": [
+      {
+        "id": "5ee132682cc97f605ec44558",
+        "tipo": 0,
+        "desc": "nulla adipisicing irure eiusmod incididunt nulla minim laborum dolore cillum non labore incididunt fugiat non",
+        "laboratorio": "aute laboris",
+        "codnum": 0,
+        "precio": "$3,663.19"
+      },
+      {
+        "id": "5ee13268ef30a15948592bec",
+        "tipo": 1,
+        "desc": "proident labore laboris irure occaecat reprehenderit sint deserunt elit cillum irure esse non ut Lorem",
+        "laboratorio": "cupidatat eu",
+        "codnum": 1,
+        "precio": "$2,283.47"
+      },
+      {
+        "id": "5ee13268ea95bbfc20ad700b",
+        "tipo": 2,
+        "desc": "minim exercitation labore labore esse culpa labore ex qui magna qui consectetur nostrud do reprehenderit",
+        "laboratorio": "aute ex",
+        "codnum": 2,
+        "precio": "$3,374.94"
+      },
+      {
+        "id": "5ee1326825d655391cce7c42",
+        "tipo": 3,
+        "desc": "eiusmod qui est Lorem magna adipisicing exercitation irure duis qui culpa ex Lorem do ullamco",
+        "laboratorio": "adipisicing dolor",
+        "codnum": 3,
+        "precio": "$3,456.86"
+      },
+      {
+        "id": "5ee13268559a2324a83be004",
+        "tipo": 4,
+        "desc": "qui do quis cillum laboris proident cupidatat tempor ad et fugiat ad irure incididunt id",
+        "laboratorio": "nostrud cillum",
+        "codnum": 4,
+        "precio": "$3,945.57"
+      }
+    ]
+  },
+  {
+    "id": "5ee132683fe7165b9558af4f",
+    "ticket": 20,
+    "total": "$3,304.21",
+    "formapago": 3,
+    "vendedor": "Andrews Glass",
+    "cajero": "Brittney Casey",
+    "inventario": [
+      {
+        "id": "5ee132681408c4790d256999",
+        "tipo": 0,
+        "desc": "fugiat nostrud do nulla aliquip velit laborum aliqua cupidatat esse elit dolore veniam irure consectetur",
+        "laboratorio": "amet tempor",
+        "codnum": 0,
+        "precio": "$1,270.70"
+      },
+      {
+        "id": "5ee13268775712b79c91250e",
+        "tipo": 1,
+        "desc": "consectetur laborum ex in dolore exercitation labore id et laborum minim adipisicing minim sunt reprehenderit",
+        "laboratorio": "culpa magna",
+        "codnum": 1,
+        "precio": "$2,217.79"
+      },
+      {
+        "id": "5ee132684769bfd12920cda3",
+        "tipo": 2,
+        "desc": "magna nostrud elit consectetur minim eu exercitation adipisicing veniam veniam eu esse ea aliqua et",
+        "laboratorio": "tempor dolore",
+        "codnum": 2,
+        "precio": "$2,291.55"
+      },
+      {
+        "id": "5ee13268596553e689a4ebb7",
+        "tipo": 3,
+        "desc": "deserunt velit ea incididunt ipsum non non non ex velit proident pariatur dolor laborum sint",
+        "laboratorio": "ipsum commodo",
+        "codnum": 3,
+        "precio": "$1,145.49"
+      },
+      {
+        "id": "5ee132689e912649eb9bb996",
+        "tipo": 4,
+        "desc": "dolor ad ullamco laborum sit ea amet voluptate aute labore aute dolor do ex amet",
+        "laboratorio": "sint ea",
+        "codnum": 4,
+        "precio": "$2,947.90"
+      },
+      {
+        "id": "5ee132685412767df521dd41",
+        "tipo": 5,
+        "desc": "aute tempor mollit laboris dolor amet laborum dolor pariatur cupidatat sint do sint laborum culpa",
+        "laboratorio": "proident elit",
+        "codnum": 5,
+        "precio": "$1,870.75"
+      },
+      {
+        "id": "5ee13268e56c0c1e61b40f25",
+        "tipo": 6,
+        "desc": "non irure dolor et ipsum pariatur est sunt qui cillum minim nulla nostrud ut aliquip",
+        "laboratorio": "dolor officia",
+        "codnum": 6,
+        "precio": "$3,917.94"
+      }
+    ]
+  },
+  {
+    "id": "5ee13268ceadda6e2bf65670",
+    "ticket": 21,
+    "total": "$2,631.44",
+    "formapago": 1,
+    "vendedor": "Cornelia Elliott",
+    "cajero": "Adela Mcbride",
+    "inventario": [
+      {
+        "id": "5ee132686200188aad7f9111",
+        "tipo": 0,
+        "desc": "nulla ea ex veniam sunt do ipsum et nostrud ullamco magna proident laboris sunt veniam",
+        "laboratorio": "nisi et",
+        "codnum": 0,
+        "precio": "$2,767.69"
+      },
+      {
+        "id": "5ee13268f300fa7d5cb940a1",
+        "tipo": 1,
+        "desc": "do culpa adipisicing dolore irure nulla commodo labore nostrud aute incididunt labore ullamco fugiat quis",
+        "laboratorio": "nisi aliqua",
+        "codnum": 1,
+        "precio": "$3,781.15"
+      },
+      {
+        "id": "5ee13268ee048ffc36c8e737",
+        "tipo": 2,
+        "desc": "eu consectetur est tempor officia veniam proident ut non nisi enim esse incididunt laboris sint",
+        "laboratorio": "aute excepteur",
+        "codnum": 2,
+        "precio": "$1,438.68"
+      }
+    ]
+  },
+  {
+    "id": "5ee132689fb5116c4cb577fe",
+    "ticket": 22,
+    "total": "$3,823.76",
+    "formapago": 1,
+    "vendedor": "Mathis Horton",
+    "cajero": "Martina Deleon",
+    "inventario": [
+      {
+        "id": "5ee13268730d1550f2f8cada",
+        "tipo": 0,
+        "desc": "nisi Lorem in culpa consequat eu sit non incididunt eiusmod elit eiusmod labore excepteur est",
+        "laboratorio": "et fugiat",
+        "codnum": 0,
+        "precio": "$2,566.36"
+      },
+      {
+        "id": "5ee1326835f4f2b9afc524db",
+        "tipo": 1,
+        "desc": "ut qui sunt voluptate consequat cillum nostrud mollit incididunt aute cillum ut tempor adipisicing dolor",
+        "laboratorio": "laborum aute",
+        "codnum": 1,
+        "precio": "$3,895.08"
+      },
+      {
+        "id": "5ee132681ade53f4fad6a057",
+        "tipo": 2,
+        "desc": "laboris officia minim dolor cillum eu aliqua enim elit voluptate minim non sit ipsum commodo",
+        "laboratorio": "cupidatat irure",
+        "codnum": 2,
+        "precio": "$3,736.02"
+      },
+      {
+        "id": "5ee13268d3b134ee4e11cd78",
+        "tipo": 3,
+        "desc": "nisi nisi commodo non incididunt amet esse dolor esse in anim ea velit exercitation eiusmod",
+        "laboratorio": "irure excepteur",
+        "codnum": 3,
+        "precio": "$2,147.45"
+      },
+      {
+        "id": "5ee1326842e714a84477d1bf",
+        "tipo": 4,
+        "desc": "commodo ea magna consequat eu et mollit magna occaecat adipisicing dolore laboris ea pariatur est",
+        "laboratorio": "aliqua anim",
+        "codnum": 4,
+        "precio": "$1,888.76"
+      },
+      {
+        "id": "5ee13268ba7981e974ec7483",
+        "tipo": 5,
+        "desc": "reprehenderit dolore cillum veniam commodo cillum et sint excepteur amet reprehenderit deserunt aute velit voluptate",
+        "laboratorio": "pariatur excepteur",
+        "codnum": 5,
+        "precio": "$1,487.34"
+      },
+      {
+        "id": "5ee132682be8daf12c5e9d4b",
+        "tipo": 6,
+        "desc": "velit commodo dolor voluptate magna sunt amet nulla officia anim irure ex incididunt aliqua nostrud",
+        "laboratorio": "est velit",
+        "codnum": 6,
+        "precio": "$2,967.24"
+      }
+    ]
+  },
+  {
+    "id": "5ee13268d67d01f5852b134c",
+    "ticket": 23,
+    "total": "$1,137.38",
+    "formapago": 3,
+    "vendedor": "Suzanne Gay",
+    "cajero": "Marion Schroeder",
+    "inventario": [
+      {
+        "id": "5ee1326888374dd55bd3eb87",
+        "tipo": 0,
+        "desc": "ea culpa enim eiusmod nostrud aute qui sunt consectetur amet veniam laboris qui irure et",
+        "laboratorio": "Lorem qui",
+        "codnum": 0,
+        "precio": "$1,828.90"
+      },
+      {
+        "id": "5ee13268cee2a3899bfec07d",
+        "tipo": 1,
+        "desc": "reprehenderit id cillum laboris cillum officia sunt occaecat ullamco proident pariatur dolore Lorem dolor duis",
+        "laboratorio": "qui veniam",
+        "codnum": 1,
+        "precio": "$1,991.59"
+      },
+      {
+        "id": "5ee13268f17a75532914e443",
+        "tipo": 2,
+        "desc": "minim in excepteur commodo eu nulla laboris ea elit dolor fugiat pariatur proident occaecat quis",
+        "laboratorio": "velit sit",
+        "codnum": 2,
+        "precio": "$1,300.31"
+      },
+      {
+        "id": "5ee132685b8547260470abad",
+        "tipo": 3,
+        "desc": "duis non qui reprehenderit laborum amet consectetur aliquip sunt velit eiusmod aliqua consequat aliquip ex",
+        "laboratorio": "nisi labore",
+        "codnum": 3,
+        "precio": "$3,924.81"
+      }
+    ]
+  },
+  {
+    "id": "5ee1326819f4da18a0692157",
+    "ticket": 24,
+    "total": "$3,846.48",
+    "formapago": 2,
+    "vendedor": "Christian Simpson",
+    "cajero": "Briggs Dawson",
+    "inventario": [
+      {
+        "id": "5ee132689df06913f980dc16",
+        "tipo": 0,
+        "desc": "aliqua do adipisicing irure dolore cillum occaecat qui culpa non et sint est amet ea",
+        "laboratorio": "proident nostrud",
+        "codnum": 0,
+        "precio": "$1,548.57"
+      },
+      {
+        "id": "5ee132682a40914594fc95be",
+        "tipo": 1,
+        "desc": "labore cillum nisi id esse magna enim cupidatat in aliquip et excepteur in occaecat incididunt",
+        "laboratorio": "mollit nisi",
+        "codnum": 1,
+        "precio": "$1,885.23"
+      },
+      {
+        "id": "5ee13268cd324ddd15f064cd",
+        "tipo": 2,
+        "desc": "nostrud sunt laboris ad culpa cupidatat eiusmod in adipisicing officia magna quis esse dolore velit",
+        "laboratorio": "magna nisi",
+        "codnum": 2,
+        "precio": "$3,271.14"
+      },
+      {
+        "id": "5ee13268a38e47df7ca4b58d",
+        "tipo": 3,
+        "desc": "adipisicing quis incididunt do in ipsum eiusmod amet irure quis commodo amet Lorem labore Lorem",
+        "laboratorio": "magna ut",
+        "codnum": 3,
+        "precio": "$1,863.58"
+      },
+      {
+        "id": "5ee1326832be1fe7ce4c94f1",
+        "tipo": 4,
+        "desc": "pariatur elit reprehenderit voluptate sit et do laborum exercitation et deserunt quis Lorem et sit",
+        "laboratorio": "veniam ipsum",
+        "codnum": 4,
+        "precio": "$3,466.72"
+      }
+    ]
+  },
+  {
+    "id": "5ee1326844e841188d86f0c2",
+    "ticket": 25,
+    "total": "$2,880.65",
+    "formapago": 2,
+    "vendedor": "Dean Andrews",
+    "cajero": "Addie White",
+    "inventario": [
+      {
+        "id": "5ee132688f1ccb80b7b3d70e",
+        "tipo": 0,
+        "desc": "ipsum dolor Lorem ad id non deserunt tempor dolore ullamco id amet eiusmod occaecat commodo",
+        "laboratorio": "labore est",
+        "codnum": 0,
+        "precio": "$1,983.57"
+      },
+      {
+        "id": "5ee1326849d1364e87c6bdff",
+        "tipo": 1,
+        "desc": "Lorem anim id eiusmod mollit fugiat incididunt occaecat voluptate ut cillum voluptate ut officia exercitation",
+        "laboratorio": "dolor veniam",
+        "codnum": 1,
+        "precio": "$3,598.90"
+      },
+      {
+        "id": "5ee132680f0fe8d4627bf6fa",
+        "tipo": 2,
+        "desc": "sunt consequat dolor officia et minim sunt ut occaecat amet duis laboris aute dolor consequat",
+        "laboratorio": "velit Lorem",
+        "codnum": 2,
+        "precio": "$3,363.08"
+      },
+      {
+        "id": "5ee1326836b782e186a9dc64",
+        "tipo": 3,
+        "desc": "est magna culpa dolore fugiat id laborum laborum ullamco sint sint magna ad commodo sit",
+        "laboratorio": "velit aliqua",
+        "codnum": 3,
+        "precio": "$1,908.74"
+      },
+      {
+        "id": "5ee13268476e24b48f316dec",
+        "tipo": 4,
+        "desc": "ex qui velit laborum dolor proident labore ex veniam nisi anim qui et exercitation ea",
+        "laboratorio": "sit laborum",
+        "codnum": 4,
+        "precio": "$1,616.36"
+      },
+      {
+        "id": "5ee13268120d544478147c9c",
+        "tipo": 5,
+        "desc": "magna est laborum nulla ullamco et laborum exercitation voluptate exercitation anim consequat duis velit enim",
+        "laboratorio": "consequat dolore",
+        "codnum": 5,
+        "precio": "$2,728.79"
+      },
+      {
+        "id": "5ee13268e1d314e893ce29c6",
+        "tipo": 6,
+        "desc": "excepteur incididunt non dolor tempor consequat laborum adipisicing ex commodo incididunt ipsum laborum laborum enim",
+        "laboratorio": "minim culpa",
+        "codnum": 6,
+        "precio": "$1,559.05"
+      }
+    ]
+  },
+  {
+    "id": "5ee132686cfe8c4fd854ffb6",
+    "ticket": 26,
+    "total": "$3,761.11",
+    "formapago": 1,
+    "vendedor": "Ortega Payne",
+    "cajero": "Iris Maldonado",
+    "inventario": [
+      {
+        "id": "5ee1326849f5f74cddc9c93c",
+        "tipo": 0,
+        "desc": "velit ullamco nulla ullamco proident est ea magna exercitation sunt sunt anim velit anim culpa",
+        "laboratorio": "ut aliqua",
+        "codnum": 0,
+        "precio": "$1,450.87"
+      },
+      {
+        "id": "5ee1326873ff298bd5e18ca0",
+        "tipo": 1,
+        "desc": "est est culpa nostrud ex nulla proident est cillum labore occaecat anim consequat ullamco fugiat",
+        "laboratorio": "ipsum aute",
+        "codnum": 1,
+        "precio": "$1,841.09"
+      },
+      {
+        "id": "5ee132687db0d61b1e01ab2a",
+        "tipo": 2,
+        "desc": "ex qui aliqua ullamco ut aute id laboris ullamco eu et minim nulla veniam do",
+        "laboratorio": "minim dolore",
+        "codnum": 2,
+        "precio": "$3,018.04"
+      },
+      {
+        "id": "5ee132686f0fa352ebea6afc",
+        "tipo": 3,
+        "desc": "nisi non ullamco laborum cupidatat velit tempor reprehenderit pariatur tempor adipisicing aute excepteur deserunt ut",
+        "laboratorio": "ipsum do",
+        "codnum": 3,
+        "precio": "$1,735.95"
+      },
+      {
+        "id": "5ee132686724a7f18d2eb34c",
+        "tipo": 4,
+        "desc": "Lorem exercitation aute tempor dolor enim laboris mollit cupidatat do et eu consequat et sint",
+        "laboratorio": "do duis",
+        "codnum": 4,
+        "precio": "$2,450.88"
+      },
+      {
+        "id": "5ee13268d1c1ba5ad4b1b114",
+        "tipo": 5,
+        "desc": "consectetur esse incididunt eu qui Lorem consectetur anim duis et officia adipisicing non dolor labore",
+        "laboratorio": "nisi et",
+        "codnum": 5,
+        "precio": "$2,132.99"
+      },
+      {
+        "id": "5ee132682a0314fc932ea870",
+        "tipo": 6,
+        "desc": "dolor voluptate non et dolor in deserunt aliquip in ullamco labore aute esse consectetur ipsum",
+        "laboratorio": "exercitation cillum",
+        "codnum": 6,
+        "precio": "$3,840.62"
+      },
+      {
+        "id": "5ee13268669ad80201a1b8cb",
+        "tipo": 7,
+        "desc": "ipsum velit excepteur nulla Lorem sit consequat nulla adipisicing occaecat irure voluptate laboris laborum qui",
+        "laboratorio": "magna duis",
+        "codnum": 7,
+        "precio": "$2,747.47"
+      },
+      {
+        "id": "5ee13268cc6c8ff0afb05d49",
+        "tipo": 8,
+        "desc": "officia amet Lorem in cillum culpa consequat voluptate ea cillum exercitation dolor proident aliquip magna",
+        "laboratorio": "ad anim",
+        "codnum": 8,
+        "precio": "$2,787.63"
+      }
+    ]
+  },
+  {
+    "id": "5ee13268e2816a0fc4b4d9d6",
+    "ticket": 27,
+    "total": "$1,150.05",
+    "formapago": 2,
+    "vendedor": "Brandi Clark",
+    "cajero": "Sheila Norton",
+    "inventario": [
+      {
+        "id": "5ee13268ec1000dfd4e991f2",
+        "tipo": 0,
+        "desc": "amet exercitation sunt sint incididunt consequat excepteur mollit ad mollit voluptate dolore et in elit",
+        "laboratorio": "sit id",
+        "codnum": 0,
+        "precio": "$2,831.65"
+      },
+      {
+        "id": "5ee132680015a533ddaccd27",
+        "tipo": 1,
+        "desc": "eiusmod culpa eu tempor occaecat laboris ullamco incididunt proident est velit irure dolore proident qui",
+        "laboratorio": "enim non",
+        "codnum": 1,
+        "precio": "$2,340.71"
+      },
+      {
+        "id": "5ee13268595d7d5677a5f793",
+        "tipo": 2,
+        "desc": "labore sit labore reprehenderit commodo esse id Lorem fugiat duis sit amet nulla in proident",
+        "laboratorio": "reprehenderit dolor",
+        "codnum": 2,
+        "precio": "$2,913.47"
+      }
+    ]
+  },
+  {
+    "id": "5ee132687818f22067fb834c",
+    "ticket": 28,
+    "total": "$2,533.22",
+    "formapago": 2,
+    "vendedor": "Guy Blackburn",
+    "cajero": "Vega Sharpe",
+    "inventario": [
+      {
+        "id": "5ee13268f67767ec0a0a500a",
+        "tipo": 0,
+        "desc": "non consequat dolore id irure labore et enim cillum labore pariatur fugiat commodo deserunt excepteur",
+        "laboratorio": "voluptate non",
+        "codnum": 0,
+        "precio": "$1,157.55"
+      },
+      {
+        "id": "5ee132687bf4ea8388d0442d",
+        "tipo": 1,
+        "desc": "velit do consequat nulla consequat adipisicing laboris do labore excepteur laboris proident cillum amet ea",
+        "laboratorio": "dolore labore",
+        "codnum": 1,
+        "precio": "$3,811.92"
+      },
+      {
+        "id": "5ee132687ddb2a6ceee8ab41",
+        "tipo": 2,
+        "desc": "magna aliquip veniam est ut et est tempor elit in nostrud fugiat Lorem Lorem enim",
+        "laboratorio": "do officia",
+        "codnum": 2,
+        "precio": "$2,116.91"
+      },
+      {
+        "id": "5ee132685ca1596af650f8e4",
+        "tipo": 3,
+        "desc": "qui ad consectetur aliqua amet cillum adipisicing ea velit duis sit ad commodo irure Lorem",
+        "laboratorio": "exercitation duis",
+        "codnum": 3,
+        "precio": "$1,136.06"
+      },
+      {
+        "id": "5ee132682c354b9f26508036",
+        "tipo": 4,
+        "desc": "esse ad Lorem consectetur ipsum ad culpa aute duis deserunt eu elit consectetur laborum sint",
+        "laboratorio": "ex ex",
+        "codnum": 4,
+        "precio": "$2,055.31"
+      }
+    ]
+  },
+  {
+    "id": "5ee1326828a990c00209d107",
+    "ticket": 29,
+    "total": "$2,434.94",
+    "formapago": 1,
+    "vendedor": "Adrienne Copeland",
+    "cajero": "Bass Pugh",
+    "inventario": [
+      {
+        "id": "5ee13268739d99fb9118a554",
+        "tipo": 0,
+        "desc": "est excepteur consequat eu nostrud voluptate est do proident excepteur id excepteur ut officia nostrud",
+        "laboratorio": "laboris est",
+        "codnum": 0,
+        "precio": "$2,869.43"
+      },
+      {
+        "id": "5ee13268e986afb9e7d7cf53",
+        "tipo": 1,
+        "desc": "quis elit pariatur est culpa ipsum anim adipisicing eu Lorem dolor sint ad commodo velit",
+        "laboratorio": "excepteur id",
+        "codnum": 1,
+        "precio": "$1,062.61"
+      },
+      {
+        "id": "5ee13268ec5c00a81ddbca91",
+        "tipo": 2,
+        "desc": "esse aliqua velit mollit non in irure excepteur proident reprehenderit proident exercitation nisi qui sit",
+        "laboratorio": "exercitation culpa",
+        "codnum": 2,
+        "precio": "$1,672.55"
+      },
+      {
+        "id": "5ee132683fbc5c9d6fcf4f9d",
+        "tipo": 3,
+        "desc": "ut ad adipisicing id consequat tempor sint sint cillum consequat cupidatat proident culpa cupidatat nisi",
+        "laboratorio": "deserunt tempor",
+        "codnum": 3,
+        "precio": "$2,556.54"
+      },
+      {
+        "id": "5ee132689ed1f18fa7d41617",
+        "tipo": 4,
+        "desc": "qui pariatur laborum velit velit excepteur anim exercitation do adipisicing sint sunt commodo adipisicing duis",
+        "laboratorio": "mollit culpa",
+        "codnum": 4,
+        "precio": "$3,337.08"
+      },
+      {
+        "id": "5ee13268f7bcbf4ee708a409",
+        "tipo": 5,
+        "desc": "sint elit voluptate exercitation amet dolor non dolor ad anim anim consectetur sit anim nostrud",
+        "laboratorio": "culpa elit",
+        "codnum": 5,
+        "precio": "$2,659.46"
+      },
+      {
+        "id": "5ee13268415c1fa811152f83",
+        "tipo": 6,
+        "desc": "reprehenderit consequat ipsum labore sint enim excepteur consequat eu sunt occaecat sunt nostrud proident sint",
+        "laboratorio": "sit sunt",
+        "codnum": 6,
+        "precio": "$2,020.58"
+      },
+      {
+        "id": "5ee13268b4dd2d79bc8ed556",
+        "tipo": 7,
+        "desc": "aute quis irure culpa elit in consectetur officia velit ea exercitation et eu deserunt Lorem",
+        "laboratorio": "cupidatat esse",
+        "codnum": 7,
+        "precio": "$3,170.33"
+      },
+      {
+        "id": "5ee13268cbbef624e22f783a",
+        "tipo": 8,
+        "desc": "reprehenderit veniam adipisicing voluptate duis mollit anim Lorem ipsum consequat ea dolore excepteur ullamco ea",
+        "laboratorio": "deserunt et",
+        "codnum": 8,
+        "precio": "$1,330.23"
+      },
+      {
+        "id": "5ee13268c94db0a7f148e335",
+        "tipo": 9,
+        "desc": "occaecat aliquip sunt eiusmod laborum est ut exercitation id minim sint labore anim deserunt nostrud",
+        "laboratorio": "tempor magna",
+        "codnum": 9,
+        "precio": "$1,941.13"
+      }
+    ]
+  },
+  {
+    "id": "5ee132682de1e3af1cd409ba",
+    "ticket": 30,
+    "total": "$1,144.13",
+    "formapago": 3,
+    "vendedor": "Gould Gilliam",
+    "cajero": "Lawanda Valenzuela",
+    "inventario": [
+      {
+        "id": "5ee1326823a0f1dc02ab37dc",
+        "tipo": 0,
+        "desc": "deserunt deserunt dolor consectetur cupidatat dolor amet ea deserunt et velit deserunt esse irure qui",
+        "laboratorio": "laboris sint",
+        "codnum": 0,
+        "precio": "$3,743.42"
+      },
+      {
+        "id": "5ee1326828ae970a6c68ef3d",
+        "tipo": 1,
+        "desc": "fugiat id elit do sint amet aliqua adipisicing nostrud quis aute duis reprehenderit reprehenderit pariatur",
+        "laboratorio": "quis consequat",
+        "codnum": 1,
+        "precio": "$2,254.04"
+      },
+      {
+        "id": "5ee1326847ea8b3e2081e65c",
+        "tipo": 2,
+        "desc": "excepteur sunt est esse sunt esse voluptate proident sit nisi tempor commodo nostrud proident veniam",
+        "laboratorio": "culpa duis",
+        "codnum": 2,
+        "precio": "$1,752.40"
+      },
+      {
+        "id": "5ee132687c3acfed2abcd303",
+        "tipo": 3,
+        "desc": "do adipisicing ullamco ipsum nisi culpa cupidatat elit cillum occaecat enim aute sunt do enim",
+        "laboratorio": "dolore fugiat",
+        "codnum": 3,
+        "precio": "$1,686.69"
+      },
+      {
+        "id": "5ee1326811effbeb6867ada6",
+        "tipo": 4,
+        "desc": "excepteur exercitation sunt aute elit anim ex eu velit reprehenderit do consectetur veniam adipisicing enim",
+        "laboratorio": "sunt sunt",
+        "codnum": 4,
+        "precio": "$1,085.76"
+      },
+      {
+        "id": "5ee13268a2b6a4de129436ef",
+        "tipo": 5,
+        "desc": "consequat tempor quis officia commodo fugiat esse quis commodo exercitation nostrud deserunt reprehenderit aliqua est",
+        "laboratorio": "labore cillum",
+        "codnum": 5,
+        "precio": "$1,464.48"
+      },
+      {
+        "id": "5ee13268104f2298301cb153",
+        "tipo": 6,
+        "desc": "fugiat aute consequat dolor ad aliqua culpa voluptate ut velit est amet deserunt fugiat anim",
+        "laboratorio": "occaecat aliqua",
+        "codnum": 6,
+        "precio": "$2,737.13"
+      },
+      {
+        "id": "5ee132681fc97b0431dd1cf3",
+        "tipo": 7,
+        "desc": "sunt excepteur ullamco qui non qui enim occaecat deserunt irure culpa aliquip ex minim ex",
+        "laboratorio": "id voluptate",
+        "codnum": 7,
+        "precio": "$3,910.35"
+      },
+      {
+        "id": "5ee13268d94072d0aef195a1",
+        "tipo": 8,
+        "desc": "duis enim excepteur in anim minim laborum esse nostrud cupidatat minim irure fugiat enim voluptate",
+        "laboratorio": "id nulla",
+        "codnum": 8,
+        "precio": "$3,959.28"
+      },
+      {
+        "id": "5ee13268b8c6aa8ff8e32fc3",
+        "tipo": 9,
+        "desc": "aliquip laboris mollit deserunt fugiat officia est duis cupidatat est excepteur reprehenderit minim aliqua ut",
+        "laboratorio": "veniam commodo",
+        "codnum": 9,
+        "precio": "$3,084.89"
+      }
+    ]
+  },
+  {
+    "id": "5ee132682250e28228d14422",
+    "ticket": 31,
+    "total": "$3,716.73",
+    "formapago": 2,
+    "vendedor": "Knight Petersen",
+    "cajero": "Peterson Howell",
+    "inventario": [
+      {
+        "id": "5ee13268a353d8e261dc4b25",
+        "tipo": 0,
+        "desc": "non voluptate amet cillum officia est veniam anim esse dolor nisi dolore laboris veniam est",
+        "laboratorio": "officia esse",
+        "codnum": 0,
+        "precio": "$3,398.43"
+      }
+    ]
+  },
+  {
+    "id": "5ee132680d40185bf25b3097",
+    "ticket": 32,
+    "total": "$3,134.59",
+    "formapago": 1,
+    "vendedor": "Silvia Gould",
+    "cajero": "Helene Sims",
+    "inventario": [
+      {
+        "id": "5ee13268ed1554d0b4dd0301",
+        "tipo": 0,
+        "desc": "et qui commodo dolore nulla in veniam anim pariatur sunt est tempor eu deserunt nulla",
+        "laboratorio": "et veniam",
+        "codnum": 0,
+        "precio": "$3,458.64"
+      },
+      {
+        "id": "5ee13268380b2afc269985de",
+        "tipo": 1,
+        "desc": "sint minim cillum consequat esse enim elit ad ut fugiat laboris nostrud eu eiusmod minim",
+        "laboratorio": "cillum qui",
+        "codnum": 1,
+        "precio": "$1,291.40"
+      },
+      {
+        "id": "5ee1326874ff9688ee77075b",
+        "tipo": 2,
+        "desc": "eiusmod pariatur ullamco qui eiusmod aute aute reprehenderit dolore et id adipisicing cupidatat culpa ipsum",
+        "laboratorio": "et consectetur",
+        "codnum": 2,
+        "precio": "$2,437.99"
+      },
+      {
+        "id": "5ee132683413d948a4a783cd",
+        "tipo": 3,
+        "desc": "consequat nostrud aute culpa et ullamco quis in et cupidatat labore velit ad esse non",
+        "laboratorio": "aliqua minim",
+        "codnum": 3,
+        "precio": "$2,431.25"
+      },
+      {
+        "id": "5ee1326898f94e7fcc834f79",
+        "tipo": 4,
+        "desc": "reprehenderit nostrud exercitation laboris ullamco id velit veniam excepteur incididunt in officia in magna incididunt",
+        "laboratorio": "non irure",
+        "codnum": 4,
+        "precio": "$3,444.54"
+      },
+      {
+        "id": "5ee1326850f8131f848c9606",
+        "tipo": 5,
+        "desc": "qui adipisicing cupidatat excepteur et amet nostrud laborum labore irure qui labore do ad proident",
+        "laboratorio": "ea esse",
+        "codnum": 5,
+        "precio": "$1,348.65"
+      },
+      {
+        "id": "5ee13268dee87bedf711a330",
+        "tipo": 6,
+        "desc": "quis non adipisicing est elit sint sunt commodo duis culpa laborum sit enim mollit amet",
+        "laboratorio": "in deserunt",
+        "codnum": 6,
+        "precio": "$1,410.59"
+      },
+      {
+        "id": "5ee13268b15c367b436b867b",
+        "tipo": 7,
+        "desc": "aliqua in nulla deserunt eiusmod minim labore ad pariatur commodo ad aute enim ex adipisicing",
+        "laboratorio": "dolor et",
+        "codnum": 7,
+        "precio": "$2,801.09"
+      },
+      {
+        "id": "5ee132680d53272c472d0b1d",
+        "tipo": 8,
+        "desc": "qui mollit enim magna consequat ullamco fugiat cupidatat aliqua cillum reprehenderit pariatur culpa minim deserunt",
+        "laboratorio": "id incididunt",
+        "codnum": 8,
+        "precio": "$3,191.24"
+      },
+      {
+        "id": "5ee13268472e0dc8eb074db2",
+        "tipo": 9,
+        "desc": "pariatur ut culpa Lorem Lorem ut sunt mollit consectetur aliquip proident eu aliqua Lorem anim",
+        "laboratorio": "sit Lorem",
+        "codnum": 9,
+        "precio": "$1,093.76"
+      }
+    ]
+  },
+  {
+    "id": "5ee1326863d799d3e3b36f76",
+    "ticket": 33,
+    "total": "$2,089.06",
+    "formapago": 3,
+    "vendedor": "Figueroa Pittman",
+    "cajero": "Kathleen Parrish",
+    "inventario": [
+      {
+        "id": "5ee132686a566bc7afe677cf",
+        "tipo": 0,
+        "desc": "tempor ex occaecat aute mollit et dolor culpa anim aliqua sit qui cillum tempor eiusmod",
+        "laboratorio": "nisi aliquip",
+        "codnum": 0,
+        "precio": "$1,891.12"
+      },
+      {
+        "id": "5ee13268404992250f2bb1d4",
+        "tipo": 1,
+        "desc": "mollit anim non deserunt proident tempor pariatur esse esse labore exercitation mollit do aute aliquip",
+        "laboratorio": "sit sint",
+        "codnum": 1,
+        "precio": "$1,900.10"
+      },
+      {
+        "id": "5ee1326821729e2749d9b947",
+        "tipo": 2,
+        "desc": "do elit qui sit sunt ea anim proident incididunt irure nulla esse ea non cillum",
+        "laboratorio": "excepteur enim",
+        "codnum": 2,
+        "precio": "$3,399.06"
+      },
+      {
+        "id": "5ee13268e55c3cb4f84bd5af",
+        "tipo": 3,
+        "desc": "duis aliqua ullamco laboris nisi minim cupidatat commodo fugiat pariatur anim adipisicing consectetur ad Lorem",
+        "laboratorio": "voluptate magna",
+        "codnum": 3,
+        "precio": "$3,176.20"
+      },
+      {
+        "id": "5ee13268999267b19e93c38a",
+        "tipo": 4,
+        "desc": "commodo nostrud quis voluptate quis veniam aliquip id culpa duis aliqua commodo aute adipisicing excepteur",
+        "laboratorio": "laborum ex",
+        "codnum": 4,
+        "precio": "$2,753.68"
+      }
+    ]
+  },
+  {
+    "id": "5ee13268177139bdd02175d5",
+    "ticket": 34,
+    "total": "$2,995.13",
+    "formapago": 1,
+    "vendedor": "Vincent Mccoy",
+    "cajero": "Burt Wilkerson",
+    "inventario": [
+      {
+        "id": "5ee13268613f0f8173ee519d",
+        "tipo": 0,
+        "desc": "deserunt Lorem sint nisi veniam ex laborum laboris est amet laboris qui consectetur id laboris",
+        "laboratorio": "mollit quis",
+        "codnum": 0,
+        "precio": "$2,668.02"
+      },
+      {
+        "id": "5ee1326851a48823c1b17ab3",
+        "tipo": 1,
+        "desc": "officia sit ullamco ipsum amet fugiat sint excepteur duis aliqua commodo laboris ea excepteur deserunt",
+        "laboratorio": "Lorem deserunt",
+        "codnum": 1,
+        "precio": "$1,019.23"
+      }
+    ]
+  },
+  {
+    "id": "5ee1326872c5415c57300878",
+    "ticket": 35,
+    "total": "$3,443.51",
+    "formapago": 2,
+    "vendedor": "Thornton Moses",
+    "cajero": "Rodriquez Calhoun",
+    "inventario": [
+      {
+        "id": "5ee132681b35e915d78a275b",
+        "tipo": 0,
+        "desc": "aute aliquip ea esse aliqua ullamco reprehenderit magna veniam cillum aute quis do exercitation amet",
+        "laboratorio": "cupidatat cillum",
+        "codnum": 0,
+        "precio": "$3,129.09"
+      }
+    ]
+  },
+  {
+    "id": "5ee132686bd71e5b4381372e",
+    "ticket": 36,
+    "total": "$3,743.68",
+    "formapago": 2,
+    "vendedor": "Alisa Pierce",
+    "cajero": "Eugenia Mckinney",
+    "inventario": [
+      {
+        "id": "5ee132689f6d6c690551d6c4",
+        "tipo": 0,
+        "desc": "labore sit eu ut laborum do consequat quis quis elit ipsum consequat duis laborum veniam",
+        "laboratorio": "anim et",
+        "codnum": 0,
+        "precio": "$3,172.24"
+      },
+      {
+        "id": "5ee13268dce5477dfc176427",
+        "tipo": 1,
+        "desc": "excepteur aliqua fugiat consequat elit voluptate ex minim ad laborum culpa non aute eu labore",
+        "laboratorio": "do magna",
+        "codnum": 1,
+        "precio": "$3,417.21"
+      },
+      {
+        "id": "5ee13268a1c49b81b3ffdc42",
+        "tipo": 2,
+        "desc": "exercitation quis quis non velit sint fugiat quis irure in magna aliqua ut irure mollit",
+        "laboratorio": "sunt consectetur",
+        "codnum": 2,
+        "precio": "$2,892.03"
+      },
+      {
+        "id": "5ee1326869fbccaf8799a92a",
+        "tipo": 3,
+        "desc": "sint enim Lorem officia ipsum labore dolor voluptate eiusmod Lorem exercitation voluptate consectetur dolor exercitation",
+        "laboratorio": "pariatur dolor",
+        "codnum": 3,
+        "precio": "$2,425.67"
+      },
+      {
+        "id": "5ee13268371d4b1ed6c14190",
+        "tipo": 4,
+        "desc": "ex ullamco occaecat exercitation laboris mollit consequat commodo sint voluptate eu incididunt dolore consectetur voluptate",
+        "laboratorio": "ex ut",
+        "codnum": 4,
+        "precio": "$2,775.85"
+      },
+      {
+        "id": "5ee13268c646f4ffce4b81c5",
+        "tipo": 5,
+        "desc": "elit eu minim sunt excepteur minim non voluptate magna exercitation officia exercitation enim nulla pariatur",
+        "laboratorio": "sunt do",
+        "codnum": 5,
+        "precio": "$3,232.99"
+      },
+      {
+        "id": "5ee13268d589247cb60553e7",
+        "tipo": 6,
+        "desc": "commodo enim dolore cupidatat ea proident esse eiusmod ipsum occaecat amet esse ad culpa et",
+        "laboratorio": "consequat laboris",
+        "codnum": 6,
+        "precio": "$2,651.63"
+      },
+      {
+        "id": "5ee13268b67bb9d76fee33a3",
+        "tipo": 7,
+        "desc": "laboris in anim occaecat consectetur nostrud veniam aute officia id amet Lorem eu adipisicing consectetur",
+        "laboratorio": "adipisicing sint",
+        "codnum": 7,
+        "precio": "$3,208.94"
+      },
+      {
+        "id": "5ee132687f0e821b406f0e58",
+        "tipo": 8,
+        "desc": "consectetur consectetur officia sint aliqua cupidatat exercitation dolor laborum nostrud ullamco reprehenderit pariatur enim et",
+        "laboratorio": "id ea",
+        "codnum": 8,
+        "precio": "$1,828.82"
+      }
+    ]
+  },
+  {
+    "id": "5ee1326878857bc50c9121ee",
+    "ticket": 37,
+    "total": "$3,004.32",
+    "formapago": 1,
+    "vendedor": "Althea Fuller",
+    "cajero": "Roseann Tillman",
+    "inventario": [
+      {
+        "id": "5ee13268acb6596f71af0d1c",
+        "tipo": 0,
+        "desc": "veniam consectetur ipsum nisi officia ea ea officia ad non cupidatat ipsum et velit ullamco",
+        "laboratorio": "ipsum velit",
+        "codnum": 0,
+        "precio": "$2,709.92"
+      },
+      {
+        "id": "5ee1326834a44608148418ef",
+        "tipo": 1,
+        "desc": "sunt ut ad exercitation velit labore ea elit occaecat cillum nisi qui incididunt duis deserunt",
+        "laboratorio": "proident consectetur",
+        "codnum": 1,
+        "precio": "$3,603.62"
+      },
+      {
+        "id": "5ee13268bac8d6ca781852a1",
+        "tipo": 2,
+        "desc": "dolore exercitation nulla eu id consectetur ullamco sint aliquip reprehenderit ad voluptate quis in voluptate",
+        "laboratorio": "magna do",
+        "codnum": 2,
+        "precio": "$1,734.92"
+      },
+      {
+        "id": "5ee13268395298da9ecff0da",
+        "tipo": 3,
+        "desc": "adipisicing sit tempor sint ipsum elit Lorem sit aliqua elit consequat ea eiusmod commodo officia",
+        "laboratorio": "cillum ea",
+        "codnum": 3,
+        "precio": "$2,318.60"
+      },
+      {
+        "id": "5ee132687e3bf1b501d1d15d",
+        "tipo": 4,
+        "desc": "proident dolor ipsum culpa ullamco in fugiat Lorem tempor pariatur irure tempor mollit fugiat sint",
+        "laboratorio": "ipsum excepteur",
+        "codnum": 4,
+        "precio": "$1,466.64"
+      },
+      {
+        "id": "5ee1326825688524e16d1a8c",
+        "tipo": 5,
+        "desc": "id ex nisi dolor mollit dolore sunt commodo exercitation do aliqua anim reprehenderit excepteur ex",
+        "laboratorio": "occaecat incididunt",
+        "codnum": 5,
+        "precio": "$3,334.62"
+      }
+    ]
+  },
+  {
+    "id": "5ee13268713100982441053f",
+    "ticket": 38,
+    "total": "$3,569.15",
+    "formapago": 3,
+    "vendedor": "Annie Russell",
+    "cajero": "Lorrie Cleveland",
+    "inventario": [
+      {
+        "id": "5ee13268faf031dd1ac4ec2c",
+        "tipo": 0,
+        "desc": "amet mollit magna aliqua elit voluptate occaecat cupidatat occaecat irure dolore aliquip sit laborum labore",
+        "laboratorio": "occaecat excepteur",
+        "codnum": 0,
+        "precio": "$2,229.69"
+      },
+      {
+        "id": "5ee132681af5c080ba15b720",
+        "tipo": 1,
+        "desc": "ad labore ullamco ad do aute est amet non non magna aute nostrud et laborum",
+        "laboratorio": "laboris ea",
+        "codnum": 1,
+        "precio": "$3,997.74"
+      },
+      {
+        "id": "5ee13268c8505a01ee1e05e0",
+        "tipo": 2,
+        "desc": "et officia exercitation velit mollit veniam culpa tempor ea proident fugiat consequat pariatur ipsum laborum",
+        "laboratorio": "nisi ut",
+        "codnum": 2,
+        "precio": "$2,382.32"
+      },
+      {
+        "id": "5ee13268afa03fc88bdb31ae",
+        "tipo": 3,
+        "desc": "veniam officia incididunt consequat elit ad duis deserunt dolore consequat laborum cupidatat aliquip veniam occaecat",
+        "laboratorio": "proident aute",
+        "codnum": 3,
+        "precio": "$2,316.48"
+      },
+      {
+        "id": "5ee13268cc9e85155cbbb98b",
+        "tipo": 4,
+        "desc": "ullamco amet mollit pariatur duis veniam laboris ex voluptate velit qui excepteur fugiat do non",
+        "laboratorio": "pariatur velit",
+        "codnum": 4,
+        "precio": "$2,352.44"
+      },
+      {
+        "id": "5ee132686eb6edc063b8cd59",
+        "tipo": 5,
+        "desc": "esse sit est aute non magna ea aute mollit sit adipisicing ex occaecat magna sint",
+        "laboratorio": "quis aliqua",
+        "codnum": 5,
+        "precio": "$3,576.68"
+      },
+      {
+        "id": "5ee132682bd3bcdfcd151e58",
+        "tipo": 6,
+        "desc": "consectetur occaecat consectetur sunt sunt enim ullamco exercitation est aliquip cupidatat ipsum Lorem Lorem occaecat",
+        "laboratorio": "exercitation ad",
+        "codnum": 6,
+        "precio": "$2,297.57"
+      },
+      {
+        "id": "5ee13268d9354f6aa6c4a4d7",
+        "tipo": 7,
+        "desc": "labore exercitation proident et consequat laborum nulla officia quis reprehenderit sunt do deserunt aliqua ea",
+        "laboratorio": "tempor incididunt",
+        "codnum": 7,
+        "precio": "$2,125.13"
+      },
+      {
+        "id": "5ee1326832c9e90c3b436375",
+        "tipo": 8,
+        "desc": "commodo cupidatat non occaecat irure enim et cupidatat ut eiusmod id dolor exercitation duis sunt",
+        "laboratorio": "in do",
+        "codnum": 8,
+        "precio": "$1,674.87"
+      }
+    ]
+  },
+  {
+    "id": "5ee132685059b0f2134c0e28",
+    "ticket": 39,
+    "total": "$1,987.93",
+    "formapago": 1,
+    "vendedor": "Juanita Richardson",
+    "cajero": "Deann Lancaster",
+    "inventario": [
+      {
+        "id": "5ee13268646adf7122297af9",
+        "tipo": 0,
+        "desc": "nisi enim eu dolore ipsum sit laborum aute irure do consequat velit deserunt quis consequat",
+        "laboratorio": "exercitation culpa",
+        "codnum": 0,
+        "precio": "$2,641.30"
+      },
+      {
+        "id": "5ee13268426ce965469bb209",
+        "tipo": 1,
+        "desc": "aliquip ad velit eiusmod reprehenderit occaecat do non sit enim occaecat dolor proident cillum eu",
+        "laboratorio": "sunt commodo",
+        "codnum": 1,
+        "precio": "$3,346.98"
+      },
+      {
+        "id": "5ee13268927d25d438a8bbb4",
+        "tipo": 2,
+        "desc": "excepteur sint excepteur velit aliquip exercitation excepteur adipisicing non quis magna esse veniam ut dolore",
+        "laboratorio": "et reprehenderit",
+        "codnum": 2,
+        "precio": "$2,663.70"
+      },
+      {
+        "id": "5ee1326848fb7312c794d52c",
+        "tipo": 3,
+        "desc": "exercitation elit elit officia laboris dolore anim culpa magna nulla qui pariatur adipisicing laboris reprehenderit",
+        "laboratorio": "ut magna",
+        "codnum": 3,
+        "precio": "$2,492.87"
+      },
+      {
+        "id": "5ee132684466a6635aa97236",
+        "tipo": 4,
+        "desc": "cupidatat quis quis qui cillum culpa aliqua proident laborum ullamco aliqua aliqua commodo consequat adipisicing",
+        "laboratorio": "proident deserunt",
+        "codnum": 4,
+        "precio": "$1,362.60"
+      },
+      {
+        "id": "5ee132682b4cc4dbf179f575",
+        "tipo": 5,
+        "desc": "anim ullamco aute veniam ullamco pariatur in deserunt dolore incididunt ipsum aliqua eiusmod tempor amet",
+        "laboratorio": "deserunt dolore",
+        "codnum": 5,
+        "precio": "$3,195.96"
+      },
+      {
+        "id": "5ee13268fe5c0c52e0cdcf9a",
+        "tipo": 6,
+        "desc": "ad tempor deserunt anim aute excepteur culpa eiusmod anim amet aliquip quis excepteur commodo velit",
+        "laboratorio": "velit tempor",
+        "codnum": 6,
+        "precio": "$3,833.35"
+      },
+      {
+        "id": "5ee13268512d613283af2b6e",
+        "tipo": 7,
+        "desc": "velit do esse irure deserunt culpa irure aute sit magna excepteur irure cillum et dolore",
+        "laboratorio": "ea cillum",
+        "codnum": 7,
+        "precio": "$3,016.22"
+      }
+    ]
+  },
+  {
+    "id": "5ee132680e64cc742417698e",
+    "ticket": 40,
+    "total": "$2,906.92",
+    "formapago": 3,
+    "vendedor": "Dickson Herrera",
+    "cajero": "Robertson Rhodes",
+    "inventario": [
+      {
+        "id": "5ee13268b22062c099d52169",
+        "tipo": 0,
+        "desc": "officia ad anim veniam et irure adipisicing aute aliquip consequat laboris qui nisi proident sit",
+        "laboratorio": "Lorem pariatur",
+        "codnum": 0,
+        "precio": "$3,580.06"
+      },
+      {
+        "id": "5ee132682b064e512cb0df11",
+        "tipo": 1,
+        "desc": "ad culpa irure adipisicing proident consequat occaecat reprehenderit aliqua voluptate officia pariatur ad magna incididunt",
+        "laboratorio": "ea esse",
+        "codnum": 1,
+        "precio": "$1,674.03"
+      },
+      {
+        "id": "5ee132681b2ec705a7998693",
+        "tipo": 2,
+        "desc": "voluptate cillum deserunt ex ad qui esse sint velit adipisicing consequat est aliqua labore adipisicing",
+        "laboratorio": "nulla est",
+        "codnum": 2,
+        "precio": "$3,712.56"
+      },
+      {
+        "id": "5ee13268839ad53fa3b03d6e",
+        "tipo": 3,
+        "desc": "irure anim magna ut qui nostrud nulla laboris laboris adipisicing amet qui duis consectetur minim",
+        "laboratorio": "anim qui",
+        "codnum": 3,
+        "precio": "$1,628.59"
+      }
+    ]
+  },
+  {
+    "id": "5ee13268297c2faef96d2a53",
+    "ticket": 41,
+    "total": "$2,575.41",
+    "formapago": 3,
+    "vendedor": "Caldwell Rowland",
+    "cajero": "Annmarie Atkins",
+    "inventario": [
+      {
+        "id": "5ee13268b8394d08715ad7ca",
+        "tipo": 0,
+        "desc": "commodo qui velit quis fugiat duis deserunt velit incididunt pariatur esse veniam ut sunt ea",
+        "laboratorio": "sint eiusmod",
+        "codnum": 0,
+        "precio": "$2,841.05"
+      },
+      {
+        "id": "5ee13268d04f828f9a6cfcb8",
+        "tipo": 1,
+        "desc": "et ipsum ex nulla reprehenderit et in velit adipisicing qui laboris commodo voluptate cupidatat excepteur",
+        "laboratorio": "proident incididunt",
+        "codnum": 1,
+        "precio": "$1,492.11"
+      }
+    ]
+  },
+  {
+    "id": "5ee13268b57f50002feb958b",
+    "ticket": 42,
+    "total": "$3,244.76",
+    "formapago": 2,
+    "vendedor": "Sargent Tucker",
+    "cajero": "Solomon Sellers",
+    "inventario": [
+      {
+        "id": "5ee13268e0d9df02b285dc6a",
+        "tipo": 0,
+        "desc": "elit fugiat exercitation commodo Lorem cillum sunt magna elit magna consequat dolore commodo nisi ad",
+        "laboratorio": "deserunt ipsum",
+        "codnum": 0,
+        "precio": "$1,868.01"
+      },
+      {
+        "id": "5ee132684931a4c749f02212",
+        "tipo": 1,
+        "desc": "reprehenderit exercitation enim elit culpa ex nisi do esse tempor laborum ipsum quis ea anim",
+        "laboratorio": "culpa voluptate",
+        "codnum": 1,
+        "precio": "$3,613.76"
+      },
+      {
+        "id": "5ee1326822b23a778e42bc93",
+        "tipo": 2,
+        "desc": "esse laborum laborum deserunt ipsum laborum laborum qui Lorem exercitation tempor ea aliqua excepteur enim",
+        "laboratorio": "cupidatat consequat",
+        "codnum": 2,
+        "precio": "$3,479.08"
+      }
+    ]
+  },
+  {
+    "id": "5ee13268d8302f41cf0c6fd4",
+    "ticket": 43,
+    "total": "$3,296.39",
+    "formapago": 2,
+    "vendedor": "Mathews Hubbard",
+    "cajero": "Marissa Peters",
+    "inventario": [
+      {
+        "id": "5ee1326869d3b7fb247377ef",
+        "tipo": 0,
+        "desc": "eiusmod nisi officia id exercitation mollit Lorem sint exercitation ipsum in aliqua labore exercitation elit",
+        "laboratorio": "reprehenderit officia",
+        "codnum": 0,
+        "precio": "$3,223.03"
+      },
+      {
+        "id": "5ee132681461b4c4bcade59e",
+        "tipo": 1,
+        "desc": "excepteur cupidatat quis eu exercitation eu cillum id reprehenderit id qui aliqua do exercitation eu",
+        "laboratorio": "cillum do",
+        "codnum": 1,
+        "precio": "$3,718.31"
+      },
+      {
+        "id": "5ee132688565d9a289be4035",
+        "tipo": 2,
+        "desc": "proident quis consequat dolor ad amet irure velit eu aute fugiat in proident velit mollit",
+        "laboratorio": "minim occaecat",
+        "codnum": 2,
+        "precio": "$2,578.62"
+      },
+      {
+        "id": "5ee1326800af78c10689aad9",
+        "tipo": 3,
+        "desc": "adipisicing est officia cillum est eiusmod cillum tempor non cupidatat ullamco eu aute ea reprehenderit",
+        "laboratorio": "cupidatat veniam",
+        "codnum": 3,
+        "precio": "$3,898.55"
+      },
+      {
+        "id": "5ee132688a4989efd05fc2a4",
+        "tipo": 4,
+        "desc": "quis minim eu culpa nulla ex exercitation sunt non nostrud occaecat est aliquip in labore",
+        "laboratorio": "ea sunt",
+        "codnum": 4,
+        "precio": "$3,401.24"
+      },
+      {
+        "id": "5ee13268c15fbe3c833d724b",
+        "tipo": 5,
+        "desc": "eu consectetur cupidatat nulla fugiat nisi ad aliquip est veniam magna magna nostrud elit et",
+        "laboratorio": "consectetur exercitation",
+        "codnum": 5,
+        "precio": "$1,096.71"
+      },
+      {
+        "id": "5ee132684052137296f7426a",
+        "tipo": 6,
+        "desc": "est minim nisi officia excepteur et aliquip pariatur sunt nulla non culpa aute cupidatat aliqua",
+        "laboratorio": "consectetur et",
+        "codnum": 6,
+        "precio": "$1,997.14"
+      },
+      {
+        "id": "5ee13268fa760456a0733938",
+        "tipo": 7,
+        "desc": "proident commodo sunt labore veniam voluptate occaecat est officia Lorem nisi occaecat ad exercitation do",
+        "laboratorio": "do laborum",
+        "codnum": 7,
+        "precio": "$1,771.21"
+      },
+      {
+        "id": "5ee1326812d8cddaf270083f",
+        "tipo": 8,
+        "desc": "nulla proident ipsum elit velit tempor veniam consectetur anim occaecat non dolore in Lorem proident",
+        "laboratorio": "eiusmod cillum",
+        "codnum": 8,
+        "precio": "$2,996.99"
+      }
+    ]
+  },
+  {
+    "id": "5ee1326852c218446de6baf8",
+    "ticket": 44,
+    "total": "$2,839.37",
+    "formapago": 1,
+    "vendedor": "Opal Thomas",
+    "cajero": "Blanche Hayden",
+    "inventario": [
+      {
+        "id": "5ee132681685a29d0b1d527f",
+        "tipo": 0,
+        "desc": "do officia ad laboris mollit nisi consectetur pariatur exercitation id consequat aliquip ut proident cupidatat",
+        "laboratorio": "sint excepteur",
+        "codnum": 0,
+        "precio": "$1,165.46"
+      },
+      {
+        "id": "5ee13268482e2560bcbd915e",
+        "tipo": 1,
+        "desc": "fugiat cupidatat Lorem aliqua elit occaecat elit voluptate non enim mollit voluptate excepteur pariatur non",
+        "laboratorio": "id nisi",
+        "codnum": 1,
+        "precio": "$1,262.01"
+      },
+      {
+        "id": "5ee13268fbf8f30b7af46ce1",
+        "tipo": 2,
+        "desc": "reprehenderit in commodo pariatur minim mollit et aute aute incididunt eu minim consectetur est non",
+        "laboratorio": "ipsum occaecat",
+        "codnum": 2,
+        "precio": "$1,082.24"
+      },
+      {
+        "id": "5ee132686b853b265c247f17",
+        "tipo": 3,
+        "desc": "laboris consequat veniam duis Lorem voluptate nisi nostrud veniam ut irure proident id aute Lorem",
+        "laboratorio": "ullamco et",
+        "codnum": 3,
+        "precio": "$3,547.88"
+      },
+      {
+        "id": "5ee1326861fece60c05c6f61",
+        "tipo": 4,
+        "desc": "aliqua anim cillum nulla reprehenderit qui qui ut laboris elit cillum sunt ex anim cupidatat",
+        "laboratorio": "exercitation ipsum",
+        "codnum": 4,
+        "precio": "$1,429.00"
+      },
+      {
+        "id": "5ee13268f2a6b938612cbeea",
+        "tipo": 5,
+        "desc": "dolore officia non ex mollit ex amet deserunt culpa ullamco adipisicing ipsum enim occaecat irure",
+        "laboratorio": "ut nisi",
+        "codnum": 5,
+        "precio": "$3,052.69"
+      }
+    ]
+  },
+  {
+    "id": "5ee132681049692d5f9048b2",
+    "ticket": 45,
+    "total": "$2,328.72",
+    "formapago": 3,
+    "vendedor": "Caitlin Wolf",
+    "cajero": "Pace Knox",
+    "inventario": [
+      {
+        "id": "5ee132687d840a33834ce629",
+        "tipo": 0,
+        "desc": "nulla proident consequat cillum officia non ipsum qui sint veniam dolore dolor do cillum aliqua",
+        "laboratorio": "nisi reprehenderit",
+        "codnum": 0,
+        "precio": "$1,327.71"
+      },
+      {
+        "id": "5ee132686582b32008b2cd01",
+        "tipo": 1,
+        "desc": "ad duis minim nostrud reprehenderit aliquip irure quis ea magna voluptate ullamco incididunt aliquip laborum",
+        "laboratorio": "eu do",
+        "codnum": 1,
+        "precio": "$3,666.34"
+      },
+      {
+        "id": "5ee1326890f6f56b2c4632d1",
+        "tipo": 2,
+        "desc": "irure laboris non sunt cupidatat excepteur proident amet anim incididunt esse dolor non aute ipsum",
+        "laboratorio": "magna id",
+        "codnum": 2,
+        "precio": "$3,563.70"
+      },
+      {
+        "id": "5ee132687844752b4399f610",
+        "tipo": 3,
+        "desc": "magna non officia nulla in magna proident irure ea ex irure aute Lorem tempor ipsum",
+        "laboratorio": "cillum nostrud",
+        "codnum": 3,
+        "precio": "$2,523.40"
+      },
+      {
+        "id": "5ee13268a99ab945e8d30786",
+        "tipo": 4,
+        "desc": "anim duis consequat adipisicing ullamco nulla nisi ut eu cupidatat elit irure enim in in",
+        "laboratorio": "eiusmod proident",
+        "codnum": 4,
+        "precio": "$2,905.49"
+      }
+    ]
+  },
+  {
+    "id": "5ee1326840f209590bb5a4ba",
+    "ticket": 46,
+    "total": "$3,599.59",
+    "formapago": 3,
+    "vendedor": "Cobb Santos",
+    "cajero": "Rivas Edwards",
+    "inventario": [
+      {
+        "id": "5ee1326885aac0fd38f0e9bf",
+        "tipo": 0,
+        "desc": "deserunt enim aliquip nulla quis do voluptate do exercitation consectetur dolore qui do est mollit",
+        "laboratorio": "laboris non",
+        "codnum": 0,
+        "precio": "$3,546.58"
+      },
+      {
+        "id": "5ee1326890d219716b52e2d1",
+        "tipo": 1,
+        "desc": "esse cupidatat deserunt occaecat incididunt id amet voluptate sit ad aliquip laborum aute consectetur elit",
+        "laboratorio": "non do",
+        "codnum": 1,
+        "precio": "$3,629.01"
+      },
+      {
+        "id": "5ee13268b1216e979b595182",
+        "tipo": 2,
+        "desc": "adipisicing Lorem reprehenderit enim id mollit eiusmod in proident aliqua sint velit eu nulla reprehenderit",
+        "laboratorio": "exercitation commodo",
+        "codnum": 2,
+        "precio": "$3,700.28"
+      },
+      {
+        "id": "5ee13268514d508a4e751f5a",
+        "tipo": 3,
+        "desc": "est mollit sint nostrud sint irure consectetur laborum esse adipisicing dolor velit fugiat eiusmod officia",
+        "laboratorio": "ipsum eiusmod",
+        "codnum": 3,
+        "precio": "$1,413.50"
+      },
+      {
+        "id": "5ee132686ed76ce75f34df6f",
+        "tipo": 4,
+        "desc": "laborum mollit adipisicing qui proident do duis laboris pariatur laborum occaecat magna sit consectetur duis",
+        "laboratorio": "eiusmod veniam",
+        "codnum": 4,
+        "precio": "$3,804.01"
+      },
+      {
+        "id": "5ee132685aaa73e147e69b17",
+        "tipo": 5,
+        "desc": "magna enim ad enim ad consequat incididunt consequat ad ad do officia enim et voluptate",
+        "laboratorio": "tempor reprehenderit",
+        "codnum": 5,
+        "precio": "$3,122.29"
+      },
+      {
+        "id": "5ee13268986d77c1f94ae236",
+        "tipo": 6,
+        "desc": "officia et est duis eiusmod dolor quis veniam ut consequat et cillum cupidatat excepteur minim",
+        "laboratorio": "amet in",
+        "codnum": 6,
+        "precio": "$3,236.43"
+      },
+      {
+        "id": "5ee132688852c2db998e7a72",
+        "tipo": 7,
+        "desc": "ex reprehenderit proident sunt commodo excepteur ad irure ullamco sunt est cupidatat magna deserunt Lorem",
+        "laboratorio": "cillum laborum",
+        "codnum": 7,
+        "precio": "$3,110.95"
+      },
+      {
+        "id": "5ee13268090fda2859255599",
+        "tipo": 8,
+        "desc": "laboris nulla incididunt mollit culpa dolor ipsum adipisicing incididunt mollit aliqua aliquip deserunt amet eiusmod",
+        "laboratorio": "pariatur cillum",
+        "codnum": 8,
+        "precio": "$1,829.01"
+      },
+      {
+        "id": "5ee13268ed9e0d920ca92aaa",
+        "tipo": 9,
+        "desc": "culpa consectetur commodo aute ea labore laborum ipsum consectetur sint Lorem laborum sint officia in",
+        "laboratorio": "nostrud irure",
+        "codnum": 9,
+        "precio": "$1,807.74"
+      }
+    ]
+  },
+  {
+    "id": "5ee132681cbd86ec9ec7e243",
+    "ticket": 47,
+    "total": "$1,361.11",
+    "formapago": 2,
+    "vendedor": "Snider Hendrix",
+    "cajero": "Marcia Ayala",
+    "inventario": [
+      {
+        "id": "5ee13268371c61c3b342b4a1",
+        "tipo": 0,
+        "desc": "fugiat anim duis aute ipsum fugiat est eu eu nisi et esse ex consequat officia",
+        "laboratorio": "ut sint",
+        "codnum": 0,
+        "precio": "$2,403.06"
+      },
+      {
+        "id": "5ee132681e6fc44f9600f2a6",
+        "tipo": 1,
+        "desc": "eiusmod cupidatat reprehenderit proident aute esse consectetur occaecat excepteur fugiat aute proident consectetur id ullamco",
+        "laboratorio": "id ex",
+        "codnum": 1,
+        "precio": "$2,472.17"
+      },
+      {
+        "id": "5ee1326809d2fb6ac193789f",
+        "tipo": 2,
+        "desc": "ut irure dolore eu minim labore ex aute commodo in consequat deserunt ex adipisicing aliquip",
+        "laboratorio": "cillum incididunt",
+        "codnum": 2,
+        "precio": "$1,537.11"
+      },
+      {
+        "id": "5ee1326843389cd1679a226a",
+        "tipo": 3,
+        "desc": "occaecat aliqua eu nostrud quis deserunt sint ea est elit sit ad laborum laboris culpa",
+        "laboratorio": "irure reprehenderit",
+        "codnum": 3,
+        "precio": "$2,695.21"
+      },
+      {
+        "id": "5ee13268ce7133854492376c",
+        "tipo": 4,
+        "desc": "duis voluptate fugiat non duis non labore Lorem proident anim commodo minim excepteur velit eu",
+        "laboratorio": "voluptate adipisicing",
+        "codnum": 4,
+        "precio": "$3,823.64"
+      },
+      {
+        "id": "5ee132685984632f6e86f000",
+        "tipo": 5,
+        "desc": "elit incididunt sit ea nulla veniam enim eu sunt do aliquip minim anim sit veniam",
+        "laboratorio": "id commodo",
+        "codnum": 5,
+        "precio": "$1,783.89"
+      },
+      {
+        "id": "5ee13268e15e071dd033f242",
+        "tipo": 6,
+        "desc": "Lorem cupidatat ad laboris eiusmod nisi exercitation laboris velit nisi consequat eu Lorem amet nostrud",
+        "laboratorio": "mollit exercitation",
+        "codnum": 6,
+        "precio": "$1,195.70"
+      },
+      {
+        "id": "5ee1326899b74819dfd39f80",
+        "tipo": 7,
+        "desc": "mollit aliquip minim id cupidatat quis proident cillum elit laboris minim sunt amet eiusmod sit",
+        "laboratorio": "ut est",
+        "codnum": 7,
+        "precio": "$3,562.70"
+      },
+      {
+        "id": "5ee13268c3d46419091460be",
+        "tipo": 8,
+        "desc": "quis anim aute velit non voluptate aute esse ea exercitation eu quis cillum voluptate reprehenderit",
+        "laboratorio": "qui aliqua",
+        "codnum": 8,
+        "precio": "$1,760.35"
+      },
+      {
+        "id": "5ee13268a98c2ebb5403e524",
+        "tipo": 9,
+        "desc": "id aliquip nisi occaecat eu ut aliqua veniam nisi magna elit laboris ad velit excepteur",
+        "laboratorio": "voluptate deserunt",
+        "codnum": 9,
+        "precio": "$2,609.36"
+      }
+    ]
+  },
+  {
+    "id": "5ee13268499e416668b83b4b",
+    "ticket": 48,
+    "total": "$1,753.93",
+    "formapago": 1,
+    "vendedor": "Dana Sandoval",
+    "cajero": "Priscilla Davidson",
+    "inventario": [
+      {
+        "id": "5ee132687f5adb4d9c3cdf8d",
+        "tipo": 0,
+        "desc": "minim laboris proident velit ipsum excepteur id nulla deserunt velit irure aute esse tempor dolore",
+        "laboratorio": "sunt cillum",
+        "codnum": 0,
+        "precio": "$2,261.66"
+      },
+      {
+        "id": "5ee132689915b99c478ef475",
+        "tipo": 1,
+        "desc": "consectetur qui voluptate cillum adipisicing incididunt enim laborum pariatur deserunt reprehenderit deserunt do culpa quis",
+        "laboratorio": "incididunt elit",
+        "codnum": 1,
+        "precio": "$2,341.34"
+      },
+      {
+        "id": "5ee132689923633d1acb1812",
+        "tipo": 2,
+        "desc": "cupidatat tempor mollit id velit non proident adipisicing eiusmod cupidatat eu amet ad excepteur cupidatat",
+        "laboratorio": "fugiat elit",
+        "codnum": 2,
+        "precio": "$3,158.79"
+      },
+      {
+        "id": "5ee13268140bf94e1e467876",
+        "tipo": 3,
+        "desc": "ipsum magna velit esse velit id commodo et consectetur qui adipisicing eiusmod est eu cillum",
+        "laboratorio": "laboris quis",
+        "codnum": 3,
+        "precio": "$3,989.47"
+      },
+      {
+        "id": "5ee13268c77df9c70b61bd88",
+        "tipo": 4,
+        "desc": "ipsum adipisicing ea nisi excepteur aute ut consequat nulla non officia velit commodo duis excepteur",
+        "laboratorio": "do eu",
+        "codnum": 4,
+        "precio": "$2,234.41"
+      },
+      {
+        "id": "5ee13268e91420b50f814716",
+        "tipo": 5,
+        "desc": "ullamco ut in cupidatat fugiat ea pariatur labore mollit sint ad voluptate consequat reprehenderit velit",
+        "laboratorio": "ipsum dolor",
+        "codnum": 5,
+        "precio": "$3,610.66"
+      },
+      {
+        "id": "5ee1326890bca7863f98f86a",
+        "tipo": 6,
+        "desc": "elit et labore sunt duis incididunt esse fugiat non nisi occaecat qui minim est proident",
+        "laboratorio": "eiusmod consequat",
+        "codnum": 6,
+        "precio": "$3,516.57"
+      }
+    ]
+  },
+  {
+    "id": "5ee13268bbe28a804086b957",
+    "ticket": 49,
+    "total": "$2,298.70",
+    "formapago": 2,
+    "vendedor": "Dolores Ortega",
+    "cajero": "Lydia Schultz",
+    "inventario": [
+      {
+        "id": "5ee1326887de97d76156d4f0",
+        "tipo": 0,
+        "desc": "in incididunt consequat esse occaecat fugiat esse minim aliqua est cillum consectetur cillum non labore",
+        "laboratorio": "ex nisi",
+        "codnum": 0,
+        "precio": "$3,111.68"
+      },
+      {
+        "id": "5ee1326848b36b9556599629",
+        "tipo": 1,
+        "desc": "aliquip non adipisicing anim aute commodo excepteur sunt ad labore amet duis irure voluptate duis",
+        "laboratorio": "excepteur pariatur",
+        "codnum": 1,
+        "precio": "$2,951.25"
+      },
+      {
+        "id": "5ee1326858475c6253643728",
+        "tipo": 2,
+        "desc": "id quis sunt Lorem deserunt exercitation aliquip ut reprehenderit proident labore sunt et laboris nulla",
+        "laboratorio": "sit reprehenderit",
+        "codnum": 2,
+        "precio": "$2,472.60"
+      },
+      {
+        "id": "5ee13268963721e01fefcc58",
+        "tipo": 3,
+        "desc": "qui ex enim sunt cillum elit officia ipsum aliqua incididunt velit labore consequat mollit ea",
+        "laboratorio": "proident esse",
+        "codnum": 3,
+        "precio": "$3,540.93"
+      },
+      {
+        "id": "5ee13268862e51af0b3626b0",
+        "tipo": 4,
+        "desc": "commodo enim commodo exercitation Lorem occaecat enim esse cillum ad qui consequat quis ullamco deserunt",
+        "laboratorio": "tempor commodo",
+        "codnum": 4,
+        "precio": "$1,655.34"
+      },
+      {
+        "id": "5ee132688da4f21275b7983c",
+        "tipo": 5,
+        "desc": "reprehenderit laboris do aliqua veniam cupidatat id commodo et quis exercitation enim cupidatat ullamco elit",
+        "laboratorio": "anim est",
+        "codnum": 5,
+        "precio": "$1,984.79"
+      },
+      {
+        "id": "5ee13268e94905b29e2c80b0",
+        "tipo": 6,
+        "desc": "consectetur duis Lorem adipisicing adipisicing elit cupidatat velit consectetur commodo labore occaecat ut eiusmod consectetur",
+        "laboratorio": "quis ex",
+        "codnum": 6,
+        "precio": "$1,762.40"
+      }
+    ]
+  }
+]

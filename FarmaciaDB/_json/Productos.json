@@ -1,0 +1,2002 @@
+[
+  {
+    "id": "5ee132d62c102306f782ffe7",
+    "tipo": 0,
+    "desc": "nisi labore non occaecat dolore culpa consectetur pariatur id exercitation duis deserunt ullamco fugiat laboris",
+    "laboratorio": "fugiat proident",
+    "codnum": 0,
+    "precio": "$3,883.39"
+  },
+  {
+    "id": "5ee132d6beac64d20ab61214",
+    "tipo": 1,
+    "desc": "ex reprehenderit voluptate pariatur fugiat consequat et exercitation qui proident deserunt magna incididunt quis dolor",
+    "laboratorio": "proident duis",
+    "codnum": 1,
+    "precio": "$2,406.87"
+  },
+  {
+    "id": "5ee132d6986017f1b4306637",
+    "tipo": 2,
+    "desc": "anim ut ea nostrud ea ut sit ea minim dolor minim reprehenderit veniam cupidatat tempor",
+    "laboratorio": "sint labore",
+    "codnum": 2,
+    "precio": "$2,666.14"
+  },
+  {
+    "id": "5ee132d6f6c84c749384c3b5",
+    "tipo": 3,
+    "desc": "eiusmod nulla do sint incididunt minim enim irure aliqua aliquip labore consequat minim reprehenderit amet",
+    "laboratorio": "dolore elit",
+    "codnum": 3,
+    "precio": "$3,926.26"
+  },
+  {
+    "id": "5ee132d675a410b86ea8a02d",
+    "tipo": 4,
+    "desc": "velit mollit consequat laborum labore esse dolor consequat culpa labore velit eu aute mollit est",
+    "laboratorio": "culpa do",
+    "codnum": 4,
+    "precio": "$2,416.92"
+  },
+  {
+    "id": "5ee132d6d275818d965db58b",
+    "tipo": 5,
+    "desc": "irure sunt voluptate incididunt elit occaecat fugiat proident do labore mollit id exercitation velit aute",
+    "laboratorio": "ex cupidatat",
+    "codnum": 5,
+    "precio": "$2,524.33"
+  },
+  {
+    "id": "5ee132d675b241e08091284d",
+    "tipo": 6,
+    "desc": "fugiat amet est pariatur aliquip mollit sunt labore occaecat dolor labore exercitation magna nisi minim",
+    "laboratorio": "et magna",
+    "codnum": 6,
+    "precio": "$2,403.93"
+  },
+  {
+    "id": "5ee132d634e2ae0bf35fdace",
+    "tipo": 7,
+    "desc": "ut officia aute irure ipsum esse qui anim cillum laborum ut non elit voluptate nostrud",
+    "laboratorio": "dolore velit",
+    "codnum": 7,
+    "precio": "$1,814.17"
+  },
+  {
+    "id": "5ee132d69f2db5edb11dfccf",
+    "tipo": 8,
+    "desc": "occaecat officia quis eu quis do elit et officia laborum non Lorem enim ea enim",
+    "laboratorio": "labore aute",
+    "codnum": 8,
+    "precio": "$3,369.92"
+  },
+  {
+    "id": "5ee132d67f81ba8beb587382",
+    "tipo": 9,
+    "desc": "ut ex reprehenderit ea nostrud veniam aute laboris tempor amet excepteur cillum irure cupidatat nostrud",
+    "laboratorio": "eu enim",
+    "codnum": 9,
+    "precio": "$1,556.34"
+  },
+  {
+    "id": "5ee132d6eb22abe322f6760c",
+    "tipo": 10,
+    "desc": "dolor incididunt dolor id proident consequat elit cillum ut non irure tempor labore nostrud nostrud",
+    "laboratorio": "officia dolor",
+    "codnum": 10,
+    "precio": "$1,413.75"
+  },
+  {
+    "id": "5ee132d629a6b5d7218ec596",
+    "tipo": 11,
+    "desc": "aliquip sint adipisicing laborum officia tempor ut incididunt tempor amet fugiat eiusmod et commodo anim",
+    "laboratorio": "pariatur Lorem",
+    "codnum": 11,
+    "precio": "$2,283.74"
+  },
+  {
+    "id": "5ee132d63a50b7eebf566588",
+    "tipo": 12,
+    "desc": "voluptate adipisicing minim id nisi ad id laborum voluptate occaecat anim cillum laboris et ex",
+    "laboratorio": "duis ut",
+    "codnum": 12,
+    "precio": "$1,633.28"
+  },
+  {
+    "id": "5ee132d6c64b8805435b04ed",
+    "tipo": 13,
+    "desc": "aute aliquip voluptate id amet mollit irure Lorem deserunt ut mollit ea id voluptate amet",
+    "laboratorio": "in ea",
+    "codnum": 13,
+    "precio": "$3,221.95"
+  },
+  {
+    "id": "5ee132d690f2f1a55b1dd12e",
+    "tipo": 14,
+    "desc": "duis amet aliqua ad amet consequat ullamco ut aliquip eiusmod culpa qui laborum sint in",
+    "laboratorio": "labore quis",
+    "codnum": 14,
+    "precio": "$2,113.78"
+  },
+  {
+    "id": "5ee132d66ada7832d2db5378",
+    "tipo": 15,
+    "desc": "id dolore officia proident minim Lorem adipisicing adipisicing esse aute minim dolor enim mollit ut",
+    "laboratorio": "quis magna",
+    "codnum": 15,
+    "precio": "$2,863.65"
+  },
+  {
+    "id": "5ee132d6a310ee2920d913a8",
+    "tipo": 16,
+    "desc": "non aliqua tempor nisi id excepteur velit duis sit sint et et commodo ad mollit",
+    "laboratorio": "irure eu",
+    "codnum": 16,
+    "precio": "$3,752.62"
+  },
+  {
+    "id": "5ee132d65160126d5aa697f5",
+    "tipo": 17,
+    "desc": "laborum sit elit anim et commodo pariatur exercitation quis mollit culpa excepteur eiusmod ullamco est",
+    "laboratorio": "exercitation sit",
+    "codnum": 17,
+    "precio": "$2,382.48"
+  },
+  {
+    "id": "5ee132d621173ca8b62a455c",
+    "tipo": 18,
+    "desc": "elit officia aliqua velit commodo dolore aliquip ea non sunt exercitation labore commodo minim tempor",
+    "laboratorio": "incididunt ullamco",
+    "codnum": 18,
+    "precio": "$2,877.22"
+  },
+  {
+    "id": "5ee132d61b463bcb9bd187ab",
+    "tipo": 19,
+    "desc": "amet id ea et Lorem minim sint deserunt duis id eiusmod labore amet amet mollit",
+    "laboratorio": "eiusmod esse",
+    "codnum": 19,
+    "precio": "$3,209.89"
+  },
+  {
+    "id": "5ee132d6a84e7a3d1d69eb85",
+    "tipo": 20,
+    "desc": "do laborum aliqua tempor magna duis ex aliquip do ut irure cillum mollit nisi id",
+    "laboratorio": "laborum enim",
+    "codnum": 20,
+    "precio": "$3,122.68"
+  },
+  {
+    "id": "5ee132d62ecb65771f746bad",
+    "tipo": 21,
+    "desc": "dolore qui id commodo sint eu sint amet et esse dolor aute excepteur labore est",
+    "laboratorio": "non in",
+    "codnum": 21,
+    "precio": "$1,734.48"
+  },
+  {
+    "id": "5ee132d6a670fef1800b78b6",
+    "tipo": 22,
+    "desc": "pariatur tempor consequat reprehenderit incididunt officia eiusmod velit ex veniam labore eiusmod ex incididunt exercitation",
+    "laboratorio": "cupidatat tempor",
+    "codnum": 22,
+    "precio": "$3,505.10"
+  },
+  {
+    "id": "5ee132d6cec940c9ff77b08c",
+    "tipo": 23,
+    "desc": "do do fugiat dolore cupidatat deserunt id proident Lorem nisi non incididunt ipsum mollit adipisicing",
+    "laboratorio": "voluptate ad",
+    "codnum": 23,
+    "precio": "$1,940.70"
+  },
+  {
+    "id": "5ee132d6fd30a935b60e3797",
+    "tipo": 24,
+    "desc": "mollit occaecat eiusmod sint eu sit veniam sit eu dolore tempor aliqua incididunt amet nostrud",
+    "laboratorio": "amet exercitation",
+    "codnum": 24,
+    "precio": "$3,145.83"
+  },
+  {
+    "id": "5ee132d681ebdc9d1c8021d7",
+    "tipo": 25,
+    "desc": "eu non Lorem consequat dolore ex elit magna magna duis qui do ipsum veniam officia",
+    "laboratorio": "in non",
+    "codnum": 25,
+    "precio": "$2,629.91"
+  },
+  {
+    "id": "5ee132d66bddca0964d2e83d",
+    "tipo": 26,
+    "desc": "in qui magna consectetur sunt amet occaecat Lorem incididunt occaecat ipsum ut magna commodo ea",
+    "laboratorio": "ad et",
+    "codnum": 26,
+    "precio": "$2,226.50"
+  },
+  {
+    "id": "5ee132d604957d0addf5fe22",
+    "tipo": 27,
+    "desc": "commodo pariatur consequat adipisicing est ea dolor magna fugiat quis occaecat irure est minim qui",
+    "laboratorio": "in reprehenderit",
+    "codnum": 27,
+    "precio": "$1,398.35"
+  },
+  {
+    "id": "5ee132d64424f40779b866ce",
+    "tipo": 28,
+    "desc": "nostrud mollit Lorem aute id consequat incididunt ad duis officia aliqua sit Lorem sit consequat",
+    "laboratorio": "duis amet",
+    "codnum": 28,
+    "precio": "$3,017.86"
+  },
+  {
+    "id": "5ee132d6ad2573e282a11f54",
+    "tipo": 29,
+    "desc": "qui Lorem laborum est duis aliqua ipsum eu reprehenderit nostrud sint commodo proident aliqua ipsum",
+    "laboratorio": "exercitation excepteur",
+    "codnum": 29,
+    "precio": "$2,941.80"
+  },
+  {
+    "id": "5ee132d67f1fe04fc55ffe5d",
+    "tipo": 30,
+    "desc": "dolore fugiat veniam duis voluptate aliqua Lorem veniam in et labore dolor incididunt velit consectetur",
+    "laboratorio": "commodo aute",
+    "codnum": 30,
+    "precio": "$2,248.90"
+  },
+  {
+    "id": "5ee132d61602acbd996f7ff9",
+    "tipo": 31,
+    "desc": "ipsum cillum deserunt sint elit minim sunt commodo fugiat dolor voluptate ut reprehenderit dolore officia",
+    "laboratorio": "aliquip eu",
+    "codnum": 31,
+    "precio": "$3,441.65"
+  },
+  {
+    "id": "5ee132d6fd7e27099b0c0aec",
+    "tipo": 32,
+    "desc": "esse qui amet laboris adipisicing ex sit sit labore nulla non irure nostrud nulla occaecat",
+    "laboratorio": "mollit reprehenderit",
+    "codnum": 32,
+    "precio": "$2,685.46"
+  },
+  {
+    "id": "5ee132d64c125f3e03aa46e1",
+    "tipo": 33,
+    "desc": "fugiat anim consequat laboris pariatur aute cupidatat sint deserunt fugiat adipisicing aliquip do sint et",
+    "laboratorio": "voluptate in",
+    "codnum": 33,
+    "precio": "$1,841.08"
+  },
+  {
+    "id": "5ee132d629f092693be8aa06",
+    "tipo": 34,
+    "desc": "voluptate dolor elit fugiat reprehenderit esse culpa commodo tempor proident dolor dolor officia eu consequat",
+    "laboratorio": "duis eu",
+    "codnum": 34,
+    "precio": "$2,319.62"
+  },
+  {
+    "id": "5ee132d62e24f57534c52f8f",
+    "tipo": 35,
+    "desc": "pariatur non laboris dolore excepteur cupidatat fugiat sunt laboris qui mollit sint commodo irure proident",
+    "laboratorio": "dolor culpa",
+    "codnum": 35,
+    "precio": "$3,164.78"
+  },
+  {
+    "id": "5ee132d65fb31d35e6943ce9",
+    "tipo": 36,
+    "desc": "officia amet sint incididunt consectetur quis qui ut sunt exercitation excepteur reprehenderit pariatur consequat nisi",
+    "laboratorio": "nostrud tempor",
+    "codnum": 36,
+    "precio": "$2,157.03"
+  },
+  {
+    "id": "5ee132d62c745c9bd60aa4c0",
+    "tipo": 37,
+    "desc": "aliquip dolore proident mollit eiusmod mollit qui non consequat in tempor officia nulla ullamco fugiat",
+    "laboratorio": "eu eu",
+    "codnum": 37,
+    "precio": "$2,418.77"
+  },
+  {
+    "id": "5ee132d6d7397a17ae62aba6",
+    "tipo": 38,
+    "desc": "tempor tempor elit voluptate minim ad est id voluptate tempor cupidatat velit adipisicing deserunt adipisicing",
+    "laboratorio": "nisi ea",
+    "codnum": 38,
+    "precio": "$2,212.72"
+  },
+  {
+    "id": "5ee132d6180f1b482ccc96c6",
+    "tipo": 39,
+    "desc": "laboris eu ad anim incididunt ipsum eu veniam adipisicing pariatur laborum deserunt aute aliqua velit",
+    "laboratorio": "in dolor",
+    "codnum": 39,
+    "precio": "$1,170.28"
+  },
+  {
+    "id": "5ee132d6262e69ad7be0054c",
+    "tipo": 40,
+    "desc": "irure fugiat non nulla dolor do esse do laboris minim qui sint labore irure magna",
+    "laboratorio": "nostrud ex",
+    "codnum": 40,
+    "precio": "$3,424.32"
+  },
+  {
+    "id": "5ee132d639421c9d34b70517",
+    "tipo": 41,
+    "desc": "nisi qui aliqua incididunt est in nisi qui aliqua nostrud est quis dolore adipisicing commodo",
+    "laboratorio": "consequat ea",
+    "codnum": 41,
+    "precio": "$3,759.26"
+  },
+  {
+    "id": "5ee132d653fb5a4092d80aa1",
+    "tipo": 42,
+    "desc": "nisi adipisicing ipsum aliqua dolore culpa eiusmod id sunt officia incididunt duis do consectetur in",
+    "laboratorio": "sint officia",
+    "codnum": 42,
+    "precio": "$3,120.64"
+  },
+  {
+    "id": "5ee132d611c94f1b391579fd",
+    "tipo": 43,
+    "desc": "qui reprehenderit do laboris dolor sit exercitation aute aliquip incididunt ea aliquip excepteur reprehenderit magna",
+    "laboratorio": "et occaecat",
+    "codnum": 43,
+    "precio": "$1,834.42"
+  },
+  {
+    "id": "5ee132d6b0b83a1f5e2df52e",
+    "tipo": 44,
+    "desc": "enim cillum eu voluptate elit velit aliquip velit id elit in velit irure excepteur excepteur",
+    "laboratorio": "deserunt cillum",
+    "codnum": 44,
+    "precio": "$1,605.21"
+  },
+  {
+    "id": "5ee132d60aed458f18443e99",
+    "tipo": 45,
+    "desc": "cupidatat eiusmod non aliquip eiusmod consequat aliquip cillum aute proident non deserunt sint consequat magna",
+    "laboratorio": "voluptate velit",
+    "codnum": 45,
+    "precio": "$2,216.34"
+  },
+  {
+    "id": "5ee132d6e33a20833a4774b9",
+    "tipo": 46,
+    "desc": "ullamco quis esse ea aliquip nulla anim do cupidatat pariatur cupidatat consequat ullamco veniam enim",
+    "laboratorio": "dolore veniam",
+    "codnum": 46,
+    "precio": "$3,464.84"
+  },
+  {
+    "id": "5ee132d6e83f3243d594d3d6",
+    "tipo": 47,
+    "desc": "fugiat sunt ea commodo reprehenderit et sit nulla nostrud dolore est ea fugiat anim pariatur",
+    "laboratorio": "exercitation ad",
+    "codnum": 47,
+    "precio": "$2,687.07"
+  },
+  {
+    "id": "5ee132d6195223f2552a0945",
+    "tipo": 48,
+    "desc": "tempor incididunt adipisicing cupidatat est Lorem quis aute et ut eiusmod consectetur eiusmod amet veniam",
+    "laboratorio": "laboris est",
+    "codnum": 48,
+    "precio": "$2,574.57"
+  },
+  {
+    "id": "5ee132d6476d7e05e006a858",
+    "tipo": 49,
+    "desc": "id exercitation dolor ipsum minim ex tempor nulla mollit ad ea do velit incididunt officia",
+    "laboratorio": "proident do",
+    "codnum": 49,
+    "precio": "$1,567.51"
+  },
+  {
+    "id": "5ee132d6fa6377416aa422a4",
+    "tipo": 50,
+    "desc": "irure Lorem eiusmod duis aliqua sint labore aliquip deserunt proident est eiusmod Lorem eiusmod veniam",
+    "laboratorio": "cillum laboris",
+    "codnum": 50,
+    "precio": "$1,432.72"
+  },
+  {
+    "id": "5ee132d67f84d457275ecc3b",
+    "tipo": 51,
+    "desc": "excepteur irure nostrud eu enim nisi irure enim consectetur ipsum nostrud commodo deserunt reprehenderit anim",
+    "laboratorio": "eiusmod tempor",
+    "codnum": 51,
+    "precio": "$2,455.11"
+  },
+  {
+    "id": "5ee132d613fd9487e8795f23",
+    "tipo": 52,
+    "desc": "ullamco est enim ipsum cupidatat minim ipsum quis ipsum nulla pariatur aliqua ea et in",
+    "laboratorio": "aliquip magna",
+    "codnum": 52,
+    "precio": "$1,513.16"
+  },
+  {
+    "id": "5ee132d6f693536aaab90fb9",
+    "tipo": 53,
+    "desc": "pariatur dolore ipsum proident magna qui quis eu occaecat incididunt mollit aliqua excepteur velit nisi",
+    "laboratorio": "do ex",
+    "codnum": 53,
+    "precio": "$2,699.27"
+  },
+  {
+    "id": "5ee132d637a770ac81f813b1",
+    "tipo": 54,
+    "desc": "aliquip id in magna ullamco eu sit ut non proident laborum eu reprehenderit aliquip reprehenderit",
+    "laboratorio": "est eu",
+    "codnum": 54,
+    "precio": "$3,275.47"
+  },
+  {
+    "id": "5ee132d6e5d0cb3db197c61b",
+    "tipo": 55,
+    "desc": "enim do do elit consectetur non labore non magna consequat tempor veniam amet velit nisi",
+    "laboratorio": "pariatur laboris",
+    "codnum": 55,
+    "precio": "$2,122.10"
+  },
+  {
+    "id": "5ee132d6054b11f1edc310ca",
+    "tipo": 56,
+    "desc": "commodo eu nostrud labore nulla pariatur nostrud exercitation ad deserunt reprehenderit irure qui reprehenderit nulla",
+    "laboratorio": "occaecat cupidatat",
+    "codnum": 56,
+    "precio": "$3,660.83"
+  },
+  {
+    "id": "5ee132d6da5a56fa354ecb2c",
+    "tipo": 57,
+    "desc": "esse est nulla excepteur deserunt Lorem veniam amet duis duis ex est voluptate et irure",
+    "laboratorio": "elit id",
+    "codnum": 57,
+    "precio": "$3,892.70"
+  },
+  {
+    "id": "5ee132d65a4c73123cf04e00",
+    "tipo": 58,
+    "desc": "aliquip proident sit commodo enim culpa nostrud adipisicing anim qui nulla enim est aute excepteur",
+    "laboratorio": "ea exercitation",
+    "codnum": 58,
+    "precio": "$2,334.89"
+  },
+  {
+    "id": "5ee132d6c1c6fe87ef53f00a",
+    "tipo": 59,
+    "desc": "nostrud cupidatat anim excepteur ex labore ut ut officia nisi incididunt officia ea sit sint",
+    "laboratorio": "mollit cupidatat",
+    "codnum": 59,
+    "precio": "$1,129.47"
+  },
+  {
+    "id": "5ee132d60877a8456490ad1c",
+    "tipo": 60,
+    "desc": "eiusmod nisi reprehenderit id aliqua aute dolor laborum nulla est laboris est sit irure eu",
+    "laboratorio": "non quis",
+    "codnum": 60,
+    "precio": "$3,029.65"
+  },
+  {
+    "id": "5ee132d607949100ef69caf7",
+    "tipo": 61,
+    "desc": "nostrud eiusmod veniam proident aliquip incididunt eiusmod et tempor tempor magna aliquip sint esse occaecat",
+    "laboratorio": "ex sint",
+    "codnum": 61,
+    "precio": "$3,985.01"
+  },
+  {
+    "id": "5ee132d685a547157b063c3b",
+    "tipo": 62,
+    "desc": "excepteur incididunt ex adipisicing sunt qui laborum elit irure exercitation velit quis proident in officia",
+    "laboratorio": "nulla quis",
+    "codnum": 62,
+    "precio": "$3,667.00"
+  },
+  {
+    "id": "5ee132d651230b31b7c72e44",
+    "tipo": 63,
+    "desc": "commodo cillum ullamco ullamco fugiat ad sunt et excepteur dolore incididunt magna nostrud tempor deserunt",
+    "laboratorio": "est consequat",
+    "codnum": 63,
+    "precio": "$2,203.59"
+  },
+  {
+    "id": "5ee132d6530d0a6677769dc7",
+    "tipo": 64,
+    "desc": "in proident sunt do pariatur cupidatat mollit dolor ut esse amet et non eiusmod sit",
+    "laboratorio": "culpa eiusmod",
+    "codnum": 64,
+    "precio": "$2,169.17"
+  },
+  {
+    "id": "5ee132d63e750234f3a6adb2",
+    "tipo": 65,
+    "desc": "voluptate in adipisicing amet ipsum sunt nulla exercitation Lorem sint quis laboris et duis est",
+    "laboratorio": "ex commodo",
+    "codnum": 65,
+    "precio": "$2,062.41"
+  },
+  {
+    "id": "5ee132d62e1d9a7f66a99dbe",
+    "tipo": 66,
+    "desc": "magna sunt in cupidatat officia pariatur consequat aute laborum in ea ullamco aute amet elit",
+    "laboratorio": "nostrud anim",
+    "codnum": 66,
+    "precio": "$3,975.34"
+  },
+  {
+    "id": "5ee132d6a929322f5f6ac6c7",
+    "tipo": 67,
+    "desc": "duis labore non anim veniam fugiat dolore nostrud dolor incididunt proident fugiat anim sint ut",
+    "laboratorio": "voluptate sit",
+    "codnum": 67,
+    "precio": "$2,802.94"
+  },
+  {
+    "id": "5ee132d6a08bbea657e51b39",
+    "tipo": 68,
+    "desc": "non magna esse nostrud Lorem quis nostrud excepteur do laboris ut ut eiusmod nostrud fugiat",
+    "laboratorio": "dolore elit",
+    "codnum": 68,
+    "precio": "$1,531.20"
+  },
+  {
+    "id": "5ee132d67a55a7251908b9e1",
+    "tipo": 69,
+    "desc": "dolor dolore dolor aliquip occaecat adipisicing nulla minim amet ex sunt magna deserunt do velit",
+    "laboratorio": "voluptate elit",
+    "codnum": 69,
+    "precio": "$3,893.22"
+  },
+  {
+    "id": "5ee132d646432bd6465c85a4",
+    "tipo": 70,
+    "desc": "do laborum pariatur tempor labore non eu laboris Lorem minim ex velit esse excepteur duis",
+    "laboratorio": "consectetur Lorem",
+    "codnum": 70,
+    "precio": "$2,096.23"
+  },
+  {
+    "id": "5ee132d6899702aaebd2b6ff",
+    "tipo": 71,
+    "desc": "mollit qui tempor consequat ad culpa ex do incididunt fugiat ullamco id laboris sit voluptate",
+    "laboratorio": "sit cupidatat",
+    "codnum": 71,
+    "precio": "$1,213.46"
+  },
+  {
+    "id": "5ee132d684b1040b58125702",
+    "tipo": 72,
+    "desc": "sint ullamco deserunt sunt labore sint eu duis minim nisi quis elit laboris do consectetur",
+    "laboratorio": "aute ullamco",
+    "codnum": 72,
+    "precio": "$2,786.02"
+  },
+  {
+    "id": "5ee132d6e076fbf0a4eec571",
+    "tipo": 73,
+    "desc": "eiusmod sit nulla ipsum adipisicing culpa eiusmod labore nostrud adipisicing veniam laborum est nulla occaecat",
+    "laboratorio": "commodo nulla",
+    "codnum": 73,
+    "precio": "$2,736.48"
+  },
+  {
+    "id": "5ee132d6224c1a545abcd38d",
+    "tipo": 74,
+    "desc": "aute occaecat eu velit qui ex reprehenderit in consectetur labore proident nulla tempor aute magna",
+    "laboratorio": "consectetur ullamco",
+    "codnum": 74,
+    "precio": "$3,198.32"
+  },
+  {
+    "id": "5ee132d672b467bf4e7eba6b",
+    "tipo": 75,
+    "desc": "anim do consequat enim et et sit dolore et ullamco laboris ut occaecat fugiat enim",
+    "laboratorio": "elit culpa",
+    "codnum": 75,
+    "precio": "$2,799.47"
+  },
+  {
+    "id": "5ee132d6ea11d419d3be92fa",
+    "tipo": 76,
+    "desc": "esse magna mollit eiusmod culpa Lorem elit excepteur occaecat sint enim Lorem fugiat irure veniam",
+    "laboratorio": "deserunt nostrud",
+    "codnum": 76,
+    "precio": "$1,258.87"
+  },
+  {
+    "id": "5ee132d686e43b8ddf978b0d",
+    "tipo": 77,
+    "desc": "ipsum qui ipsum duis fugiat reprehenderit dolor duis qui ex eu in consequat sunt quis",
+    "laboratorio": "esse et",
+    "codnum": 77,
+    "precio": "$1,536.12"
+  },
+  {
+    "id": "5ee132d6b5c3c87db02121de",
+    "tipo": 78,
+    "desc": "anim ut cupidatat adipisicing amet dolore mollit eiusmod consequat pariatur ex pariatur ex deserunt occaecat",
+    "laboratorio": "ad proident",
+    "codnum": 78,
+    "precio": "$1,926.59"
+  },
+  {
+    "id": "5ee132d6211dbb9e7a3771d3",
+    "tipo": 79,
+    "desc": "excepteur quis culpa duis aliquip laborum adipisicing et excepteur aute nisi est velit cillum cillum",
+    "laboratorio": "ex pariatur",
+    "codnum": 79,
+    "precio": "$2,165.91"
+  },
+  {
+    "id": "5ee132d6724c2d403de9525e",
+    "tipo": 80,
+    "desc": "commodo cupidatat dolore consequat sint fugiat et sunt laborum proident dolor labore do mollit ea",
+    "laboratorio": "aliqua exercitation",
+    "codnum": 80,
+    "precio": "$2,272.16"
+  },
+  {
+    "id": "5ee132d60c4c2016280efb75",
+    "tipo": 81,
+    "desc": "consequat cupidatat sunt anim elit enim aute anim elit irure Lorem magna officia commodo dolore",
+    "laboratorio": "ad excepteur",
+    "codnum": 81,
+    "precio": "$3,883.66"
+  },
+  {
+    "id": "5ee132d65a043cc2714333db",
+    "tipo": 82,
+    "desc": "anim culpa voluptate non proident ullamco reprehenderit minim aliquip officia labore ea elit voluptate elit",
+    "laboratorio": "non est",
+    "codnum": 82,
+    "precio": "$3,900.67"
+  },
+  {
+    "id": "5ee132d62445f7c267cefddc",
+    "tipo": 83,
+    "desc": "duis labore adipisicing aliquip laboris enim do quis mollit excepteur fugiat aliquip nostrud exercitation proident",
+    "laboratorio": "excepteur tempor",
+    "codnum": 83,
+    "precio": "$3,098.40"
+  },
+  {
+    "id": "5ee132d6ff2167264bb9a34b",
+    "tipo": 84,
+    "desc": "adipisicing commodo elit exercitation qui id commodo commodo amet quis fugiat mollit sit cillum nostrud",
+    "laboratorio": "non mollit",
+    "codnum": 84,
+    "precio": "$1,077.96"
+  },
+  {
+    "id": "5ee132d66e5811d5bc340cac",
+    "tipo": 85,
+    "desc": "culpa veniam velit non consectetur qui consectetur ullamco ut consectetur dolore nostrud tempor irure consequat",
+    "laboratorio": "proident ullamco",
+    "codnum": 85,
+    "precio": "$2,754.83"
+  },
+  {
+    "id": "5ee132d664ffb0863be6dea2",
+    "tipo": 86,
+    "desc": "et et esse cillum ullamco excepteur voluptate officia in magna ex aute sunt pariatur eiusmod",
+    "laboratorio": "minim do",
+    "codnum": 86,
+    "precio": "$2,550.28"
+  },
+  {
+    "id": "5ee132d68d1dc75f81a9a591",
+    "tipo": 87,
+    "desc": "id aliqua duis duis non veniam adipisicing velit mollit sit officia Lorem nisi quis in",
+    "laboratorio": "in fugiat",
+    "codnum": 87,
+    "precio": "$2,440.42"
+  },
+  {
+    "id": "5ee132d639b2d1e889fb0390",
+    "tipo": 88,
+    "desc": "duis do labore pariatur ex in est aliqua sunt et mollit ea consequat ex tempor",
+    "laboratorio": "voluptate minim",
+    "codnum": 88,
+    "precio": "$3,113.15"
+  },
+  {
+    "id": "5ee132d6e5a1740be109513d",
+    "tipo": 89,
+    "desc": "aute fugiat ipsum velit nostrud aliquip deserunt excepteur elit id voluptate consequat exercitation id et",
+    "laboratorio": "amet Lorem",
+    "codnum": 89,
+    "precio": "$2,107.39"
+  },
+  {
+    "id": "5ee132d683245523287a6c8d",
+    "tipo": 90,
+    "desc": "occaecat commodo velit nostrud labore ipsum sint laborum mollit dolore laborum nostrud quis nisi commodo",
+    "laboratorio": "eu qui",
+    "codnum": 90,
+    "precio": "$1,677.42"
+  },
+  {
+    "id": "5ee132d6541d78eda6c4a31c",
+    "tipo": 91,
+    "desc": "exercitation esse cupidatat et fugiat elit elit elit minim eu et ut cupidatat elit nisi",
+    "laboratorio": "sit est",
+    "codnum": 91,
+    "precio": "$3,441.63"
+  },
+  {
+    "id": "5ee132d63aa65ae181caba88",
+    "tipo": 92,
+    "desc": "eiusmod amet nostrud id proident incididunt cupidatat duis proident dolor est qui tempor culpa anim",
+    "laboratorio": "nisi culpa",
+    "codnum": 92,
+    "precio": "$1,774.23"
+  },
+  {
+    "id": "5ee132d680e8dbbe76277db5",
+    "tipo": 93,
+    "desc": "nulla ipsum excepteur mollit cupidatat incididunt est aliqua enim ad minim fugiat duis aute consectetur",
+    "laboratorio": "Lorem labore",
+    "codnum": 93,
+    "precio": "$1,614.32"
+  },
+  {
+    "id": "5ee132d6dff40b41a9d88b76",
+    "tipo": 94,
+    "desc": "laboris ad aliqua qui aliqua pariatur voluptate magna excepteur anim nisi enim eu proident eiusmod",
+    "laboratorio": "sint incididunt",
+    "codnum": 94,
+    "precio": "$1,467.51"
+  },
+  {
+    "id": "5ee132d64f1fd470e2e728c3",
+    "tipo": 95,
+    "desc": "officia dolore labore duis ut velit proident dolor exercitation non cillum voluptate ex cillum adipisicing",
+    "laboratorio": "cupidatat fugiat",
+    "codnum": 95,
+    "precio": "$2,937.28"
+  },
+  {
+    "id": "5ee132d67310afc6e4052ef0",
+    "tipo": 96,
+    "desc": "ut veniam ut ullamco culpa voluptate magna consequat sit et ea voluptate velit anim mollit",
+    "laboratorio": "veniam proident",
+    "codnum": 96,
+    "precio": "$2,097.86"
+  },
+  {
+    "id": "5ee132d6ea2ed44a0d4294d6",
+    "tipo": 97,
+    "desc": "aute do voluptate laboris ex fugiat exercitation Lorem consequat ad aliqua et anim elit est",
+    "laboratorio": "tempor occaecat",
+    "codnum": 97,
+    "precio": "$2,834.74"
+  },
+  {
+    "id": "5ee132d6e05f813f431ed64f",
+    "tipo": 98,
+    "desc": "cillum velit qui nulla ut velit mollit deserunt labore in nisi velit cillum labore pariatur",
+    "laboratorio": "in sint",
+    "codnum": 98,
+    "precio": "$2,736.75"
+  },
+  {
+    "id": "5ee132d6c6517c662686ef33",
+    "tipo": 99,
+    "desc": "Lorem magna proident in eu ad eu dolore anim non duis sint exercitation ad excepteur",
+    "laboratorio": "pariatur dolor",
+    "codnum": 99,
+    "precio": "$1,426.11"
+  },
+  {
+    "id": "5ee132d62176576261f502cd",
+    "tipo": 100,
+    "desc": "commodo reprehenderit voluptate amet deserunt eiusmod aute consectetur eiusmod ut exercitation laboris ut est dolore",
+    "laboratorio": "est eiusmod",
+    "codnum": 100,
+    "precio": "$1,658.55"
+  },
+  {
+    "id": "5ee132d6aa25867064341924",
+    "tipo": 101,
+    "desc": "anim aliqua et veniam adipisicing fugiat culpa dolor anim eu reprehenderit pariatur irure duis veniam",
+    "laboratorio": "esse anim",
+    "codnum": 101,
+    "precio": "$1,162.45"
+  },
+  {
+    "id": "5ee132d6107a8a1d4a7acb2a",
+    "tipo": 102,
+    "desc": "anim laboris officia non cupidatat anim ex eiusmod voluptate cupidatat cillum nostrud in eiusmod laboris",
+    "laboratorio": "culpa mollit",
+    "codnum": 102,
+    "precio": "$1,734.91"
+  },
+  {
+    "id": "5ee132d643fe89a4840d2db5",
+    "tipo": 103,
+    "desc": "adipisicing culpa proident sunt dolore culpa fugiat officia pariatur consequat occaecat dolor amet aliqua esse",
+    "laboratorio": "proident ut",
+    "codnum": 103,
+    "precio": "$1,551.71"
+  },
+  {
+    "id": "5ee132d619a77eaf4d286267",
+    "tipo": 104,
+    "desc": "anim ut ea consequat occaecat exercitation nulla veniam exercitation consequat ipsum cillum nisi sunt nisi",
+    "laboratorio": "irure cupidatat",
+    "codnum": 104,
+    "precio": "$3,186.82"
+  },
+  {
+    "id": "5ee132d6c0d6f0c554fd678d",
+    "tipo": 105,
+    "desc": "sint nulla deserunt laboris sit officia sint fugiat cupidatat in laboris et labore veniam ad",
+    "laboratorio": "veniam non",
+    "codnum": 105,
+    "precio": "$2,212.16"
+  },
+  {
+    "id": "5ee132d6b1707ddd1617b0bb",
+    "tipo": 106,
+    "desc": "veniam magna ullamco id est mollit elit dolor laboris sunt laboris reprehenderit dolore veniam velit",
+    "laboratorio": "velit elit",
+    "codnum": 106,
+    "precio": "$1,391.80"
+  },
+  {
+    "id": "5ee132d67a0c6c6b3d393ef8",
+    "tipo": 107,
+    "desc": "eiusmod excepteur ullamco est ipsum labore nulla ut velit commodo ullamco incididunt Lorem qui officia",
+    "laboratorio": "elit incididunt",
+    "codnum": 107,
+    "precio": "$1,287.58"
+  },
+  {
+    "id": "5ee132d6c43d0fb04e0698ce",
+    "tipo": 108,
+    "desc": "nostrud deserunt ea consectetur laborum commodo anim cupidatat minim irure Lorem anim ut occaecat reprehenderit",
+    "laboratorio": "et culpa",
+    "codnum": 108,
+    "precio": "$2,824.08"
+  },
+  {
+    "id": "5ee132d6468a44f26e047940",
+    "tipo": 109,
+    "desc": "aliquip reprehenderit ad irure do aliquip commodo culpa irure consectetur ex enim elit ex aute",
+    "laboratorio": "nostrud mollit",
+    "codnum": 109,
+    "precio": "$1,149.95"
+  },
+  {
+    "id": "5ee132d653d8a3b1b2e55b96",
+    "tipo": 110,
+    "desc": "aliqua est dolore aute laborum ut sint aliquip do amet exercitation cillum occaecat elit nisi",
+    "laboratorio": "exercitation incididunt",
+    "codnum": 110,
+    "precio": "$1,273.90"
+  },
+  {
+    "id": "5ee132d63256f6c1fbd93b89",
+    "tipo": 111,
+    "desc": "cupidatat nostrud ad nostrud minim et tempor sint consequat deserunt consectetur tempor ex exercitation elit",
+    "laboratorio": "mollit elit",
+    "codnum": 111,
+    "precio": "$3,170.19"
+  },
+  {
+    "id": "5ee132d6bf5d8ff60b10a42f",
+    "tipo": 112,
+    "desc": "officia eu in fugiat mollit do aute exercitation id cillum eu aliquip nulla mollit id",
+    "laboratorio": "qui sint",
+    "codnum": 112,
+    "precio": "$3,925.42"
+  },
+  {
+    "id": "5ee132d63e263503d7300641",
+    "tipo": 113,
+    "desc": "aliqua irure dolor adipisicing adipisicing fugiat quis sit eu laboris cupidatat dolor sint occaecat deserunt",
+    "laboratorio": "fugiat eiusmod",
+    "codnum": 113,
+    "precio": "$1,319.99"
+  },
+  {
+    "id": "5ee132d66b12e4e14a0ca5e9",
+    "tipo": 114,
+    "desc": "consequat enim veniam Lorem aute adipisicing nisi veniam exercitation adipisicing laborum consectetur in laboris ad",
+    "laboratorio": "reprehenderit aute",
+    "codnum": 114,
+    "precio": "$1,121.07"
+  },
+  {
+    "id": "5ee132d6ec20c63fbc5d9924",
+    "tipo": 115,
+    "desc": "deserunt deserunt et cupidatat aliqua consequat ut ipsum tempor ea fugiat proident consequat nostrud exercitation",
+    "laboratorio": "qui duis",
+    "codnum": 115,
+    "precio": "$3,194.37"
+  },
+  {
+    "id": "5ee132d641d758ab1a52a3fc",
+    "tipo": 116,
+    "desc": "non incididunt dolor non laboris consequat incididunt do velit duis sunt officia ullamco occaecat do",
+    "laboratorio": "adipisicing pariatur",
+    "codnum": 116,
+    "precio": "$2,557.94"
+  },
+  {
+    "id": "5ee132d6ca2d2a7d7ba1e136",
+    "tipo": 117,
+    "desc": "ex ut sit laborum ullamco ut fugiat ex incididunt labore in ipsum anim cupidatat consectetur",
+    "laboratorio": "fugiat dolore",
+    "codnum": 117,
+    "precio": "$2,136.09"
+  },
+  {
+    "id": "5ee132d61180ffb6004172cb",
+    "tipo": 118,
+    "desc": "culpa ex labore nulla fugiat eu sit cupidatat sint deserunt duis ex tempor fugiat minim",
+    "laboratorio": "irure cillum",
+    "codnum": 118,
+    "precio": "$2,754.56"
+  },
+  {
+    "id": "5ee132d668c7b39c010ea4a2",
+    "tipo": 119,
+    "desc": "anim commodo voluptate et velit proident aliquip eu id duis eiusmod cillum irure occaecat officia",
+    "laboratorio": "ullamco dolore",
+    "codnum": 119,
+    "precio": "$1,189.34"
+  },
+  {
+    "id": "5ee132d65578a0132214bbef",
+    "tipo": 120,
+    "desc": "eu ipsum culpa laboris sit aliquip laborum incididunt voluptate commodo aute ipsum ipsum eu ex",
+    "laboratorio": "consequat incididunt",
+    "codnum": 120,
+    "precio": "$2,230.19"
+  },
+  {
+    "id": "5ee132d611975a0eaf4c90fa",
+    "tipo": 121,
+    "desc": "dolor veniam ullamco consectetur do mollit ex veniam anim veniam nostrud ullamco laborum exercitation adipisicing",
+    "laboratorio": "ex enim",
+    "codnum": 121,
+    "precio": "$3,175.46"
+  },
+  {
+    "id": "5ee132d643c6ce0e6d3cb1ed",
+    "tipo": 122,
+    "desc": "aliquip do excepteur do duis fugiat consequat sint quis voluptate adipisicing nulla qui sunt consequat",
+    "laboratorio": "et esse",
+    "codnum": 122,
+    "precio": "$1,663.39"
+  },
+  {
+    "id": "5ee132d6070b541fa3bc92a3",
+    "tipo": 123,
+    "desc": "incididunt aliqua culpa aute eiusmod adipisicing deserunt exercitation elit magna in est labore adipisicing proident",
+    "laboratorio": "irure aliquip",
+    "codnum": 123,
+    "precio": "$2,693.43"
+  },
+  {
+    "id": "5ee132d659b555dad4ed128f",
+    "tipo": 124,
+    "desc": "ex eu cillum excepteur culpa velit nulla enim eiusmod aute deserunt consectetur anim id aute",
+    "laboratorio": "voluptate minim",
+    "codnum": 124,
+    "precio": "$1,069.15"
+  },
+  {
+    "id": "5ee132d69a9f6775f02b6282",
+    "tipo": 125,
+    "desc": "ex dolore duis labore ipsum anim irure fugiat ipsum magna aliquip sunt irure minim exercitation",
+    "laboratorio": "ad labore",
+    "codnum": 125,
+    "precio": "$2,534.38"
+  },
+  {
+    "id": "5ee132d62f2214af83e2591c",
+    "tipo": 126,
+    "desc": "mollit cillum laboris id sunt incididunt nulla ipsum deserunt in consectetur tempor occaecat incididunt dolore",
+    "laboratorio": "pariatur irure",
+    "codnum": 126,
+    "precio": "$2,916.24"
+  },
+  {
+    "id": "5ee132d6e2c30f543c0c7552",
+    "tipo": 127,
+    "desc": "voluptate ipsum culpa enim Lorem voluptate non proident aliqua ut officia irure non ut irure",
+    "laboratorio": "dolor in",
+    "codnum": 127,
+    "precio": "$1,783.55"
+  },
+  {
+    "id": "5ee132d603245cce3fd6ca46",
+    "tipo": 128,
+    "desc": "tempor nostrud ad elit commodo esse minim nisi minim enim amet proident aute aliquip fugiat",
+    "laboratorio": "eu proident",
+    "codnum": 128,
+    "precio": "$2,880.52"
+  },
+  {
+    "id": "5ee132d6a713b4c6840e9d40",
+    "tipo": 129,
+    "desc": "aute excepteur mollit id consequat fugiat amet et fugiat sit adipisicing nisi minim quis duis",
+    "laboratorio": "minim consectetur",
+    "codnum": 129,
+    "precio": "$1,886.61"
+  },
+  {
+    "id": "5ee132d693a1bf8a8741b90e",
+    "tipo": 130,
+    "desc": "culpa exercitation irure ad consectetur sit velit minim magna duis Lorem esse elit nisi anim",
+    "laboratorio": "qui labore",
+    "codnum": 130,
+    "precio": "$3,398.88"
+  },
+  {
+    "id": "5ee132d6b1d298d75bd7dd53",
+    "tipo": 131,
+    "desc": "ut laboris pariatur eu velit labore duis eiusmod qui nisi in nostrud officia officia qui",
+    "laboratorio": "irure aliquip",
+    "codnum": 131,
+    "precio": "$2,827.44"
+  },
+  {
+    "id": "5ee132d6d8a1f9d9720bd078",
+    "tipo": 132,
+    "desc": "excepteur mollit aliquip adipisicing ut ipsum reprehenderit velit amet cupidatat veniam culpa tempor nostrud et",
+    "laboratorio": "qui duis",
+    "codnum": 132,
+    "precio": "$3,252.81"
+  },
+  {
+    "id": "5ee132d6cd5c682af1d28995",
+    "tipo": 133,
+    "desc": "mollit Lorem minim in officia deserunt minim adipisicing in est tempor aliquip sint ad consequat",
+    "laboratorio": "aute qui",
+    "codnum": 133,
+    "precio": "$3,035.59"
+  },
+  {
+    "id": "5ee132d6cd8af2f1f40d2477",
+    "tipo": 134,
+    "desc": "irure dolor non occaecat laboris do occaecat fugiat nulla occaecat sit proident culpa occaecat et",
+    "laboratorio": "reprehenderit enim",
+    "codnum": 134,
+    "precio": "$2,890.81"
+  },
+  {
+    "id": "5ee132d60043e36e304e424c",
+    "tipo": 135,
+    "desc": "ex aute consectetur eu nulla consequat amet voluptate commodo dolore veniam labore incididunt amet exercitation",
+    "laboratorio": "labore consequat",
+    "codnum": 135,
+    "precio": "$1,651.79"
+  },
+  {
+    "id": "5ee132d6e70bd4827015fc9a",
+    "tipo": 136,
+    "desc": "incididunt culpa occaecat culpa do mollit officia pariatur cupidatat in ea et et fugiat laborum",
+    "laboratorio": "ipsum id",
+    "codnum": 136,
+    "precio": "$2,970.39"
+  },
+  {
+    "id": "5ee132d6c7ce13933eb3919d",
+    "tipo": 137,
+    "desc": "magna reprehenderit proident duis tempor tempor duis anim culpa sint ad excepteur excepteur velit tempor",
+    "laboratorio": "commodo qui",
+    "codnum": 137,
+    "precio": "$1,795.75"
+  },
+  {
+    "id": "5ee132d677c4b42ade7d6be6",
+    "tipo": 138,
+    "desc": "velit culpa culpa nisi occaecat commodo minim velit aliqua eiusmod ut commodo ipsum excepteur mollit",
+    "laboratorio": "elit consequat",
+    "codnum": 138,
+    "precio": "$2,794.04"
+  },
+  {
+    "id": "5ee132d66662b1b352cde124",
+    "tipo": 139,
+    "desc": "reprehenderit elit velit duis nostrud veniam do sit do do consectetur esse elit proident ullamco",
+    "laboratorio": "proident magna",
+    "codnum": 139,
+    "precio": "$1,857.80"
+  },
+  {
+    "id": "5ee132d626e9927658094930",
+    "tipo": 140,
+    "desc": "tempor enim velit commodo labore dolor amet qui aute adipisicing minim ut qui laborum consequat",
+    "laboratorio": "consectetur elit",
+    "codnum": 140,
+    "precio": "$3,193.00"
+  },
+  {
+    "id": "5ee132d6fe2ad777c0ab2f46",
+    "tipo": 141,
+    "desc": "ex velit est eu officia aliquip commodo cupidatat reprehenderit dolor aute aliquip quis veniam ea",
+    "laboratorio": "sint cillum",
+    "codnum": 141,
+    "precio": "$2,609.24"
+  },
+  {
+    "id": "5ee132d629f3197fed2a183b",
+    "tipo": 142,
+    "desc": "id exercitation nostrud ex laborum voluptate aliquip proident elit pariatur adipisicing consectetur ipsum pariatur mollit",
+    "laboratorio": "labore do",
+    "codnum": 142,
+    "precio": "$1,255.00"
+  },
+  {
+    "id": "5ee132d6b8704e8d1eeb0cee",
+    "tipo": 143,
+    "desc": "cupidatat qui id fugiat ex eiusmod dolore consequat dolor laborum ipsum excepteur aliqua qui adipisicing",
+    "laboratorio": "occaecat culpa",
+    "codnum": 143,
+    "precio": "$3,603.95"
+  },
+  {
+    "id": "5ee132d69dcc811bab3da98e",
+    "tipo": 144,
+    "desc": "non voluptate consectetur commodo culpa dolore magna amet ullamco minim officia Lorem ea amet cupidatat",
+    "laboratorio": "incididunt duis",
+    "codnum": 144,
+    "precio": "$3,728.95"
+  },
+  {
+    "id": "5ee132d68b99629b45f185a0",
+    "tipo": 145,
+    "desc": "in dolore culpa incididunt cupidatat in laborum ex anim ad duis tempor proident qui nulla",
+    "laboratorio": "sunt nulla",
+    "codnum": 145,
+    "precio": "$2,028.43"
+  },
+  {
+    "id": "5ee132d630e1260d61a54d77",
+    "tipo": 146,
+    "desc": "minim sint irure nostrud Lorem culpa in duis pariatur in cupidatat laboris sit voluptate pariatur",
+    "laboratorio": "est commodo",
+    "codnum": 146,
+    "precio": "$2,950.67"
+  },
+  {
+    "id": "5ee132d6f938af31747ac6cf",
+    "tipo": 147,
+    "desc": "minim do laboris velit quis nulla incididunt ad nulla sit occaecat proident ad fugiat irure",
+    "laboratorio": "aute magna",
+    "codnum": 147,
+    "precio": "$2,350.64"
+  },
+  {
+    "id": "5ee132d6a5078f0a248be9b2",
+    "tipo": 148,
+    "desc": "proident deserunt occaecat minim cupidatat veniam culpa qui aliqua duis do do commodo do officia",
+    "laboratorio": "ex non",
+    "codnum": 148,
+    "precio": "$1,599.46"
+  },
+  {
+    "id": "5ee132d6c413fb5c67664327",
+    "tipo": 149,
+    "desc": "irure velit aute sit consequat do eiusmod consectetur ex ullamco reprehenderit culpa ad excepteur magna",
+    "laboratorio": "cupidatat magna",
+    "codnum": 149,
+    "precio": "$3,251.13"
+  },
+  {
+    "id": "5ee132d6f9eb137e3513e5d5",
+    "tipo": 150,
+    "desc": "pariatur ad ea cillum consequat nisi amet commodo et proident et ea nostrud exercitation duis",
+    "laboratorio": "velit ipsum",
+    "codnum": 150,
+    "precio": "$3,223.02"
+  },
+  {
+    "id": "5ee132d69eabd194f5dfabff",
+    "tipo": 151,
+    "desc": "ipsum non officia adipisicing fugiat non laborum aute reprehenderit adipisicing nostrud non amet dolore deserunt",
+    "laboratorio": "excepteur id",
+    "codnum": 151,
+    "precio": "$3,575.99"
+  },
+  {
+    "id": "5ee132d69c8c28515677c073",
+    "tipo": 152,
+    "desc": "mollit irure deserunt consectetur officia deserunt exercitation eu occaecat dolor laborum aute ad occaecat elit",
+    "laboratorio": "dolor officia",
+    "codnum": 152,
+    "precio": "$1,545.25"
+  },
+  {
+    "id": "5ee132d6fb18d1f85a93cc0c",
+    "tipo": 153,
+    "desc": "nostrud est non proident ea consequat est anim labore non proident cupidatat Lorem officia labore",
+    "laboratorio": "labore minim",
+    "codnum": 153,
+    "precio": "$3,402.48"
+  },
+  {
+    "id": "5ee132d66f238bbb0134846c",
+    "tipo": 154,
+    "desc": "ea voluptate nostrud adipisicing ex dolore ut labore pariatur enim in in cupidatat cupidatat qui",
+    "laboratorio": "eu magna",
+    "codnum": 154,
+    "precio": "$1,013.06"
+  },
+  {
+    "id": "5ee132d6b549af23e5ea55fd",
+    "tipo": 155,
+    "desc": "minim ullamco est culpa tempor aliqua enim elit incididunt velit aliqua eiusmod eu magna deserunt",
+    "laboratorio": "consequat laboris",
+    "codnum": 155,
+    "precio": "$2,284.33"
+  },
+  {
+    "id": "5ee132d6690e54c62d69090b",
+    "tipo": 156,
+    "desc": "enim incididunt duis non labore sunt sunt sit ipsum ea voluptate elit sunt consectetur veniam",
+    "laboratorio": "ad ex",
+    "codnum": 156,
+    "precio": "$1,521.07"
+  },
+  {
+    "id": "5ee132d69acea2928c4f5af1",
+    "tipo": 157,
+    "desc": "elit nisi ipsum incididunt magna sint enim do incididunt qui incididunt aute nisi amet officia",
+    "laboratorio": "eu consequat",
+    "codnum": 157,
+    "precio": "$2,768.57"
+  },
+  {
+    "id": "5ee132d6773cb422a3eaecda",
+    "tipo": 158,
+    "desc": "id cillum mollit consectetur ex ipsum cillum pariatur sint amet laboris minim consectetur nisi non",
+    "laboratorio": "exercitation cupidatat",
+    "codnum": 158,
+    "precio": "$1,038.11"
+  },
+  {
+    "id": "5ee132d60c8c410a933aa819",
+    "tipo": 159,
+    "desc": "aliqua veniam ea Lorem laborum officia in nisi adipisicing quis laborum fugiat ut ipsum quis",
+    "laboratorio": "ullamco tempor",
+    "codnum": 159,
+    "precio": "$3,335.07"
+  },
+  {
+    "id": "5ee132d634ea5f40a9407e5a",
+    "tipo": 160,
+    "desc": "esse ex quis amet veniam culpa sit in adipisicing Lorem ea dolor qui officia consectetur",
+    "laboratorio": "enim consequat",
+    "codnum": 160,
+    "precio": "$3,437.16"
+  },
+  {
+    "id": "5ee132d678e70ec3fb557ba9",
+    "tipo": 161,
+    "desc": "cupidatat velit sunt tempor Lorem deserunt eiusmod amet esse culpa et adipisicing cillum reprehenderit incididunt",
+    "laboratorio": "commodo duis",
+    "codnum": 161,
+    "precio": "$3,938.14"
+  },
+  {
+    "id": "5ee132d68fceaea80019fb41",
+    "tipo": 162,
+    "desc": "nostrud esse proident laborum cillum magna occaecat tempor mollit aute est do consequat Lorem pariatur",
+    "laboratorio": "enim amet",
+    "codnum": 162,
+    "precio": "$1,274.98"
+  },
+  {
+    "id": "5ee132d6a037e77ce22ba1c8",
+    "tipo": 163,
+    "desc": "eiusmod irure Lorem fugiat est ex enim Lorem aliquip irure occaecat laborum ut est nostrud",
+    "laboratorio": "anim enim",
+    "codnum": 163,
+    "precio": "$2,741.78"
+  },
+  {
+    "id": "5ee132d6ae9cd82a7071a535",
+    "tipo": 164,
+    "desc": "cillum elit fugiat ad aliqua culpa proident adipisicing occaecat magna do duis duis aliquip dolore",
+    "laboratorio": "laborum incididunt",
+    "codnum": 164,
+    "precio": "$1,622.86"
+  },
+  {
+    "id": "5ee132d6e22bd2c37d0cd36e",
+    "tipo": 165,
+    "desc": "aliquip exercitation ea non sint nostrud ea in id elit excepteur enim Lorem non laborum",
+    "laboratorio": "id aute",
+    "codnum": 165,
+    "precio": "$1,119.78"
+  },
+  {
+    "id": "5ee132d6df2c2680ad0cfc03",
+    "tipo": 166,
+    "desc": "anim ex laboris reprehenderit esse do elit eu adipisicing duis sunt dolore reprehenderit irure ut",
+    "laboratorio": "adipisicing id",
+    "codnum": 166,
+    "precio": "$3,481.15"
+  },
+  {
+    "id": "5ee132d651ca4b69a7a5c982",
+    "tipo": 167,
+    "desc": "exercitation sit est enim ut labore cupidatat eiusmod nostrud duis do ea adipisicing deserunt veniam",
+    "laboratorio": "eu amet",
+    "codnum": 167,
+    "precio": "$1,922.36"
+  },
+  {
+    "id": "5ee132d6a7564973107ed288",
+    "tipo": 168,
+    "desc": "magna anim ex cupidatat deserunt id anim culpa aliqua anim incididunt incididunt aliquip deserunt dolore",
+    "laboratorio": "sunt ad",
+    "codnum": 168,
+    "precio": "$2,952.33"
+  },
+  {
+    "id": "5ee132d667eeba6f91e1a3fc",
+    "tipo": 169,
+    "desc": "cupidatat ad ullamco eiusmod excepteur dolor mollit proident labore nulla amet mollit nulla nostrud anim",
+    "laboratorio": "nisi tempor",
+    "codnum": 169,
+    "precio": "$1,527.10"
+  },
+  {
+    "id": "5ee132d6d69ebdd125474f13",
+    "tipo": 170,
+    "desc": "sint excepteur magna magna pariatur non ut veniam laborum laboris elit quis nisi aute cillum",
+    "laboratorio": "incididunt enim",
+    "codnum": 170,
+    "precio": "$1,993.87"
+  },
+  {
+    "id": "5ee132d6fa308d537330bc27",
+    "tipo": 171,
+    "desc": "occaecat minim sunt amet ut sit officia eu velit est fugiat amet fugiat pariatur eu",
+    "laboratorio": "est do",
+    "codnum": 171,
+    "precio": "$2,305.25"
+  },
+  {
+    "id": "5ee132d6cd1b5d8f9a6bb104",
+    "tipo": 172,
+    "desc": "esse consectetur voluptate aliquip ex amet aliquip reprehenderit laboris cupidatat officia ex qui occaecat laboris",
+    "laboratorio": "ipsum laborum",
+    "codnum": 172,
+    "precio": "$2,632.06"
+  },
+  {
+    "id": "5ee132d65393365106c33d75",
+    "tipo": 173,
+    "desc": "nisi id Lorem excepteur sunt dolor ipsum sit proident non ad qui est commodo fugiat",
+    "laboratorio": "do officia",
+    "codnum": 173,
+    "precio": "$3,901.34"
+  },
+  {
+    "id": "5ee132d66b82c6b6e94bec83",
+    "tipo": 174,
+    "desc": "laborum sunt id magna sit dolore dolore occaecat reprehenderit laborum ex ullamco duis minim adipisicing",
+    "laboratorio": "ipsum consequat",
+    "codnum": 174,
+    "precio": "$2,254.51"
+  },
+  {
+    "id": "5ee132d63839ca3c06d3cbf2",
+    "tipo": 175,
+    "desc": "duis fugiat elit in proident occaecat sunt non aute aliquip nulla consectetur et non et",
+    "laboratorio": "consequat ut",
+    "codnum": 175,
+    "precio": "$2,679.84"
+  },
+  {
+    "id": "5ee132d6eaf2e3008aadcf42",
+    "tipo": 176,
+    "desc": "nostrud est laboris qui commodo commodo nostrud cupidatat duis laboris est ex occaecat laborum nisi",
+    "laboratorio": "Lorem nostrud",
+    "codnum": 176,
+    "precio": "$2,802.99"
+  },
+  {
+    "id": "5ee132d6ad1361da244e42df",
+    "tipo": 177,
+    "desc": "occaecat occaecat voluptate aliqua veniam aliqua fugiat nostrud incididunt tempor sit excepteur mollit laborum est",
+    "laboratorio": "qui ut",
+    "codnum": 177,
+    "precio": "$3,387.25"
+  },
+  {
+    "id": "5ee132d625e67cfce95786ad",
+    "tipo": 178,
+    "desc": "laborum non est sunt sint reprehenderit nulla sit eiusmod veniam non velit elit tempor nostrud",
+    "laboratorio": "eu excepteur",
+    "codnum": 178,
+    "precio": "$3,556.87"
+  },
+  {
+    "id": "5ee132d624e8c1cf35595583",
+    "tipo": 179,
+    "desc": "labore non do culpa commodo nisi voluptate aute incididunt culpa consequat in eu quis dolor",
+    "laboratorio": "eiusmod reprehenderit",
+    "codnum": 179,
+    "precio": "$1,367.54"
+  },
+  {
+    "id": "5ee132d6ab803a989dd461cc",
+    "tipo": 180,
+    "desc": "aliqua adipisicing magna cupidatat nulla nostrud exercitation exercitation adipisicing cupidatat fugiat do ut magna duis",
+    "laboratorio": "ipsum nisi",
+    "codnum": 180,
+    "precio": "$3,294.59"
+  },
+  {
+    "id": "5ee132d6f394e3c3e39e9cac",
+    "tipo": 181,
+    "desc": "sint dolore amet occaecat fugiat sunt ea voluptate eu ea occaecat excepteur sint dolor eu",
+    "laboratorio": "dolore nulla",
+    "codnum": 181,
+    "precio": "$3,029.84"
+  },
+  {
+    "id": "5ee132d6b5fc631da1716341",
+    "tipo": 182,
+    "desc": "ad do ad deserunt ut nostrud proident labore exercitation aliqua officia magna dolor do sint",
+    "laboratorio": "nulla nostrud",
+    "codnum": 182,
+    "precio": "$2,739.45"
+  },
+  {
+    "id": "5ee132d61218054b4eee0413",
+    "tipo": 183,
+    "desc": "ex excepteur ex occaecat quis duis dolor incididunt laborum aliquip in irure enim aliquip commodo",
+    "laboratorio": "minim ad",
+    "codnum": 183,
+    "precio": "$2,660.95"
+  },
+  {
+    "id": "5ee132d622b1d3293f1980cf",
+    "tipo": 184,
+    "desc": "deserunt dolor esse dolore id ad laboris qui quis elit et nulla ipsum occaecat voluptate",
+    "laboratorio": "velit duis",
+    "codnum": 184,
+    "precio": "$2,559.73"
+  },
+  {
+    "id": "5ee132d66f4a9622969514e2",
+    "tipo": 185,
+    "desc": "ut reprehenderit aute consectetur non non pariatur amet ut esse magna magna sint eu aute",
+    "laboratorio": "dolore in",
+    "codnum": 185,
+    "precio": "$2,492.02"
+  },
+  {
+    "id": "5ee132d6b4ce441557048501",
+    "tipo": 186,
+    "desc": "mollit commodo nostrud sunt sint nisi elit exercitation amet laboris ullamco anim incididunt voluptate labore",
+    "laboratorio": "anim laboris",
+    "codnum": 186,
+    "precio": "$1,272.17"
+  },
+  {
+    "id": "5ee132d61f7f8a08de7b4942",
+    "tipo": 187,
+    "desc": "aliqua fugiat dolore aliquip voluptate in ullamco irure voluptate deserunt cillum non ut proident aliqua",
+    "laboratorio": "ut consequat",
+    "codnum": 187,
+    "precio": "$1,925.33"
+  },
+  {
+    "id": "5ee132d6dd84cec3629c32be",
+    "tipo": 188,
+    "desc": "aute dolor ex sit amet cillum consequat nisi aliquip duis incididunt nisi reprehenderit cupidatat officia",
+    "laboratorio": "duis cupidatat",
+    "codnum": 188,
+    "precio": "$1,357.27"
+  },
+  {
+    "id": "5ee132d6e9d9b86974f7f0c9",
+    "tipo": 189,
+    "desc": "laborum laborum id officia qui nisi duis cillum do dolore incididunt reprehenderit pariatur commodo nostrud",
+    "laboratorio": "et laboris",
+    "codnum": 189,
+    "precio": "$2,534.44"
+  },
+  {
+    "id": "5ee132d6674c0f03d0344e67",
+    "tipo": 190,
+    "desc": "irure reprehenderit ad eiusmod fugiat pariatur quis nisi dolor eiusmod dolor do occaecat consequat elit",
+    "laboratorio": "esse enim",
+    "codnum": 190,
+    "precio": "$2,601.00"
+  },
+  {
+    "id": "5ee132d6892c8781cbc5296c",
+    "tipo": 191,
+    "desc": "exercitation nisi consectetur aute ipsum deserunt ipsum consectetur anim veniam elit proident cillum amet occaecat",
+    "laboratorio": "sint occaecat",
+    "codnum": 191,
+    "precio": "$3,224.55"
+  },
+  {
+    "id": "5ee132d6f6171ac1ab29913a",
+    "tipo": 192,
+    "desc": "sint commodo occaecat laborum culpa adipisicing ad officia occaecat consequat et ipsum anim adipisicing ut",
+    "laboratorio": "magna eu",
+    "codnum": 192,
+    "precio": "$2,638.58"
+  },
+  {
+    "id": "5ee132d67a758504ccfacd06",
+    "tipo": 193,
+    "desc": "mollit elit anim proident cupidatat proident incididunt Lorem aliqua consequat reprehenderit ex elit tempor magna",
+    "laboratorio": "nulla sunt",
+    "codnum": 193,
+    "precio": "$2,712.23"
+  },
+  {
+    "id": "5ee132d6ecfc99ab4911d915",
+    "tipo": 194,
+    "desc": "sunt officia elit esse minim proident dolore cupidatat Lorem aliqua laborum laborum velit eu quis",
+    "laboratorio": "velit aliquip",
+    "codnum": 194,
+    "precio": "$3,088.82"
+  },
+  {
+    "id": "5ee132d6f4759ba269e52899",
+    "tipo": 195,
+    "desc": "tempor ipsum ad do do officia cupidatat non non proident nostrud tempor tempor id elit",
+    "laboratorio": "quis cillum",
+    "codnum": 195,
+    "precio": "$2,796.05"
+  },
+  {
+    "id": "5ee132d65231a2fc141efb96",
+    "tipo": 196,
+    "desc": "dolore eiusmod adipisicing occaecat sint id veniam ut eiusmod nulla et exercitation enim sit adipisicing",
+    "laboratorio": "laborum id",
+    "codnum": 196,
+    "precio": "$2,235.16"
+  },
+  {
+    "id": "5ee132d6c9290d7d87a9c409",
+    "tipo": 197,
+    "desc": "adipisicing nisi proident ullamco mollit esse laboris reprehenderit amet in laboris aliquip aute sit sint",
+    "laboratorio": "aliquip et",
+    "codnum": 197,
+    "precio": "$2,069.83"
+  },
+  {
+    "id": "5ee132d651d55fd3daa833b3",
+    "tipo": 198,
+    "desc": "eiusmod aute sunt velit nisi sit aliqua qui sit nostrud amet ullamco qui pariatur anim",
+    "laboratorio": "nisi ullamco",
+    "codnum": 198,
+    "precio": "$3,224.25"
+  },
+  {
+    "id": "5ee132d625145cd786f2e1df",
+    "tipo": 199,
+    "desc": "esse exercitation nostrud nostrud voluptate ea deserunt aute ipsum culpa esse dolor ex officia culpa",
+    "laboratorio": "non quis",
+    "codnum": 199,
+    "precio": "$3,606.37"
+  },
+  {
+    "id": "5ee132d69d4853f5c3bda0d5",
+    "tipo": 200,
+    "desc": "eu fugiat enim ullamco sit nostrud laborum labore amet exercitation Lorem elit aute aute elit",
+    "laboratorio": "cupidatat nulla",
+    "codnum": 200,
+    "precio": "$3,714.77"
+  },
+  {
+    "id": "5ee132d6e5e4e5041b14af07",
+    "tipo": 201,
+    "desc": "ea Lorem id enim ipsum labore commodo cupidatat tempor reprehenderit ad nisi consectetur irure aliqua",
+    "laboratorio": "cillum sit",
+    "codnum": 201,
+    "precio": "$2,278.99"
+  },
+  {
+    "id": "5ee132d63978fba94267518c",
+    "tipo": 202,
+    "desc": "sit occaecat aute magna minim duis excepteur nisi dolore cillum pariatur minim Lorem deserunt dolore",
+    "laboratorio": "amet proident",
+    "codnum": 202,
+    "precio": "$3,003.81"
+  },
+  {
+    "id": "5ee132d69b7c1078c1da752a",
+    "tipo": 203,
+    "desc": "consequat nostrud dolor ad dolore reprehenderit labore officia sunt incididunt nulla ipsum mollit occaecat sint",
+    "laboratorio": "occaecat labore",
+    "codnum": 203,
+    "precio": "$3,733.48"
+  },
+  {
+    "id": "5ee132d676ebacb81d533354",
+    "tipo": 204,
+    "desc": "minim aliquip nostrud enim eiusmod quis dolore esse consectetur laboris cupidatat incididunt minim sint velit",
+    "laboratorio": "eiusmod exercitation",
+    "codnum": 204,
+    "precio": "$3,656.26"
+  },
+  {
+    "id": "5ee132d62c3e76559b8b86c4",
+    "tipo": 205,
+    "desc": "consectetur ex minim consequat deserunt nulla officia reprehenderit ipsum laborum nulla adipisicing ut et laborum",
+    "laboratorio": "incididunt aliquip",
+    "codnum": 205,
+    "precio": "$3,851.24"
+  },
+  {
+    "id": "5ee132d6d2e797a3eadde08a",
+    "tipo": 206,
+    "desc": "exercitation id Lorem incididunt occaecat deserunt veniam eu eiusmod do commodo aliqua culpa qui ipsum",
+    "laboratorio": "in consequat",
+    "codnum": 206,
+    "precio": "$3,872.37"
+  },
+  {
+    "id": "5ee132d659058688d432f474",
+    "tipo": 207,
+    "desc": "ullamco sit eu in est nostrud irure anim aute ut officia incididunt eiusmod culpa duis",
+    "laboratorio": "culpa id",
+    "codnum": 207,
+    "precio": "$2,919.21"
+  },
+  {
+    "id": "5ee132d6eac9e006c2136b18",
+    "tipo": 208,
+    "desc": "nulla culpa esse duis aliqua exercitation veniam tempor tempor labore cupidatat consequat ipsum nostrud esse",
+    "laboratorio": "magna duis",
+    "codnum": 208,
+    "precio": "$1,472.46"
+  },
+  {
+    "id": "5ee132d66384144c8b4b6a40",
+    "tipo": 209,
+    "desc": "et commodo do nulla minim minim ullamco officia culpa aliqua cillum laboris dolor adipisicing in",
+    "laboratorio": "cupidatat ad",
+    "codnum": 209,
+    "precio": "$3,820.88"
+  },
+  {
+    "id": "5ee132d6db9a4bbbe37ca03b",
+    "tipo": 210,
+    "desc": "consectetur aliqua enim cupidatat veniam velit consectetur esse minim reprehenderit qui sit commodo elit sint",
+    "laboratorio": "nostrud ex",
+    "codnum": 210,
+    "precio": "$3,182.20"
+  },
+  {
+    "id": "5ee132d61f3d810ab03e98cc",
+    "tipo": 211,
+    "desc": "in laborum exercitation proident laboris mollit enim ex officia ipsum nisi consequat nostrud dolor eu",
+    "laboratorio": "commodo minim",
+    "codnum": 211,
+    "precio": "$1,421.08"
+  },
+  {
+    "id": "5ee132d68f2fd3058d6b26a2",
+    "tipo": 212,
+    "desc": "excepteur id consequat qui incididunt commodo occaecat do veniam in ad consequat velit tempor nostrud",
+    "laboratorio": "occaecat ad",
+    "codnum": 212,
+    "precio": "$2,335.29"
+  },
+  {
+    "id": "5ee132d6cd3e09b4769fd24b",
+    "tipo": 213,
+    "desc": "officia velit labore dolore ea labore excepteur nulla ad tempor nisi labore quis dolore irure",
+    "laboratorio": "fugiat occaecat",
+    "codnum": 213,
+    "precio": "$1,570.66"
+  },
+  {
+    "id": "5ee132d6de9b580cdc9bae66",
+    "tipo": 214,
+    "desc": "commodo minim eu mollit proident id exercitation minim sint officia est proident nisi fugiat anim",
+    "laboratorio": "eu aliquip",
+    "codnum": 214,
+    "precio": "$3,105.33"
+  },
+  {
+    "id": "5ee132d6ec8bfe00d8156854",
+    "tipo": 215,
+    "desc": "duis ullamco qui dolor ad sit irure cillum mollit nostrud in cillum nostrud irure exercitation",
+    "laboratorio": "sit voluptate",
+    "codnum": 215,
+    "precio": "$1,746.52"
+  },
+  {
+    "id": "5ee132d6f855d73bf6f2555d",
+    "tipo": 216,
+    "desc": "officia non tempor incididunt fugiat occaecat pariatur excepteur id cillum laboris exercitation anim ut proident",
+    "laboratorio": "cupidatat veniam",
+    "codnum": 216,
+    "precio": "$2,376.57"
+  },
+  {
+    "id": "5ee132d69a663430f98277c8",
+    "tipo": 217,
+    "desc": "consequat est officia et minim deserunt exercitation cillum irure nisi esse ea tempor ex voluptate",
+    "laboratorio": "adipisicing elit",
+    "codnum": 217,
+    "precio": "$2,066.08"
+  },
+  {
+    "id": "5ee132d6b4ff517b58d9c94e",
+    "tipo": 218,
+    "desc": "velit ut est culpa eiusmod deserunt eiusmod eu incididunt irure sit in quis eiusmod ea",
+    "laboratorio": "qui culpa",
+    "codnum": 218,
+    "precio": "$1,471.81"
+  },
+  {
+    "id": "5ee132d6e8a0b73a18b5da25",
+    "tipo": 219,
+    "desc": "magna culpa eu voluptate aliqua voluptate laborum mollit esse mollit non amet ut do culpa",
+    "laboratorio": "dolore magna",
+    "codnum": 219,
+    "precio": "$2,320.24"
+  },
+  {
+    "id": "5ee132d6831bb464b794dc6c",
+    "tipo": 220,
+    "desc": "eu qui reprehenderit aute deserunt est incididunt minim id laboris elit nulla sint culpa veniam",
+    "laboratorio": "ipsum velit",
+    "codnum": 220,
+    "precio": "$2,979.07"
+  },
+  {
+    "id": "5ee132d661fc4ab109482edc",
+    "tipo": 221,
+    "desc": "ullamco labore pariatur cillum cillum labore commodo velit nostrud labore et aliquip nisi proident aute",
+    "laboratorio": "deserunt laborum",
+    "codnum": 221,
+    "precio": "$3,210.63"
+  },
+  {
+    "id": "5ee132d6a157ded5457b8b91",
+    "tipo": 222,
+    "desc": "commodo ex ullamco pariatur mollit aute ad aliquip id nulla sint in culpa incididunt aliquip",
+    "laboratorio": "voluptate velit",
+    "codnum": 222,
+    "precio": "$1,795.75"
+  },
+  {
+    "id": "5ee132d6250bbf8859f64d1b",
+    "tipo": 223,
+    "desc": "est incididunt aute sit cillum nostrud magna do proident irure est magna est culpa labore",
+    "laboratorio": "labore consectetur",
+    "codnum": 223,
+    "precio": "$2,234.82"
+  },
+  {
+    "id": "5ee132d680b8f57347755332",
+    "tipo": 224,
+    "desc": "aute ullamco deserunt exercitation proident reprehenderit fugiat ut dolor quis quis dolor officia amet cillum",
+    "laboratorio": "fugiat occaecat",
+    "codnum": 224,
+    "precio": "$3,430.37"
+  },
+  {
+    "id": "5ee132d611ba883091971d05",
+    "tipo": 225,
+    "desc": "mollit enim sunt esse enim tempor ea aliqua reprehenderit nisi ad id adipisicing reprehenderit pariatur",
+    "laboratorio": "ad tempor",
+    "codnum": 225,
+    "precio": "$3,318.93"
+  },
+  {
+    "id": "5ee132d6ca7d19156ebd8a65",
+    "tipo": 226,
+    "desc": "ex nostrud amet consequat officia minim et veniam nostrud labore nulla commodo officia consectetur fugiat",
+    "laboratorio": "officia proident",
+    "codnum": 226,
+    "precio": "$3,710.96"
+  },
+  {
+    "id": "5ee132d6774ab16840d9b6ad",
+    "tipo": 227,
+    "desc": "commodo anim cillum nisi officia laborum Lorem anim eiusmod veniam eiusmod tempor duis tempor est",
+    "laboratorio": "pariatur officia",
+    "codnum": 227,
+    "precio": "$1,863.97"
+  },
+  {
+    "id": "5ee132d6a61629525a2433be",
+    "tipo": 228,
+    "desc": "nulla duis sunt ipsum ea Lorem amet fugiat sint ipsum nostrud exercitation do ex sit",
+    "laboratorio": "voluptate occaecat",
+    "codnum": 228,
+    "precio": "$1,491.96"
+  },
+  {
+    "id": "5ee132d6bca01754f02c3b2c",
+    "tipo": 229,
+    "desc": "ex commodo eiusmod dolor dolor quis ex id laborum deserunt exercitation ad commodo ad excepteur",
+    "laboratorio": "labore nulla",
+    "codnum": 229,
+    "precio": "$3,206.24"
+  },
+  {
+    "id": "5ee132d680b7824fb0178965",
+    "tipo": 230,
+    "desc": "laborum eiusmod sit incididunt sunt veniam pariatur aliquip cupidatat cupidatat excepteur Lorem magna ut officia",
+    "laboratorio": "duis ad",
+    "codnum": 230,
+    "precio": "$2,876.63"
+  },
+  {
+    "id": "5ee132d62320d46ba163abc1",
+    "tipo": 231,
+    "desc": "eu esse eu cupidatat esse quis irure elit mollit tempor duis est ad amet mollit",
+    "laboratorio": "laboris magna",
+    "codnum": 231,
+    "precio": "$3,738.67"
+  },
+  {
+    "id": "5ee132d6e52059ca2ae4a58f",
+    "tipo": 232,
+    "desc": "veniam do nisi eiusmod incididunt aute reprehenderit ea duis ea commodo exercitation incididunt nulla fugiat",
+    "laboratorio": "ad officia",
+    "codnum": 232,
+    "precio": "$1,451.67"
+  },
+  {
+    "id": "5ee132d64ce3cb257c128922",
+    "tipo": 233,
+    "desc": "ullamco mollit reprehenderit deserunt pariatur qui occaecat sit laboris eiusmod quis est amet aute exercitation",
+    "laboratorio": "aliquip nulla",
+    "codnum": 233,
+    "precio": "$3,467.96"
+  },
+  {
+    "id": "5ee132d6c7a7d8149b5667bf",
+    "tipo": 234,
+    "desc": "aliquip excepteur id enim magna excepteur ex Lorem reprehenderit sunt veniam proident veniam nulla nisi",
+    "laboratorio": "non esse",
+    "codnum": 234,
+    "precio": "$3,997.52"
+  },
+  {
+    "id": "5ee132d63f2906d0c4f6294b",
+    "tipo": 235,
+    "desc": "tempor occaecat in laborum nulla aliqua nostrud officia do id veniam tempor est mollit exercitation",
+    "laboratorio": "reprehenderit voluptate",
+    "codnum": 235,
+    "precio": "$2,028.10"
+  },
+  {
+    "id": "5ee132d6c3af1dd98fc8afc0",
+    "tipo": 236,
+    "desc": "id aliquip ullamco minim irure nisi ipsum laborum labore dolor esse enim ex non fugiat",
+    "laboratorio": "nostrud laborum",
+    "codnum": 236,
+    "precio": "$1,738.62"
+  },
+  {
+    "id": "5ee132d6d690dbfc5fcaefa1",
+    "tipo": 237,
+    "desc": "ut eiusmod ipsum in irure ea consectetur quis dolore voluptate anim incididunt nostrud commodo cupidatat",
+    "laboratorio": "amet ipsum",
+    "codnum": 237,
+    "precio": "$1,907.84"
+  },
+  {
+    "id": "5ee132d604eed3b9c146f188",
+    "tipo": 238,
+    "desc": "adipisicing aliquip aliquip minim exercitation laborum velit ipsum magna qui aliquip minim excepteur ullamco magna",
+    "laboratorio": "eiusmod exercitation",
+    "codnum": 238,
+    "precio": "$2,150.48"
+  },
+  {
+    "id": "5ee132d6c148cfff3c37d02c",
+    "tipo": 239,
+    "desc": "proident qui veniam exercitation nulla consectetur est est quis ea excepteur esse sint culpa aliquip",
+    "laboratorio": "officia reprehenderit",
+    "codnum": 239,
+    "precio": "$1,810.45"
+  },
+  {
+    "id": "5ee132d637c2fb71b908dc51",
+    "tipo": 240,
+    "desc": "qui deserunt fugiat amet amet deserunt qui eu ad adipisicing aliqua nostrud incididunt dolor sint",
+    "laboratorio": "consequat anim",
+    "codnum": 240,
+    "precio": "$3,328.05"
+  },
+  {
+    "id": "5ee132d67fd325a9566033d6",
+    "tipo": 241,
+    "desc": "aliqua velit occaecat et ipsum commodo deserunt esse mollit nisi sunt proident eiusmod sint officia",
+    "laboratorio": "sint enim",
+    "codnum": 241,
+    "precio": "$3,777.13"
+  },
+  {
+    "id": "5ee132d664be284383d599fd",
+    "tipo": 242,
+    "desc": "cillum esse cupidatat ut laboris sunt nulla dolor adipisicing nisi ea commodo sunt pariatur sit",
+    "laboratorio": "aute irure",
+    "codnum": 242,
+    "precio": "$3,409.82"
+  },
+  {
+    "id": "5ee132d61d56f55d33809811",
+    "tipo": 243,
+    "desc": "esse non non Lorem duis magna tempor ipsum excepteur ea velit cillum minim deserunt elit",
+    "laboratorio": "irure labore",
+    "codnum": 243,
+    "precio": "$2,929.29"
+  },
+  {
+    "id": "5ee132d69a3b01e050d2dcf9",
+    "tipo": 244,
+    "desc": "labore voluptate adipisicing voluptate officia enim cupidatat nisi culpa ea veniam ea ut irure ea",
+    "laboratorio": "nisi anim",
+    "codnum": 244,
+    "precio": "$1,745.76"
+  },
+  {
+    "id": "5ee132d6c2006b3a6021b27d",
+    "tipo": 245,
+    "desc": "excepteur irure non in eiusmod reprehenderit dolor nostrud tempor tempor duis dolor excepteur tempor sint",
+    "laboratorio": "consequat quis",
+    "codnum": 245,
+    "precio": "$3,849.68"
+  },
+  {
+    "id": "5ee132d65d5dc9ef87c7b71b",
+    "tipo": 246,
+    "desc": "minim pariatur ipsum ut excepteur do veniam pariatur dolore aliqua amet quis do exercitation officia",
+    "laboratorio": "cupidatat non",
+    "codnum": 246,
+    "precio": "$3,592.84"
+  },
+  {
+    "id": "5ee132d6c47e3c0ccf646e18",
+    "tipo": 247,
+    "desc": "sit consequat ut enim consequat tempor occaecat ad tempor pariatur duis nostrud eiusmod excepteur aliquip",
+    "laboratorio": "amet incididunt",
+    "codnum": 247,
+    "precio": "$2,702.75"
+  },
+  {
+    "id": "5ee132d674c964bdba1b25c3",
+    "tipo": 248,
+    "desc": "fugiat sunt pariatur excepteur consectetur amet eiusmod incididunt non ea nisi quis proident minim minim",
+    "laboratorio": "minim culpa",
+    "codnum": 248,
+    "precio": "$2,876.91"
+  },
+  {
+    "id": "5ee132d6c003b4580fe671f1",
+    "tipo": 249,
+    "desc": "id enim irure non Lorem cillum non aliquip exercitation sunt duis in cillum pariatur excepteur",
+    "laboratorio": "tempor laborum",
+    "codnum": 249,
+    "precio": "$1,899.37"
+  }
+]

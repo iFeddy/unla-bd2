@@ -1,0 +1,122 @@
+[
+  {
+    "id": "5ee12f91ebde7f17dad1410c",
+    "sucursal": 0,
+    "puntoventa": 8341,
+    "domicilio": {
+      "id": 0,
+      "calle": "495 Hope Street",
+      "localidad": "Elfrida",
+      "provincia": "Puerto Rico"
+    },
+    "encargado": "76adc822-63d1-40a1-89f0-908ff638027a"
+  },
+  {
+    "id": "5ee12f91ce03e795aae36447",
+    "sucursal": 1,
+    "puntoventa": 5592,
+    "domicilio": {
+      "id": 1,
+      "calle": "966 Caton Avenue",
+      "localidad": "Why",
+      "provincia": "Hawaii"
+    },
+    "encargado": "0b08f06e-76c8-4723-9733-3a1677f0b0f2"
+  },
+  {
+    "id": "5ee12f9182dd8eaf64fdd57b",
+    "sucursal": 2,
+    "puntoventa": 8214,
+    "domicilio": {
+      "id": 2,
+      "calle": "999 Llama Court",
+      "localidad": "Stouchsburg",
+      "provincia": "North Dakota"
+    },
+    "encargado": "c73fdb76-8d4e-453d-a4c5-8dc602475caf"
+  },
+  {
+    "id": "5ee12f910f6c0de187707b53",
+    "sucursal": 3,
+    "puntoventa": 8069,
+    "domicilio": {
+      "id": 3,
+      "calle": "864 College Place",
+      "localidad": "Columbus",
+      "provincia": "New Hampshire"
+    },
+    "encargado": "7bf8e48c-41e7-47c2-b1f9-c91b1f796f5a"
+  },
+  {
+    "id": "5ee12f91195bb57635d145c6",
+    "sucursal": 4,
+    "puntoventa": 9441,
+    "domicilio": {
+      "id": 4,
+      "calle": "898 Lefferts Place",
+      "localidad": "Lisco",
+      "provincia": "Marshall Islands"
+    },
+    "encargado": "09b0eae2-69e9-490f-b26f-2f3f26c25c98"
+  },
+  {
+    "id": "5ee12f91bdf2a14874fd9c3d",
+    "sucursal": 5,
+    "puntoventa": 6258,
+    "domicilio": {
+      "id": 5,
+      "calle": "644 Rutherford Place",
+      "localidad": "Tolu",
+      "provincia": "Virginia"
+    },
+    "encargado": "51c6c8b4-fad9-47fc-ad84-84d1adcd2078"
+  },
+  {
+    "id": "5ee12f91ca207623919a86c0",
+    "sucursal": 6,
+    "puntoventa": 9611,
+    "domicilio": {
+      "id": 6,
+      "calle": "484 Baughman Place",
+      "localidad": "Unionville",
+      "provincia": "Massachusetts"
+    },
+    "encargado": "53b24456-c7b0-41d5-9f92-4657967d0979"
+  },
+  {
+    "id": "5ee12f91c95b620a5ca01ff9",
+    "sucursal": 7,
+    "puntoventa": 6773,
+    "domicilio": {
+      "id": 7,
+      "calle": "767 Plaza Street",
+      "localidad": "Jessie",
+      "provincia": "Texas"
+    },
+    "encargado": "5a32f936-91bb-4bac-b9e8-d1f56b14c1cc"
+  },
+  {
+    "id": "5ee12f914d9815632686ffb2",
+    "sucursal": 8,
+    "puntoventa": 5307,
+    "domicilio": {
+      "id": 8,
+      "calle": "943 Cooke Court",
+      "localidad": "Teasdale",
+      "provincia": "Iowa"
+    },
+    "encargado": "5f5f8cb5-879b-4902-a0e2-0d0964ab4337"
+  },
+  {
+    "id": "5ee12f912e87a94e13d335eb",
+    "sucursal": 9,
+    "puntoventa": 4182,
+    "domicilio": {
+      "id": 9,
+      "calle": "605 Vanderbilt Street",
+      "localidad": "Garfield",
+      "provincia": "Missouri"
+    },
+    "encargado": "4253567a-7231-4b08-8b18-a9f1507d695b"
+  }
+]
