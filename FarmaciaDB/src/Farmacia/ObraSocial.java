@@ -1,11 +1,29 @@
 package Farmacia;
 
+import com.google.gson.annotations.Expose;
+import com.google.gson.annotations.SerializedName;
+
 public class ObraSocial {
-    String nombre;
-    int numero; 
-    
-    public ObraSocial(String osnombre, int osnumero) {
-        nombre = osnombre;
-        numero = osnumero;
+
+    @SerializedName("nombre")
+    @Expose private String nombre;
+    @SerializedName("numafiliado")
+    @Expose private Integer numafiliado;
+
+    public String getNombre() {
+        return nombre;
     }
+
+    public void setNombre(String nombre) {
+        this.nombre = nombre;
+    }
+
+    public Integer getNumafiliado() {
+        return numafiliado;
+    }
+
+    public void setNumafiliado(Integer numafiliado) {
+        this.numafiliado = numafiliado;
+    }
+
 }
