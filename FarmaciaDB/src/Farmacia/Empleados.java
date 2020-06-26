@@ -68,11 +68,11 @@ public class Empleados {
         this.domicilio = domicilio;
     }
 
-    public Obrasocial getObrasocial() {
+    public ObraSocial getObrasocial() {
         return obrasocial;
     }
 
-    public void setObrasocial(Obrasocial obrasocial) {
+    public void setObrasocial(ObraSocial obrasocial) {
         this.obrasocial = obrasocial;
     }
 
