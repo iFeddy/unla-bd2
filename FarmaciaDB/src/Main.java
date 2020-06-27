@@ -21,11 +21,11 @@ public class Main{
             if (opcion == 1) {
                 System.out.println("\n1. Instalacion en MongoDB");
             } else if (isBetween(opcion, 2, 9)) {
-                Consultas consulta = new Consultas(opcion);
+                Consultas query = new Consultas(opcion);
+                query.showResultado();
             } else {
                 opcion = 0;
             }
-
             if(opcion != 0){
                 subOpcion = subMenu();
                 if(subOpcion == 2){
