@@ -4,17 +4,14 @@ import Data.Database;
 import Data.Consultas;
 
 public class Main{
-    /**
-     * App simple que conecta con MongoDB
-     * @param args
-     * @throws Exception
-     */
+
+    private static Scanner input;
     public static void main(String[] args) throws Exception {
 
         int opcion = 0;
         int subOpcion = 0;
         clearScreen();
-        Scanner input = new Scanner(System.in);
+        input = new Scanner(System.in);
         System.out.println("Trabajo Práctico Farmacia (Base de Datos 2)");
         System.out.println("___________________________________________\n");
         System.out.print("Ingresar Nombre de Base de Datos: ");
@@ -44,7 +41,7 @@ public class Main{
     public static int menu(String dbName) {
         int selection;
         clearScreen();
-        Scanner input = new Scanner(System.in);
+        input = new Scanner(System.in);
 
         System.out.println("Trabajo Práctico Farmacia (Base de Datos 2)\n");
         System.out.println("Seleccionar una Opción:");
@@ -68,7 +65,7 @@ public class Main{
 
     public static int subMenu(String dbName) {
         int selection;
-        Scanner input = new Scanner(System.in);
+        input = new Scanner(System.in);
 
         System.out.println("\nSeleccionar una Opción:");
         System.out.println("1. Menu      2. Salir");

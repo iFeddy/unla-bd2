@@ -1,10 +1,8 @@
 package Data;
 
 import com.mongodb.client.MongoClients;
-import com.mongodb.DBCollection;
 import com.mongodb.client.MongoClient;
 import com.mongodb.client.MongoDatabase;
-import com.mongodb.client.MongoCursor;
 import com.mongodb.client.MongoCollection;
 
 import java.io.File;
@@ -13,7 +11,6 @@ import java.nio.file.Files;
 import java.nio.file.Paths;
 import java.util.ArrayList;
 import java.util.List;
-import java.util.Scanner;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
