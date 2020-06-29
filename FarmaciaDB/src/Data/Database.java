@@ -22,7 +22,7 @@ import Farmacia.*;
 
 public class Database {
     public int installs = 0;
-    public String database; 
+    public String database;
 
     public Database(String dbName) {
         Logger.getLogger("org.mongodb.driver").setLevel(Level.WARNING);
@@ -30,9 +30,9 @@ public class Database {
     }
 
     public void install() {
-        System.out.println("\n1. Instalacion en MongoDB");        
+        System.out.println("\n1. Instalacion en MongoDB");
 
-        Boolean installed = false; 
+        Boolean installed = false;
 
         installed = installClientes(this.database);
         installed = installEmpleados(this.database);
@@ -40,168 +40,188 @@ public class Database {
         installed = installSucursales(this.database);
         installed = installVentas(this.database);
 
-        if(installed){
-            System.out.print("\nInstaladas " + this.installs + " Colecciones en MongoDB [Base de Datos: " + this.database + "]\n");    
+        if (installed) {
+            System.out.print("\nInstaladas " + this.installs + " Colecciones en MongoDB [Base de Datos: " + this.database + "]\n");
+        } else {
+            System.out.print("\nYa existen las Colecciones en MongoDB [Base de Datos: " + this.database + "]\n");
         }
     }
 
-    public boolean installClientes(String dbName){
+    public boolean installClientes(String dbName) {
         MongoClient mongoClient = MongoClients.create();
-        MongoDatabase mongoDB = mongoClient.getDatabase(dbName);        
+        MongoDatabase mongoDB = mongoClient.getDatabase(dbName);
+        Boolean collectionExists = mongoClient.getDatabase(this.database).listCollectionNames().into(new ArrayList < String > ()).contains("Clientes");
+        if (!(collectionExists)) {
+            try {
+                File file = new File("./_json/Clientes.json");
+                MongoCollection < Document > mongoCollection = mongoDB.getCollection("Clientes");
 
-        try {
-            File file = new File("./_json/Clientes.json");
-            MongoCollection<Document> mongoCollection = mongoDB.getCollection("Clientes");
+                Reader reader = Files.newBufferedReader(Paths.get(file.getAbsolutePath()));
+                List < Clientes > clientes = new Gson().fromJson(reader, new TypeToken < List < Clientes >> () {}.getType());
 
-            Reader reader = Files.newBufferedReader(Paths.get(file.getAbsolutePath()));
-            List<Clientes> clientes = new Gson().fromJson(reader, new TypeToken<List<Clientes>>() {}.getType());
-         
-            List<Document> documents = new ArrayList<Document>();
-            int count = 0;
-            for (Clientes c:clientes) {
-                count++;
-                Document doc = Document.parse(new Gson().toJson(c));
-                documents.add(doc);
+                List < Document > documents = new ArrayList < Document > ();
+                int count = 0;
+                for (Clientes c: clientes) {
+                    count++;
+                    Document doc = Document.parse(new Gson().toJson(c));
+                    documents.add(doc);
+                }
+                System.out.println("\nInsertados " + count + " Clientes Nuevos");
+                mongoCollection.insertMany(documents);
+                reader.close();
+                this.installs++;
+                return true;
+
+            } catch (Exception ex) {
+                ex.printStackTrace();
+                return false;
             }
-            System.out.println("\nInsertados " + count + " Clientes Nuevos");
-            mongoCollection.insertMany(documents);
-            reader.close();
-            this.installs++;
-            return true;
-            
-        }catch (Exception ex) {
-            ex.printStackTrace();
+        } else {
             return false;
-        }   
-    
+        }
     }
 
-    public boolean installEmpleados(String dbName){
+    public boolean installEmpleados(String dbName) {
         MongoClient mongoClient = MongoClients.create();
-        MongoDatabase mongoDB = mongoClient.getDatabase(dbName);        
+        MongoDatabase mongoDB = mongoClient.getDatabase(dbName);
+        Boolean collectionExists = mongoClient.getDatabase(this.database).listCollectionNames().into(new ArrayList < String > ()).contains("Clientes");
+        if (!(collectionExists)) {
+            try {
+                File file = new File("./_json/Empleados.json");
+                MongoCollection < Document > mongoCollection = mongoDB.getCollection("Empleados");
 
-        try {
-            File file = new File("./_json/Empleados.json");
-            MongoCollection<Document> mongoCollection = mongoDB.getCollection("Empleados");
+                Reader reader = Files.newBufferedReader(Paths.get(file.getAbsolutePath()));
+                List < Empleados > empleados = new Gson().fromJson(reader, new TypeToken < List < Empleados >> () {}.getType());
 
-            Reader reader = Files.newBufferedReader(Paths.get(file.getAbsolutePath()));
-            List<Empleados> empleados = new Gson().fromJson(reader, new TypeToken<List<Empleados>>() {}.getType());
-            
 
-            List<Document> documents = new ArrayList<Document>();
-            int count = 0;
-            for (Empleados e:empleados) {
-                count++;
-                Document doc = Document.parse(new Gson().toJson(e));
-                documents.add(doc);
+                List < Document > documents = new ArrayList < Document > ();
+                int count = 0;
+                for (Empleados e: empleados) {
+                    count++;
+                    Document doc = Document.parse(new Gson().toJson(e));
+                    documents.add(doc);
+                }
+                System.out.println("\nInsertados " + count + " Empleados Nuevos");
+                mongoCollection.insertMany(documents);
+                reader.close();
+                this.installs++;
+                return true;
+
+            } catch (Exception ex) {
+                ex.printStackTrace();
+                return false;
             }
-            System.out.println("\nInsertados " + count + " Empleados Nuevos");
-            mongoCollection.insertMany(documents);
-            reader.close();
-            this.installs++;
-            return true;
-            
-        }catch (Exception ex) {
-            ex.printStackTrace();
+        } else {
             return false;
-        }   
-    
+        }
+
     }
 
-    public boolean installProductos(String dbName){
+    public boolean installProductos(String dbName) {
         MongoClient mongoClient = MongoClients.create();
-        MongoDatabase mongoDB = mongoClient.getDatabase(dbName);        
+        MongoDatabase mongoDB = mongoClient.getDatabase(dbName);
+        Boolean collectionExists = mongoClient.getDatabase(this.database).listCollectionNames().into(new ArrayList < String > ()).contains("Clientes");
+        if (!(collectionExists)) {
+            try {
+                File file = new File("./_json/Productos.json");
+                MongoCollection < Document > mongoCollection = mongoDB.getCollection("Productos");
 
-        try {
-            File file = new File("./_json/Productos.json");
-            MongoCollection<Document> mongoCollection = mongoDB.getCollection("Productos");
+                Reader reader = Files.newBufferedReader(Paths.get(file.getAbsolutePath()));
+                List < Productos > productos = new Gson().fromJson(reader, new TypeToken < List < Productos >> () {}.getType());
 
-            Reader reader = Files.newBufferedReader(Paths.get(file.getAbsolutePath()));
-            List<Productos> productos = new Gson().fromJson(reader, new TypeToken<List<Productos>>() {}.getType());
-            
 
-            List<Document> documents = new ArrayList<Document>();
-            int count = 0;
-            for (Productos p:productos) {
-                count++;
-                Document doc = Document.parse(new Gson().toJson(p));
-                documents.add(doc);
+                List < Document > documents = new ArrayList < Document > ();
+                int count = 0;
+                for (Productos p: productos) {
+                    count++;
+                    Document doc = Document.parse(new Gson().toJson(p));
+                    documents.add(doc);
+                }
+                System.out.println("\nInsertados " + count + " Productos Nuevos");
+                mongoCollection.insertMany(documents);
+                reader.close();
+                this.installs++;
+                return true;
+
+            } catch (Exception ex) {
+                ex.printStackTrace();
+                return false;
             }
-            System.out.println("\nInsertados " + count + " Productos Nuevos");
-            mongoCollection.insertMany(documents);
-            reader.close();
-            this.installs++;
-            return true;
-            
-        }catch (Exception ex) {
-            ex.printStackTrace();
+        } else {
             return false;
-        }   
-    
+        }
     }
 
-    public boolean installSucursales(String dbName){
+    public boolean installSucursales(String dbName) {
         MongoClient mongoClient = MongoClients.create();
-        MongoDatabase mongoDB = mongoClient.getDatabase(dbName);        
+        MongoDatabase mongoDB = mongoClient.getDatabase(dbName);
 
-        try {
-            File file = new File("./_json/Sucursales.json");
-            MongoCollection<Document> mongoCollection = mongoDB.getCollection("Sucursales");
+        Boolean collectionExists = mongoClient.getDatabase(this.database).listCollectionNames().into(new ArrayList < String > ()).contains("Clientes");
+        if (!(collectionExists)) {
+            try {
+                File file = new File("./_json/Sucursales.json");
+                MongoCollection < Document > mongoCollection = mongoDB.getCollection("Sucursales");
 
-            Reader reader = Files.newBufferedReader(Paths.get(file.getAbsolutePath()));
-            List<Sucursales> sucursales = new Gson().fromJson(reader, new TypeToken<List<Sucursales>>() {}.getType());
-            
+                Reader reader = Files.newBufferedReader(Paths.get(file.getAbsolutePath()));
+                List < Sucursales > sucursales = new Gson().fromJson(reader, new TypeToken < List < Sucursales >> () {}.getType());
 
-            List<Document> documents = new ArrayList<Document>();
-            int count = 0;
-            for (Sucursales s:sucursales) {
-                count++;
-                Document doc = Document.parse(new Gson().toJson(s));
-                documents.add(doc);
+
+                List < Document > documents = new ArrayList < Document > ();
+                int count = 0;
+                for (Sucursales s: sucursales) {
+                    count++;
+                    Document doc = Document.parse(new Gson().toJson(s));
+                    documents.add(doc);
+                }
+                System.out.println("\nInsertados " + count + " Sucursales Nuevos");
+                mongoCollection.insertMany(documents);
+                reader.close();
+                this.installs++;
+                return true;
+
+            } catch (Exception ex) {
+                ex.printStackTrace();
+                return false;
             }
-            System.out.println("\nInsertados " + count + " Sucursales Nuevos");
-            mongoCollection.insertMany(documents);
-            reader.close();
-            this.installs++;
-            return true;
-            
-        }catch (Exception ex) {
-            ex.printStackTrace();
+        } else {
             return false;
-        }   
-    
+        }
     }
 
-    public boolean installVentas(String dbName){
+    public boolean installVentas(String dbName) {
         MongoClient mongoClient = MongoClients.create();
-        MongoDatabase mongoDB = mongoClient.getDatabase(dbName);        
+        MongoDatabase mongoDB = mongoClient.getDatabase(dbName);
 
-        try {
-            File file = new File("./_json/Ventas.json");
-            MongoCollection<Document> mongoCollection = mongoDB.getCollection("Sucursales");
+        Boolean collectionExists = mongoClient.getDatabase(this.database).listCollectionNames().into(new ArrayList < String > ()).contains("Clientes");
+        if (!(collectionExists)) {
+            try {
+                File file = new File("./_json/Ventas.json");
+                MongoCollection < Document > mongoCollection = mongoDB.getCollection("Sucursales");
 
-            Reader reader = Files.newBufferedReader(Paths.get(file.getAbsolutePath()));
-            List<Ventas> ventas = new Gson().fromJson(reader, new TypeToken<List<Ventas>>() {}.getType());
-            
+                Reader reader = Files.newBufferedReader(Paths.get(file.getAbsolutePath()));
+                List < Ventas > ventas = new Gson().fromJson(reader, new TypeToken < List < Ventas >> () {}.getType());
 
-            List<Document> documents = new ArrayList<Document>();
-            int count = 0;
-            for (Ventas v:ventas) {
-                count++;
-                Document doc = Document.parse(new Gson().toJson(v));
-                documents.add(doc);
+
+                List < Document > documents = new ArrayList < Document > ();
+                int count = 0;
+                for (Ventas v: ventas) {
+                    count++;
+                    Document doc = Document.parse(new Gson().toJson(v));
+                    documents.add(doc);
+                }
+                System.out.println("\nInsertados " + count + " Sucursales Nuevos");
+                mongoCollection.insertMany(documents);
+                reader.close();
+                this.installs++;
+                return true;
+
+            } catch (Exception ex) {
+                ex.printStackTrace();
+                return false;
             }
-            System.out.println("\nInsertados " + count + " Sucursales Nuevos");
-            mongoCollection.insertMany(documents);
-            reader.close();
-            this.installs++;
-            return true;
-            
-        }catch (Exception ex) {
-            ex.printStackTrace();
+        } else {
             return false;
-        }   
-    
+        }
     }
 
 }
