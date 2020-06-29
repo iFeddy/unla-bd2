@@ -23,7 +23,7 @@ public class Consultas {
     public void showResultado(String dbName){
         //Poner un SWITCH con cada consulta if this.id = 0 (Muestra la primer consulta)
         Database db = new Database(dbName); 
-        switch(this.id){
+        switch(this.id - 1){
             case 0:                
                 db.doConsultas(0);   
             break;

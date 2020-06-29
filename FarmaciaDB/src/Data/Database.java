@@ -3,7 +3,9 @@ package Data;
 import com.mongodb.client.MongoClients;
 import com.mongodb.client.MongoClient;
 import com.mongodb.client.MongoDatabase;
+import com.mongodb.client.model.Filters;
 import com.mongodb.client.MongoCollection;
+import com.mongodb.client.MongoCursor;
 
 import java.io.File;
 import java.io.Reader;
@@ -11,10 +13,13 @@ import java.nio.file.Files;
 import java.nio.file.Paths;
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Scanner;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
 import org.bson.Document;
+import org.bson.conversions.Bson;
+
 import com.google.gson.Gson;
 import com.google.gson.reflect.TypeToken;
 
@@ -24,6 +29,8 @@ public class Database {
     public int installs = 0;
     public String database;
 
+    private Scanner input;
+    
     public Database(String dbName) {
         Logger.getLogger("org.mongodb.driver").setLevel(Level.WARNING);
         this.database = dbName;
@@ -199,7 +206,7 @@ public class Database {
                 MongoCollection < Document > mongoCollection = mongoDB.getCollection("Ventas");
 
                 Reader reader = Files.newBufferedReader(Paths.get(file.getAbsolutePath()));
-                List < Ventas > ventas = new Gson().fromJson(reader, new TypeToken < List < Ventas >> () {}.getType());
+                List < Ventas > ventas = new Gson().fromJson(reader, new TypeToken <List<Ventas>> () {}.getType());
 
 
                 List < Document > documents = new ArrayList < Document > ();
@@ -228,8 +235,45 @@ public class Database {
     public void doConsultas(int consulta){
         MongoClient mongoClient = MongoClients.create();
         MongoDatabase mongoDB = mongoClient.getDatabase(this.database);
-        if(consulta == 0){
-            MongoCollection<Document> collection = mongoDB.getCollection("Clientes");
+        this.input = new Scanner(System.in);
+        if(consulta == 0){            
+
+            System.out.print("\nFecha Inicial (Min: 2018-01-01): ");
+            String fechaInicial = input.nextLine();
+            System.out.print("Fecha Final (Max: 2020-06-29): ");
+            String fechaFinal = input.nextLine();
+            
+            //Buscar en la DB las distintas sucursales
+            MongoCollection<Document> mongoCollection = mongoDB.getCollection("Ventas");
+            MongoCursor<Integer> mongoCursor = mongoCollection.distinct("sucursal", Integer.class).iterator();
+
+            while(mongoCursor.hasNext()) {
+                int sucursalNro = mongoCursor.next();
+                float total = 0;
+                Bson bsonFilter = Filters.eq("sucursal", sucursalNro);
+                MongoCursor<Document> mongoCursorSucursal = mongoCollection.find(bsonFilter).iterator(); 
+                //Busca en la DB cada sucursal y suma totales
+                while(mongoCursorSucursal.hasNext()){                    
+                    Ventas ventas = new Gson().fromJson(mongoCursorSucursal.next().toJson(), new TypeToken<Ventas>() {}.getType());
+                    total = total + ventas.getTotal();
+                }
+                System.out.println("Sucursal " + sucursalNro);
+                System.out.println("-------------");
+                System.out.println("Total: $" + total + "\n");
+            }
+
+            /*
+                //Buscar en la DB 
+                MongoCollection<Document> mongoCollection = mongoDB.getCollection("Ventas");
+                MongoCursor<Document> mongoCursor = mongoCollection.find().iterator();
+
+                while(mongoCursor.hasNext()){
+                    
+                    Ventas ventas = new Gson().fromJson(mongoCursor.next().toJson(), new TypeToken<Ventas>() {}.getType());
+                    System.out.println(ventas.getSucursal());
+
+                }
+            */
         }
     }
 }

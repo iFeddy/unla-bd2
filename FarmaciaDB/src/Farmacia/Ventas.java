@@ -1,77 +1,110 @@
+
 package Farmacia;
+
 import java.util.List;
 import com.google.gson.annotations.Expose;
 import com.google.gson.annotations.SerializedName;
 
 public class Ventas {
-    @SerializedName("id")
-    @Expose private String id;
-    @SerializedName("ticket")
-    @Expose private Integer ticket;
-    @SerializedName("total")
-    @Expose private String total;
-    @SerializedName("formapago")
-    @Expose private Integer formapago;
-    @SerializedName("vendedor")
-    @Expose private String vendedor;
-    @SerializedName("cajero")
-    @Expose private String cajero;
-    @SerializedName("inventario")
-    @Expose private List<Inventario> inventario = null;
 
-    public String getId() {
-        return id;
-    }
+@SerializedName("id")
+@Expose
+private String id;
+@SerializedName("ticket")
+@Expose
+private Integer ticket;
+@SerializedName("total")
+@Expose
+private Float total;
+@SerializedName("formapago")
+@Expose
+private Integer formapago;
+@SerializedName("vendedor")
+@Expose
+private String vendedor;
+@SerializedName("cajero")
+@Expose
+private String cajero;
+@SerializedName("inventario")
+@Expose
+private List<Inventario> inventario = null;
+@SerializedName("sucursal")
+@Expose
+private Integer sucursal;
+@SerializedName("fecha")
+@Expose
+private String fecha;
 
-    public void setId(String id) {
-        this.id = id;
-    }
+public String getId() {
+return id;
+}
 
-    public Integer getTicket() {
-        return ticket;
-    }
+public void setId(String id) {
+this.id = id;
+}
 
-    public void setTicket(Integer ticket) {
-        this.ticket = ticket;
-    }
+public Integer getTicket() {
+return ticket;
+}
 
-    public String getTotal() {
-        return total;
-    }
+public void setTicket(Integer ticket) {
+this.ticket = ticket;
+}
 
-    public void setTotal(String total) {
-        this.total = total;
-    }
+public Float getTotal() {
+return total;
+}
 
-    public Integer getFormapago() {
-        return formapago;
-    }
+public void setTotal(Float total) {
+this.total = total;
+}
 
-    public void setFormapago(Integer formapago) {
-        this.formapago = formapago;
-    }
+public Integer getFormapago() {
+return formapago;
+}
 
-    public String getVendedor() {
-        return vendedor;
-    }
+public void setFormapago(Integer formapago) {
+this.formapago = formapago;
+}
 
-    public void setVendedor(String vendedor) {
-        this.vendedor = vendedor;
-    }
+public String getVendedor() {
+return vendedor;
+}
 
-    public String getCajero() {
-        return cajero;
-    }
+public void setVendedor(String vendedor) {
+this.vendedor = vendedor;
+}
 
-    public void setCajero(String cajero) {
-        this.cajero = cajero;
-    }
+public String getCajero() {
+return cajero;
+}
 
-    public List<Inventario> getInventario() {
-        return inventario;
-    }
+public void setCajero(String cajero) {
+this.cajero = cajero;
+}
 
-    public void setInventario(List<Inventario> inventario) {
-        this.inventario = inventario;
-    }
+public List<Inventario> getInventario() {
+return inventario;
+}
+
+public void setInventario(List<Inventario> inventario) {
+this.inventario = inventario;
+}
+
+public Integer getSucursal() {
+return sucursal;
+}
+
+public void setSucursal(Integer sucursal) {
+this.sucursal = sucursal;
+}
+
+public String getFecha() {
+return fecha;
+}
+
+public void setFecha(String fecha) {
+this.fecha = fecha;
+}
+
 }
