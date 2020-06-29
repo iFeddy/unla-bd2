@@ -196,7 +196,7 @@ public class Database {
         if (!(collectionExists)) {
             try {
                 File file = new File("./_json/Ventas.json");
-                MongoCollection < Document > mongoCollection = mongoDB.getCollection("Sucursales");
+                MongoCollection < Document > mongoCollection = mongoDB.getCollection("Ventas");
 
                 Reader reader = Files.newBufferedReader(Paths.get(file.getAbsolutePath()));
                 List < Ventas > ventas = new Gson().fromJson(reader, new TypeToken < List < Ventas >> () {}.getType());
