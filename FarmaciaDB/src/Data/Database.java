@@ -84,7 +84,7 @@ public class Database {
     public boolean installEmpleados(String dbName) {
         MongoClient mongoClient = MongoClients.create();
         MongoDatabase mongoDB = mongoClient.getDatabase(dbName);
-        Boolean collectionExists = mongoClient.getDatabase(this.database).listCollectionNames().into(new ArrayList < String > ()).contains("Clientes");
+        Boolean collectionExists = mongoClient.getDatabase(this.database).listCollectionNames().into(new ArrayList < String > ()).contains("Empleados");
         if (!(collectionExists)) {
             try {
                 File file = new File("./_json/Empleados.json");
@@ -120,7 +120,7 @@ public class Database {
     public boolean installProductos(String dbName) {
         MongoClient mongoClient = MongoClients.create();
         MongoDatabase mongoDB = mongoClient.getDatabase(dbName);
-        Boolean collectionExists = mongoClient.getDatabase(this.database).listCollectionNames().into(new ArrayList < String > ()).contains("Clientes");
+        Boolean collectionExists = mongoClient.getDatabase(this.database).listCollectionNames().into(new ArrayList < String > ()).contains("Productos");
         if (!(collectionExists)) {
             try {
                 File file = new File("./_json/Productos.json");
@@ -156,7 +156,7 @@ public class Database {
         MongoClient mongoClient = MongoClients.create();
         MongoDatabase mongoDB = mongoClient.getDatabase(dbName);
 
-        Boolean collectionExists = mongoClient.getDatabase(this.database).listCollectionNames().into(new ArrayList < String > ()).contains("Clientes");
+        Boolean collectionExists = mongoClient.getDatabase(this.database).listCollectionNames().into(new ArrayList < String > ()).contains("Sucursales");
         if (!(collectionExists)) {
             try {
                 File file = new File("./_json/Sucursales.json");
@@ -192,7 +192,7 @@ public class Database {
         MongoClient mongoClient = MongoClients.create();
         MongoDatabase mongoDB = mongoClient.getDatabase(dbName);
 
-        Boolean collectionExists = mongoClient.getDatabase(this.database).listCollectionNames().into(new ArrayList < String > ()).contains("Clientes");
+        Boolean collectionExists = mongoClient.getDatabase(this.database).listCollectionNames().into(new ArrayList < String > ()).contains("Ventas");
         if (!(collectionExists)) {
             try {
                 File file = new File("./_json/Ventas.json");
