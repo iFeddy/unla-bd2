@@ -20,11 +20,15 @@ public class Consultas {
         System.out.println(consultasTexto[this.id - 1]);    
 	}
     
-    public void showResultado(){
-        //Poner un SWITCH con cada consulta if this.id = 0 (Muestra la primer consulta)  
+    public void showResultado(String dbName){
+        //Poner un SWITCH con cada consulta if this.id = 0 (Muestra la primer consulta)
+        Database db = new Database(dbName); 
         switch(this.id){
+            case 0:                
+                db.doConsultas(0);   
+            break;
             default:
-                System.out.println("\nAca iria el preguntas/esultado de cada consulta");
+                System.out.println("\nError Consulta no Encontrada");
             break;
         }  
     }

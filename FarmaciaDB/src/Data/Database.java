@@ -173,7 +173,7 @@ public class Database {
                     Document doc = Document.parse(new Gson().toJson(s));
                     documents.add(doc);
                 }
-                System.out.println("\nInsertados " + count + " Sucursales Nuevos");
+                System.out.println("\nInsertadas " + count + " Sucursales Nuevos");
                 mongoCollection.insertMany(documents);
                 reader.close();
                 this.installs++;
@@ -209,7 +209,7 @@ public class Database {
                     Document doc = Document.parse(new Gson().toJson(v));
                     documents.add(doc);
                 }
-                System.out.println("\nInsertados " + count + " Sucursales Nuevos");
+                System.out.println("\nInsertadas " + count + " Ventas Nuevos");
                 mongoCollection.insertMany(documents);
                 reader.close();
                 this.installs++;
@@ -224,4 +224,12 @@ public class Database {
         }
     }
 
+    //Ver si devuelve void o List
+    public void doConsultas(int consulta){
+        MongoClient mongoClient = MongoClients.create();
+        MongoDatabase mongoDB = mongoClient.getDatabase(this.database);
+        if(consulta == 0){
+            MongoCollection<Document> collection = mongoDB.getCollection("Clientes");
+        }
+    }
 }

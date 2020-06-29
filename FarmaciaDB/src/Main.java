@@ -25,7 +25,7 @@ public class Main{
                 db.install();                
             } else if (isBetween(opcion, 2, 9)) {
                 Consultas query = new Consultas(opcion);
-                query.showResultado();
+                query.showResultado(dbName);
             } else {
                 opcion = 0;
             }
