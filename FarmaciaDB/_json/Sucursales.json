@@ -1,122 +1,132 @@
 [
   {
-    "id": "5ee12f91ebde7f17dad1410c",
+    "id": "5efbdaf1f2adea68d55c3f2f",
     "sucursal": 0,
-    "puntoventa": 8341,
+    "puntoventa": 2913,
     "domicilio": {
       "id": 0,
-      "calle": "495 Hope Street",
-      "localidad": "Elfrida",
+      "calle": "476 Schweikerts Walk",
+      "localidad": "Grazierville",
       "provincia": "Puerto Rico"
     },
-    "encargado": "76adc822-63d1-40a1-89f0-908ff638027a"
+    "encargado": "9b2b5ffb-88aa-4828-8969-805d93efb0ec",
+    "tipo": 0
   },
   {
-    "id": "5ee12f91ce03e795aae36447",
+    "id": "5efbdaf1b0af3fc5fefb2a6f",
     "sucursal": 1,
-    "puntoventa": 5592,
+    "puntoventa": 732,
     "domicilio": {
       "id": 1,
-      "calle": "966 Caton Avenue",
-      "localidad": "Why",
-      "provincia": "Hawaii"
+      "calle": "523 Hinckley Place",
+      "localidad": "Chapin",
+      "provincia": "Maryland"
     },
-    "encargado": "0b08f06e-76c8-4723-9733-3a1677f0b0f2"
+    "encargado": "a439543b-0858-4436-b4d8-cd5f66044894",
+    "tipo": 0
   },
   {
-    "id": "5ee12f9182dd8eaf64fdd57b",
+    "id": "5efbdaf11bb89c1b3c8e1f29",
     "sucursal": 2,
-    "puntoventa": 8214,
+    "puntoventa": 7463,
     "domicilio": {
       "id": 2,
-      "calle": "999 Llama Court",
-      "localidad": "Stouchsburg",
-      "provincia": "North Dakota"
+      "calle": "443 Melrose Street",
+      "localidad": "Aurora",
+      "provincia": "Minnesota"
     },
-    "encargado": "c73fdb76-8d4e-453d-a4c5-8dc602475caf"
+    "encargado": "2362a976-156c-4c2a-bf29-4a68f57789a5",
+    "tipo": 0
   },
   {
-    "id": "5ee12f910f6c0de187707b53",
+    "id": "5efbdaf18e90e0b474966669",
     "sucursal": 3,
-    "puntoventa": 8069,
+    "puntoventa": 6829,
     "domicilio": {
       "id": 3,
-      "calle": "864 College Place",
-      "localidad": "Columbus",
-      "provincia": "New Hampshire"
-    },
-    "encargado": "7bf8e48c-41e7-47c2-b1f9-c91b1f796f5a"
-  },
-  {
-    "id": "5ee12f91195bb57635d145c6",
-    "sucursal": 4,
-    "puntoventa": 9441,
-    "domicilio": {
-      "id": 4,
-      "calle": "898 Lefferts Place",
-      "localidad": "Lisco",
+      "calle": "798 Beard Street",
+      "localidad": "Riceville",
       "provincia": "Marshall Islands"
     },
-    "encargado": "09b0eae2-69e9-490f-b26f-2f3f26c25c98"
+    "encargado": "2d25dbe5-552f-4f71-ab12-82ccfdadbac0",
+    "tipo": 1
   },
   {
-    "id": "5ee12f91bdf2a14874fd9c3d",
+    "id": "5efbdaf1e66bc9e5752036b2",
+    "sucursal": 4,
+    "puntoventa": 917,
+    "domicilio": {
+      "id": 4,
+      "calle": "240 Devoe Street",
+      "localidad": "Gibbsville",
+      "provincia": "Hawaii"
+    },
+    "encargado": "f4f3bede-1655-4123-b90c-db5b2f42409a",
+    "tipo": 1
+  },
+  {
+    "id": "5efbdaf114b98fb1abe4c766",
     "sucursal": 5,
-    "puntoventa": 6258,
+    "puntoventa": 9999,
     "domicilio": {
       "id": 5,
-      "calle": "644 Rutherford Place",
-      "localidad": "Tolu",
-      "provincia": "Virginia"
+      "calle": "875 Dodworth Street",
+      "localidad": "Unionville",
+      "provincia": "Arkansas"
     },
-    "encargado": "51c6c8b4-fad9-47fc-ad84-84d1adcd2078"
+    "encargado": "90235d46-8821-4024-b9fa-82325085b13e",
+    "tipo": 0
   },
   {
-    "id": "5ee12f91ca207623919a86c0",
+    "id": "5efbdaf164e0484e136cb252",
     "sucursal": 6,
-    "puntoventa": 9611,
+    "puntoventa": 2842,
     "domicilio": {
       "id": 6,
-      "calle": "484 Baughman Place",
-      "localidad": "Unionville",
-      "provincia": "Massachusetts"
+      "calle": "879 Brooklyn Avenue",
+      "localidad": "Cotopaxi",
+      "provincia": "Indiana"
     },
-    "encargado": "53b24456-c7b0-41d5-9f92-4657967d0979"
+    "encargado": "8dcc794f-8719-40d9-87e1-ca29b8a4b09c",
+    "tipo": 0
   },
   {
-    "id": "5ee12f91c95b620a5ca01ff9",
+    "id": "5efbdaf1a2a4e556f86784f8",
     "sucursal": 7,
-    "puntoventa": 6773,
+    "puntoventa": 1144,
     "domicilio": {
       "id": 7,
-      "calle": "767 Plaza Street",
-      "localidad": "Jessie",
-      "provincia": "Texas"
-    },
-    "encargado": "5a32f936-91bb-4bac-b9e8-d1f56b14c1cc"
-  },
-  {
-    "id": "5ee12f914d9815632686ffb2",
-    "sucursal": 8,
-    "puntoventa": 5307,
-    "domicilio": {
-      "id": 8,
-      "calle": "943 Cooke Court",
-      "localidad": "Teasdale",
-      "provincia": "Iowa"
-    },
-    "encargado": "5f5f8cb5-879b-4902-a0e2-0d0964ab4337"
-  },
-  {
-    "id": "5ee12f912e87a94e13d335eb",
-    "sucursal": 9,
-    "puntoventa": 4182,
-    "domicilio": {
-      "id": 9,
-      "calle": "605 Vanderbilt Street",
-      "localidad": "Garfield",
+      "calle": "839 Knapp Street",
+      "localidad": "Neahkahnie",
       "provincia": "Missouri"
     },
-    "encargado": "4253567a-7231-4b08-8b18-a9f1507d695b"
+    "encargado": "96ae6447-bba0-4180-a670-fee9696589f2",
+    "tipo": 0
+  },
+  {
+    "id": "5efbdaf118074e0226223397",
+    "sucursal": 8,
+    "puntoventa": 1254,
+    "domicilio": {
+      "id": 8,
+      "calle": "635 Montrose Avenue",
+      "localidad": "Gerton",
+      "provincia": "Rhode Island"
+    },
+    "encargado": "9b57a13e-2240-4365-980c-0e9edff7f0a2",
+    "tipo": 0
+  },
+  {
+    "id": "5efbdaf1e41b2ce5623661b4",
+    "sucursal": 9,
+    "puntoventa": 8447,
+    "domicilio": {
+      "id": 9,
+      "calle": "772 Gerritsen Avenue",
+      "localidad": "Bradenville",
+      "provincia": "South Carolina"
+    },
+    "encargado": "7d25a68c-5057-454d-af0b-26a59ba5c024",
+    "tipo": 1
   }
 ]

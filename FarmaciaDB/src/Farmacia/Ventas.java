@@ -1,4 +1,3 @@
-
 package Farmacia;
 
 import java.util.List;
@@ -28,6 +27,9 @@ private String cajero;
 @SerializedName("inventario")
 @Expose
 private List<Inventario> inventario = null;
+@SerializedName("tipoos")
+@Expose
+private Integer tipoos;
 @SerializedName("sucursal")
 @Expose
 private Integer sucursal;
@@ -89,6 +91,14 @@ return inventario;
 
 public void setInventario(List<Inventario> inventario) {
 this.inventario = inventario;
+}
+
+public Integer getTipoos() {
+return tipoos;
+}
+
+public void setTipoos(Integer tipoos) {
+this.tipoos = tipoos;
 }
 
 public Integer getSucursal() {

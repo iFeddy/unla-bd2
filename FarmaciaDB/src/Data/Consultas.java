@@ -27,6 +27,15 @@ public class Consultas {
             case 0:                
                 db.doConsultas(0);   
             break;
+            case 1:                
+                db.doConsultas(1);   
+            break;
+            case 2:                
+                db.doConsultas(2);   
+            break;
+            case 3:                
+                db.doConsultas(3);   
+            break;
             default:
                 System.out.println("\nError Consulta no Encontrada");
             break;

@@ -11,7 +11,11 @@ import java.io.File;
 import java.io.Reader;
 import java.nio.file.Files;
 import java.nio.file.Paths;
+import java.text.DecimalFormat;
+import java.text.ParseException;
+import java.text.SimpleDateFormat;
 import java.util.ArrayList;
+import java.util.Date;
 import java.util.List;
 import java.util.Scanner;
 import java.util.logging.Level;
@@ -30,6 +34,25 @@ public class Database {
     public String database;
 
     private Scanner input;
+    private static DecimalFormat decimalFormat = new DecimalFormat("0.00");
+    private static SimpleDateFormat dateFormat = new SimpleDateFormat("yyyy-MM-dd");
+    
+    private String[] formaPagos= {
+        "-",
+        "Efectivo",
+        "Tarjeta de Credito",
+        "MercadoPago"
+    };
+
+    private String[] tipoVenta= {
+        "Obra Social",
+        "Privado"
+    };
+
+    private String[] tipoSucursal= {
+        "Farmacia",
+        "Perfumeria"
+    };
     
     public Database(String dbName) {
         Logger.getLogger("org.mongodb.driver").setLevel(Level.WARNING);
@@ -206,8 +229,7 @@ public class Database {
                 MongoCollection < Document > mongoCollection = mongoDB.getCollection("Ventas");
 
                 Reader reader = Files.newBufferedReader(Paths.get(file.getAbsolutePath()));
-                List < Ventas > ventas = new Gson().fromJson(reader, new TypeToken <List<Ventas>> () {}.getType());
-
+                List < Ventas > ventas = new Gson().fromJson(reader, new TypeToken < List < Ventas >> () {}.getType());
 
                 List < Document > documents = new ArrayList < Document > ();
                 int count = 0;
@@ -232,48 +254,279 @@ public class Database {
     }
 
     //Ver si devuelve void o List
-    public void doConsultas(int consulta){
+    public void doConsultas(int consulta) {
         MongoClient mongoClient = MongoClients.create();
         MongoDatabase mongoDB = mongoClient.getDatabase(this.database);
         this.input = new Scanner(System.in);
-        if(consulta == 0){            
+        if (consulta == 0) {
 
-            System.out.print("\nFecha Inicial (Min: 2018-01-01): ");
-            String fechaInicial = input.nextLine();
+            System.out.print("\nFecha Inicial (Min: 2015-01-01): ");
+            String inputFechaInicial = input.nextLine();
             System.out.print("Fecha Final (Max: 2020-06-29): ");
-            String fechaFinal = input.nextLine();
-            
-            //Buscar en la DB las distintas sucursales
-            MongoCollection<Document> mongoCollection = mongoDB.getCollection("Ventas");
-            MongoCursor<Integer> mongoCursor = mongoCollection.distinct("sucursal", Integer.class).iterator();
+            String inputFechaFinal = input.nextLine();
 
-            while(mongoCursor.hasNext()) {
+            Date fechaInicial = null;
+            try {
+
+                fechaInicial = dateFormat.parse(inputFechaInicial);
+            } catch (ParseException e) {
+                e.printStackTrace();
+            }
+            Date fechaFinal = null;
+            try {
+
+                fechaFinal = dateFormat.parse(inputFechaFinal);
+            } catch (ParseException e) {
+                e.printStackTrace();
+            }
+
+            //Buscar en la DB las distintas sucursales
+            MongoCollection < Document > mongoCollection = mongoDB.getCollection("Ventas");
+            MongoCursor < Integer > mongoCursor = mongoCollection.distinct("sucursal", Integer.class).iterator();
+
+            while (mongoCursor.hasNext()) {
                 int sucursalNro = mongoCursor.next();
                 float total = 0;
                 Bson bsonFilter = Filters.eq("sucursal", sucursalNro);
-                MongoCursor<Document> mongoCursorSucursal = mongoCollection.find(bsonFilter).iterator(); 
+                MongoCursor < Document > mongoCursorSucursal = mongoCollection.find(bsonFilter).iterator();
                 //Busca en la DB cada sucursal y suma totales
-                while(mongoCursorSucursal.hasNext()){                    
-                    Ventas ventas = new Gson().fromJson(mongoCursorSucursal.next().toJson(), new TypeToken<Ventas>() {}.getType());
-                    total = total + ventas.getTotal();
-                }
                 System.out.println("Sucursal " + sucursalNro);
-                System.out.println("-------------");
-                System.out.println("Total: $" + total + "\n");
-            }
-
-            /*
-                //Buscar en la DB 
-                MongoCollection<Document> mongoCollection = mongoDB.getCollection("Ventas");
-                MongoCursor<Document> mongoCursor = mongoCollection.find().iterator();
-
-                while(mongoCursor.hasNext()){
-                    
-                    Ventas ventas = new Gson().fromJson(mongoCursor.next().toJson(), new TypeToken<Ventas>() {}.getType());
-                    System.out.println(ventas.getSucursal());
-
+                System.out.println("--------------------------------------------------");
+                System.out.println("Ticket Nro | Total | Forma de Pago | Cajero | Fecha");
+                while (mongoCursorSucursal.hasNext()) {                    
+                    Ventas ventas = new Gson().fromJson(mongoCursorSucursal.next().toJson(), new TypeToken < Ventas > () {}.getType());
+                    Date fechaVenta = null;
+                    try{
+                        fechaVenta = dateFormat.parse(ventas.getFecha());
+                    }catch (ParseException e) {
+                        e.printStackTrace();
+                    }
+                    if (!fechaInicial.after(fechaVenta) && !fechaFinal.before(fechaVenta)) {
+                        System.out.println(ventas.getTicket() + "|"+ ventas.getTotal() +"|"+ formaPagos[ventas.getFormapago()] +"|"+ ventas.getCajero() + "|" + ventas.getFecha());
+                        total = total + ventas.getTotal();
+                    }                    
                 }
-            */
+                System.out.println("Total: $" + decimalFormat.format(total) + "\n");
+            }           
         }
+    
+        if (consulta == 1) {
+
+            System.out.print("\nFecha Inicial (Min: 2015-01-01): ");
+            String inputFechaInicial = input.nextLine();
+            System.out.print("Fecha Final (Max: 2020-06-29): ");
+            String inputFechaFinal = input.nextLine();
+
+            Date fechaInicial = null;
+            try {
+
+                fechaInicial = dateFormat.parse(inputFechaInicial);
+            } catch (ParseException e) {
+                e.printStackTrace();
+            }
+            Date fechaFinal = null;
+            try {
+
+                fechaFinal = dateFormat.parse(inputFechaFinal);
+            } catch (ParseException e) {
+                e.printStackTrace();
+            }
+            MongoCollection < Document > mongoCollection = mongoDB.getCollection("Ventas");
+            MongoCursor < Integer > mongoCursor = mongoCollection.distinct("sucursal", Integer.class).iterator();
+
+            System.out.println("\n\nDetalles Cadena Completa");
+            System.out.println("--------------------------------------------------\n");
+            System.out.println("Sucursal | Ventas | Total");
+            System.out.println("-------------------------");
+            float total = 0;
+            float obraSocial = 0;
+            float privado = 0;
+
+            while (mongoCursor.hasNext()) {
+                int sucursalNro = mongoCursor.next();
+                int cantidadVentas = 0;
+                float subTotal = 0;
+
+                Bson bsonFilter = Filters.eq("sucursal", sucursalNro);
+                MongoCursor < Document > mongoCursorSucursal = mongoCollection.find(bsonFilter).iterator();
+                //Busca en la DB cada sucursal y suma totales               
+                
+                while (mongoCursorSucursal.hasNext()) {                    
+                    Ventas ventas = new Gson().fromJson(mongoCursorSucursal.next().toJson(), new TypeToken < Ventas > () {}.getType());
+                    Date fechaVenta = null;
+                    try{
+                        fechaVenta = dateFormat.parse(ventas.getFecha());
+                    }catch (ParseException e) {
+                        e.printStackTrace();
+                    }
+                    if (!fechaInicial.after(fechaVenta) && !fechaFinal.before(fechaVenta)) {
+                        subTotal = subTotal + ventas.getTotal();
+                        cantidadVentas = cantidadVentas + 1;
+                        if(ventas.getTipoos() == 0){
+                            obraSocial = obraSocial + ventas.getTotal();
+                        }else{
+                            privado = privado + ventas.getTotal();
+                        }
+                    }                    
+                }
+                System.out.println(sucursalNro + "\t | " + cantidadVentas + "\t | $" + decimalFormat.format(subTotal));
+                total = total + subTotal;                
+            }  
+            System.out.println("\nTotal Ventas por Obras Sociales: $" + decimalFormat.format(obraSocial) + "\n");
+            System.out.println("\nTotal Ventas por Privados: $" + decimalFormat.format(privado) + "\n");
+            System.out.println("\nTotal Ventas de Cadena: $" + decimalFormat.format(total) + "\n");    
+        }
+
+        if (consulta == 2)  {
+
+            System.out.print("\nFecha Inicial (Min: 2015-01-01): ");
+            String inputFechaInicial = input.nextLine();
+            System.out.print("Fecha Final (Max: 2020-06-29): ");
+            String inputFechaFinal = input.nextLine();
+
+            Date fechaInicial = null;
+            try {
+
+                fechaInicial = dateFormat.parse(inputFechaInicial);
+            } catch (ParseException e) {
+                e.printStackTrace();
+            }
+            Date fechaFinal = null;
+            try {
+
+                fechaFinal = dateFormat.parse(inputFechaFinal);
+            } catch (ParseException e) {
+                e.printStackTrace();
+            }
+            MongoCollection < Document > mongoCollection = mongoDB.getCollection("Ventas");
+            MongoCursor < Integer > mongoCursor = mongoCollection.distinct("sucursal", Integer.class).iterator();
+
+            System.out.println("\n\nDetalles Cadena Completa");
+            System.out.println("--------------------------------------------------\n");
+            System.out.println("Sucursal | Ventas | Total");
+            System.out.println("-------------------------");
+            float total = 0;
+
+            float tarjeta = 0;
+            float efectivo = 0;
+            float mercadopago = 0;
+
+            while (mongoCursor.hasNext()) {
+                int sucursalNro = mongoCursor.next();
+                int cantidadVentas = 0;
+                float subTotal = 0;
+
+                Bson bsonFilter = Filters.eq("sucursal", sucursalNro);
+                MongoCursor < Document > mongoCursorSucursal = mongoCollection.find(bsonFilter).iterator();
+                //Busca en la DB cada sucursal y suma totales               
+                
+                while (mongoCursorSucursal.hasNext()) {                    
+                    Ventas ventas = new Gson().fromJson(mongoCursorSucursal.next().toJson(), new TypeToken < Ventas > () {}.getType());
+                    Date fechaVenta = null;
+                    try{
+                        fechaVenta = dateFormat.parse(ventas.getFecha());
+                    }catch (ParseException e) {
+                        e.printStackTrace();
+                    }
+                    if (!fechaInicial.after(fechaVenta) && !fechaFinal.before(fechaVenta)) {
+                        subTotal = subTotal + ventas.getTotal();
+                        cantidadVentas = cantidadVentas + 1;
+                        if(ventas.getFormapago() == 1){
+                            efectivo = efectivo + ventas.getTotal();
+                        }else if(ventas.getFormapago() == 2){
+                            tarjeta = tarjeta + ventas.getTotal();
+                        }
+                        else{
+                            mercadopago = mercadopago + ventas.getTotal();
+                        }
+                    }                    
+                }
+                System.out.println(sucursalNro + "\t | " + cantidadVentas + "\t | $" + decimalFormat.format(subTotal));
+                total = total + subTotal;                
+            }  
+
+            System.out.println("\nTotal Ventas en Efectivo: $" + decimalFormat.format(efectivo) + "");
+            System.out.println("\nTotal Ventas con Tarjetas: $" + decimalFormat.format(tarjeta) + "");
+            System.out.println("\nTotal Ventas con MercadoPago: $" + decimalFormat.format(mercadopago) + "\n"); 
+            System.out.println("\nTotal Ventas Cadena: $" + decimalFormat.format(total) + "\n");    
+        }       
+        
+
+        if (consulta == 3)  {
+
+            System.out.print("\nFecha Inicial (Min: 2015-01-01): ");
+            String inputFechaInicial = input.nextLine();
+            System.out.print("Fecha Final (Max: 2020-06-29): ");
+            String inputFechaFinal = input.nextLine();
+
+            Date fechaInicial = null;
+            try {
+
+                fechaInicial = dateFormat.parse(inputFechaInicial);
+            } catch (ParseException e) {
+                e.printStackTrace();
+            }
+            Date fechaFinal = null;
+            try {
+
+                fechaFinal = dateFormat.parse(inputFechaFinal);
+            } catch (ParseException e) {
+                e.printStackTrace();
+            }
+            MongoCollection < Document > mongoCollection = mongoDB.getCollection("Ventas");
+            MongoCollection < Document > mongoCollectionSucursales = mongoDB.getCollection("Sucursales");
+
+            MongoCursor < Integer > mongoCursor = mongoCollection.distinct("sucursal", Integer.class).iterator();
+
+            System.out.println("\n\nDetalles Farmacia/Perfumerias");
+            System.out.println("--------------------------------------------------\n");
+            System.out.println("Sucursal | Tipo | Ventas | Total");
+            System.out.println("---------------------------------");
+            float total = 0;
+
+            float farmacia = 0;
+            float perfumeria = 0;
+
+            while (mongoCursor.hasNext()) {
+                int sucursalNro = mongoCursor.next();
+                int cantidadVentas = 0;
+                float subTotal = 0;
+
+                Bson bsonFilter = Filters.eq("sucursal", sucursalNro);
+                MongoCursor < Document > mongoCursorSucursal = mongoCollection.find(bsonFilter).iterator();
+                //Busca en la DB cada sucursal y suma totales               
+                
+                while (mongoCursorSucursal.hasNext()) {                    
+                    Ventas ventas = new Gson().fromJson(mongoCursorSucursal.next().toJson(), new TypeToken < Ventas > () {}.getType());
+                    Date fechaVenta = null;
+                    try{
+                        fechaVenta = dateFormat.parse(ventas.getFecha());
+                    }catch (ParseException e) {
+                        e.printStackTrace();
+                    }
+                    if (!fechaInicial.after(fechaVenta) && !fechaFinal.before(fechaVenta)) {
+                        subTotal = subTotal + ventas.getTotal();
+                        cantidadVentas = cantidadVentas + 1;                       
+                    }                    
+                }
+
+                MongoCursor <Document> mongoCursorSucursales = mongoCollectionSucursales.find(bsonFilter).iterator();
+                Sucursales sucursales = new Gson().fromJson(mongoCursorSucursales.next().toJson(), new TypeToken <Sucursales> () {}.getType());
+                if(sucursales.getTipo() == 1){
+                    perfumeria = perfumeria + subTotal;
+                }else{
+                    farmacia = farmacia + subTotal;
+                }
+
+                System.out.println(sucursalNro + "\t | " + tipoSucursal[sucursales.getTipo()] + " \t | " + cantidadVentas + "\t | $" + decimalFormat.format(subTotal));
+                total = total + subTotal; 
+
+            }  
+
+            System.out.println("\nTotal Ventas en Farmacias: $" + decimalFormat.format(farmacia) + "");
+            System.out.println("\nTotal Ventas en Perfumerias: $" + decimalFormat.format(perfumeria) + "");
+
+            System.out.println("\nTotal Ventas Cadena: $" + decimalFormat.format(total) + "\n");    
+        } 
     }
 }
