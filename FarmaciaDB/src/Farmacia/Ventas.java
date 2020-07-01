@@ -24,6 +24,9 @@ private String vendedor;
 @SerializedName("cajero")
 @Expose
 private String cajero;
+@SerializedName("cliente")
+@Expose
+private String cliente;
 @SerializedName("inventario")
 @Expose
 private List<Inventario> inventario = null;
@@ -83,6 +86,14 @@ return cajero;
 
 public void setCajero(String cajero) {
 this.cajero = cajero;
+}
+
+public String getCliente() {
+return cliente;
+}
+
+public void setCliente(String cliente) {
+this.cliente = cliente;
 }
 
 public List<Inventario> getInventario() {
