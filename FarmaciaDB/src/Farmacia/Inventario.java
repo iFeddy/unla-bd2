@@ -5,65 +5,82 @@ import com.google.gson.annotations.SerializedName;
 
 public class Inventario {
 
-    @SerializedName("id")
-    @Expose private String id;
-    @SerializedName("tipo")
-    @Expose private Integer tipo;
-    @SerializedName("desc")
-    @Expose private String desc;
-    @SerializedName("laboratorio")
-    @Expose private String laboratorio;
-    @SerializedName("codnum")
-    @Expose private Integer codnum;
-    @SerializedName("precio")
-    @Expose private String precio;
+@SerializedName("id")
+@Expose
+private String id;
+@SerializedName("tipo")
+@Expose
+private Integer tipo;
+@SerializedName("desc")
+@Expose
+private String desc;
+@SerializedName("laboratorio")
+@Expose
+private String laboratorio;
+@SerializedName("codnum")
+@Expose
+private Integer codnum;
+@SerializedName("precio")
+@Expose
+private Float precio;
+@SerializedName("cant")
+@Expose
+private Integer cant;
 
-    public String getId() {
-        return id;
-    }
+public String getId() {
+return id;
+}
 
-    public void setId(String id) {
-        this.id = id;
-    }
+public void setId(String id) {
+this.id = id;
+}
 
-    public Integer getTipo() {
-        return tipo;
-    }
+public Integer getTipo() {
+return tipo;
+}
 
-    public void setTipo(Integer tipo) {
-        this.tipo = tipo;
-    }
+public void setTipo(Integer tipo) {
+this.tipo = tipo;
+}
 
-    public String getDesc() {
-        return desc;
-    }
+public String getDesc() {
+return desc;
+}
 
-    public void setDesc(String desc) {
-        this.desc = desc;
-    }
+public void setDesc(String desc) {
+this.desc = desc;
+}
 
-    public String getLaboratorio() {
-        return laboratorio;
-    }
+public String getLaboratorio() {
+return laboratorio;
+}
 
-    public void setLaboratorio(String laboratorio) {
-        this.laboratorio = laboratorio;
-    }
+public void setLaboratorio(String laboratorio) {
+this.laboratorio = laboratorio;
+}
 
-    public Integer getCodnum() {
-        return codnum;
-    }
+public Integer getCodnum() {
+return codnum;
+}
 
-    public void setCodnum(Integer codnum) {
-        this.codnum = codnum;
-    }
+public void setCodnum(Integer codnum) {
+this.codnum = codnum;
+}
 
-    public String getPrecio() {
-        return precio;
-    }
+public Float getPrecio() {
+return precio;
+}
 
-    public void setPrecio(String precio) {
-        this.precio = precio;
-    }
+public void setPrecio(Float precio) {
+this.precio = precio;
+}
+
+public Integer getCant() {
+return cant;
+}
+
+public void setCant(Integer cant) {
+this.cant = cant;
+}
 
 }

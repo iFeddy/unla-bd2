@@ -1,6 +1,7 @@
 package Data;
 
 import com.mongodb.client.MongoClients;
+import com.mongodb.BasicDBObject;
 import com.mongodb.client.MongoClient;
 import com.mongodb.client.MongoDatabase;
 import com.mongodb.client.model.Filters;
@@ -528,5 +529,81 @@ public class Database {
 
             System.out.println("\nTotal Ventas Cadena: $" + decimalFormat.format(total) + "\n");    
         } 
+
+        if(consulta == 4){
+            System.out.print("\nFecha Inicial (Min: 2015-01-01): ");
+            String inputFechaInicial = input.nextLine();
+            System.out.print("Fecha Final (Max: 2020-06-29): ");
+            String inputFechaFinal = input.nextLine();
+
+            Date fechaInicial = null;
+            try {
+
+                fechaInicial = dateFormat.parse(inputFechaInicial);
+            } catch (ParseException e) {
+                e.printStackTrace();
+            }
+            Date fechaFinal = null;
+            try {
+
+                fechaFinal = dateFormat.parse(inputFechaFinal);
+            } catch (ParseException e) {
+                e.printStackTrace();
+            }
+            MongoCollection < Document > mongoCollection = mongoDB.getCollection("Ventas");
+            MongoCollection < Document > mongoCollectionSucursales = mongoDB.getCollection("Sucursales");
+
+            MongoCursor < Integer > mongoCursor = mongoCollection.distinct("sucursal", Integer.class).iterator();
+
+            System.out.println("\n\nDetalles Farmacia/Perfumerias");
+            System.out.println("--------------------------------------------------\n");
+            System.out.println("Sucursal | Tipo | Ventas | Total");
+            System.out.println("---------------------------------");
+            float total = 0;
+
+            float farmacia = 0;
+            float perfumeria = 0;
+
+            while (mongoCursor.hasNext()) {
+                int sucursalNro = mongoCursor.next();
+                int cantidadVentas = 0;
+                float subTotal = 0;
+
+                Bson bsonFilter = Filters.eq("sucursal", sucursalNro);
+                MongoCursor <Document> mongoCursorSucursal = mongoCollection.find(bsonFilter).sort(new BasicDBObject("inventario.precio",-1)).limit(5).iterator();
+                //Busca en la DB cada sucursal y suma totales               
+                
+                while (mongoCursorSucursal.hasNext()) {                    
+                    Ventas ventas = new Gson().fromJson(mongoCursorSucursal.next().toJson(), new TypeToken <Ventas> () {}.getType());
+                    Date fechaVenta = null;
+                    try{
+                        fechaVenta = dateFormat.parse(ventas.getFecha());
+                    }catch (ParseException e) {
+                        e.printStackTrace();
+                    }
+                    if (!fechaInicial.after(fechaVenta) && !fechaFinal.before(fechaVenta)) {
+                        subTotal = subTotal + ventas.getTotal();
+                        cantidadVentas = cantidadVentas + 1;                       
+                    }                    
+                }
+
+                MongoCursor <Document> mongoCursorSucursales = mongoCollectionSucursales.find(bsonFilter).iterator();
+                Sucursales sucursales = new Gson().fromJson(mongoCursorSucursales.next().toJson(), new TypeToken <Sucursales> () {}.getType());
+                if(sucursales.getTipo() == 1){
+                    perfumeria = perfumeria + subTotal;
+                }else{
+                    farmacia = farmacia + subTotal;
+                }
+
+                System.out.println(sucursalNro + "\t | " + tipoSucursal[sucursales.getTipo()] + " \t | " + cantidadVentas + "\t | $" + decimalFormat.format(subTotal));
+                total = total + subTotal; 
+
+            }  
+
+            System.out.println("\nTotal Ventas en Farmacias: $" + decimalFormat.format(farmacia) + "");
+            System.out.println("\nTotal Ventas en Perfumerias: $" + decimalFormat.format(perfumeria) + "");
+
+            System.out.println("\nTotal Ventas Cadena: $" + decimalFormat.format(total) + "\n");               
+        }
     }
 }
