@@ -1,0 +1,31 @@
+Programa en Java
+
+Esta programado con VSCode. Adjunto Imagenes de la consola por las dudas que tengas problemas para correrlo. Cualquier cosa avisame.
+
+[Proyecto]
+
+----[_screenshot] <- Imagenes de los Resultados de la consola
+----[lib] <- Librerias externas
+----[src] <- Codigo Fuente
+--------[Data]  <- Clases Relacionadas con los datos de mongo
+--------[Farmacia] <- Clases Relacionadas con los locales
+----Main.java <- Programa Principal
+
+*Consultas Puntos 4-8
+
+//Loop por sucursales y filtro de fechas
+db.Ventas.find({
+        sucursal: 1
+    })
+    .sort({
+        "inventario.precio": -1
+    })
+    .limit(100)
+//Filtro para los Clientes 
+db.Clientes.find({})
+   .projection({})
+   .sort({_id:-1})
+   .limit(100)
+
+
+    
